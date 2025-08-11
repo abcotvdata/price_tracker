@@ -71,5 +71,5 @@ gas <- gas %>% mutate(date_updated = (date)+1) %>% select(-8)
 
 gas <- gas %>% select(1,2,3,4,7,5,6,8,9,10)
 
-write_csv(gas,"gas_data.csv")
-write_json(gas, "gas_data.json", pretty = TRUE)
+write_csv(gas,"transportation/gas_data.csv")
+write_json(gas, "transportation/gas_data.json", pretty = TRUE)
