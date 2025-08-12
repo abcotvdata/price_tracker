@@ -1,0 +1,31 @@
+# This workflow pulls new inflation data
+
+on:
+  schedule:
+    - cron: '* * 1 * *'
+
+  workflow_dispatch:
+
+name: pull monthly inflation data
+
+env:
+  EIA_KEY: ${{ secrets.BLS_KEY }}
+
+jobs:
+  render:
+    name: Gather latest inflation data
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+      - name: Set up pandoc for Rmd docs
+        uses: r-lib/actions/setup-pandoc@v2
+      - name: Install dependencies and packages
+        run: Rscript -e 'install.packages(c("tidyverse","blscrapeR", "janitor", "dplyr","lubridate","stringr","blsR"))'
+      - name: pull data, export file
+        run: Rscript scripts/monthly_inflation_calculation.R
+      - name: Commit results
+        run: |
+          git add -A
+          git commit -m 'New inflation data' || echo "No changes"
+          git push origin || echo "No changes to commit"
