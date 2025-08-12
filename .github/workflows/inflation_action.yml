@@ -9,7 +9,7 @@ on:
 name: pull monthly inflation data
 
 env:
-  EIA_KEY: ${{ secrets.BLS_KEY }}
+  BLS_KEY: ${{ secrets.BLS_KEY }}
 
 jobs:
   render:
