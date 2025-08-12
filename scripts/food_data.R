@@ -394,23 +394,23 @@ food_all <- food3 %>%
 
 # write csvs and jsons
 
-write_json(groceries/produce_bin, "produce_data.json", pretty = TRUE, na = "null")
-write_csv(groceries/produce_bin, "produce_data.csv", pretty = TRUE, na = "null")
+write_json(produce_bin, "groceries/produce_data.json", pretty = TRUE, na = "null")
+write_csv(produce_bin, "groceries/produce_data.csv", pretty = TRUE, na = "null")
 
-write_json(groceries/dry_goods_bin, "dry_goods_data.json", pretty = TRUE, na = "null")
-write_csv(groceries/dry_goods_bin, "dry_goods_data.csv", pretty = TRUE, na = "null")
+write_json(dry_goods_bin, "groceries/dry_goods_data.json", pretty = TRUE, na = "null")
+write_csv(dry_goods_bin, "groceries/dry_goods_data.csv", pretty = TRUE, na = "null")
 
-write_json(groceries/meat_bin, "meat_data.json", pretty = TRUE, na = "null")
-write_csv(groceries/meat_bin, "meat_data.csv", pretty = TRUE, na = "null")
+write_json(meat_bin, "groceries/meat_data.json", pretty = TRUE, na = "null")
+write_csv(meat_bin, "groceries/meat_data.csv", pretty = TRUE, na = "null")
 
-write_json(groceries/dairy_bin, "dairy_data.json", pretty = TRUE, na = "null")
-write_csv(groceries/dairy_bin, "dairy_data.csv", pretty = TRUE, na = "null")
+write_json(dairy_bin, "groceries/dairy_data.json", pretty = TRUE, na = "null")
+write_csv(dairy_bin, "groceries/dairy_data.csv", pretty = TRUE, na = "null")
 
-write_json(groceries/snack_bin, "snack_data.json", pretty = TRUE, na = "null")
-write_csv(groceries/snack_bin, "snack_data.csv", pretty = TRUE, na = "null")
+write_json(snack_bin, "groceries/snack_data.json", pretty = TRUE, na = "null")
+write_csv(snack_bin, "groceries/snack_data.csv", pretty = TRUE, na = "null")
 
-write_json(groceries/drinks_bin, "drinks_data.json", pretty = TRUE, na = "null")
-write_csv(groceries/drinks_bin, "drinks_data.csv", pretty = TRUE, na = "null")
+write_json(drinks_bin, "groceries/drinks_data.json", pretty = TRUE, na = "null")
+write_csv(drinks_bin, "groceries/drinks_data.csv", pretty = TRUE, na = "null")
 
-write_json(groceries/food_all, "food_cpi.json", pretty = TRUE, na = "null")
-write_csv(groceries/food_all, "food_cpi.csv", pretty = TRUE, na = "null")
+write_json(food_all, "groceries/food_cpi.json", pretty = TRUE, na = "null")
+write_csv(food_all, "groceries/food_cpi.csv", pretty = TRUE, na = "null")
