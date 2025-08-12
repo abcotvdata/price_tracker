@@ -268,6 +268,8 @@ food1 <- food1 %>%
   item == "Cookies" ~ "Snacks and Desserts",
   item == "Ice Cream" ~ "Snacks and Desserts",
   item == "All Soft Drinks" ~ "Drinks",
+  item == "Malt Beverages" ~ "Drinks",
+  item == "Wine" ~ "Drinks",
   ))
 
 
