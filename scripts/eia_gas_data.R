@@ -46,12 +46,12 @@ gas_long <- gas_long %>% mutate(region = case_when(
 ))
 
 #add in location column 
-locations <- read_csv("housing_data.csv") %>% select(2,3,4,5)
+locations <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/housing/housing_data.csv") %>% select(2,3,4,5)
 locations <- locations[! duplicated(locations), ]
 gas_long <- left_join(locations, gas_long, by = "region")
 
 #adjust for inflation
-inflation <- read_csv("inflation_adjustment.csv")
+inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv")
 inflation <- inflation %>% rename(month = date)
 
 #add a column to match date from inflation file
@@ -71,5 +71,10 @@ gas <- gas %>% mutate(date_updated = (date)+1) %>% select(-8)
 
 gas <- gas %>% select(1,2,3,4,7,5,6,8,9,10)
 
+# write to files
+
 write_csv(gas,"transportation/gas_data.csv")
 write_json(gas, "transportation/gas_data.json", pretty = TRUE)
+
+# Clean up temp files
+file.remove("eia_gas_prices.xls")
