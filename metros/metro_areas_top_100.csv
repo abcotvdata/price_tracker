@@ -1,0 +1,101 @@
+﻿geoid,location,state_abbreviation,state_spelled_out,population
+10420,Akron,OH,Ohio,699508
+10580,Albany-Schenectady-Troy,NY,New York,902372
+10740,Albuquerque,NM,New Mexico,918567
+10900,Allentown-Bethlehem-Easton,PA-NJ,"Pennsylvania, New Jersey",866764
+12060,Atlanta-Sandy Springs-Roswell,GA,Georgia,6176937
+12260,Augusta-Richmond County,GA-SC,"Georgia, South Carolina",618022
+12420,Austin-Round Rock-San Marcos,TX,Texas,2357497
+12540,Bakersfield-Delano,CA,California,910433
+12580,Baltimore-Columbia-Towson,MD,Maryland,2839409
+12940,Baton Rouge,LA,Louisiana,871379
+13820,Birmingham,AL,Alabama,1181432
+14260,Boise City,ID,Idaho,790640
+14460,Boston-Cambridge-Newton,MA-NH,"Massachusetts, New Hampshire",4917661
+14860,Bridgeport-Stamford-Danbury,CT,Connecticut,947528
+15380,Buffalo-Cheektowaga,NY,New York,1161385
+15980,Cape Coral-Fort Myers,FL,Florida,792692
+16700,Charleston-North Charleston,SC,South Carolina,817756
+16740,Charlotte-Concord-Gastonia,NC-SC,"North Carolina, South Carolina",2712818
+16860,Chattanooga,TN-GA,"Tennessee, Georgia",569333
+16980,Chicago-Naperville-Elgin,IL-IN,"Illinois, Indiana",9359555
+17140,Cincinnati,OH-KY-IN,"Ohio, Kentucky, Indiana",2255257
+17410,Cleveland,OH,Ohio,2171978
+17820,Colorado Springs,CO,Colorado,760782
+17900,Columbia,SC,South Carolina,839868
+18140,Columbus,OH,Ohio,2151847
+19100,Dallas-Fort Worth-Arlington,TX,Texas,7807555
+19430,Dayton-Kettering-Beavercreek,OH,Ohio,813608
+19660,Deltona-Daytona Beach-Ormond Beach,FL,Florida,689939
+19740,Denver-Aurora-Centennial,CO,Colorado,2977085
+19780,Des Moines-West Des Moines,IA,Iowa,720331
+19820,Detroit-Warren-Dearborn,MI,Michigan,4367620
+20500,Durham-Chapel Hill,NC,North Carolina,594291
+21340,El Paso,TX,Texas,869606
+23420,Fresno,CA,California,1170942
+24340,Grand Rapids-Wyoming-Kentwood,MI,Michigan,1154320
+24660,Greensboro-High Point,NC,North Carolina,779894
+24860,Greenville-Anderson-Greer,SC,South Carolina,945301
+25420,Harrisburg-Carlisle,PA,Pennsylvania,597894
+25540,Hartford-West Hartford-East Hartford,CT,Connecticut,1144012
+26420,Houston-Pasadena-The Woodlands,TX,Texas,7274714
+26900,Indianapolis-Carmel-Greenwood,IN,Indiana,2106327
+27140,Jackson,MS,Mississippi,615908
+27260,Jacksonville,FL,Florida,1645707
+28140,Kansas City,MO-KS,"Missouri, Kansas",2202006
+28880,Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,700984
+28940,Knoxville,TN,Tennessee,919553
+29460,Lakeland-Winter Haven,FL,Florida,760961
+29820,Las Vegas-Henderson-North Las Vegas,NV,Nevada,2293764
+30780,Little Rock-North Little Rock-Conway,AR,Arkansas,753605
+31080,Los Angeles-Long Beach-Anaheim,CA,California,13012469
+31140,Louisville/Jefferson County,KY-IN,"Kentucky, Indiana",1361847
+31540,Madison,WI,Wisconsin,683967
+32580,McAllen-Edinburg-Mission,TX,Texas,880921
+32820,Memphis,TN-MS-AR,"Tennessee, Mississippi, Arkansas",1341606
+33100,Miami-Fort Lauderdale-West Palm Beach,FL,Florida,6138876
+33340,Milwaukee-Waukesha,WI,Wisconsin,1566361
+33460,Minneapolis-St. Paul-Bloomington,MN-WI,"Minnesota, Wisconsin",3693351
+34980,Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,2043713
+35300,New Haven,CT,Connecticut,566803
+35380,New Orleans-Metairie,LA,Louisiana,988763
+35620,New York-Newark-Jersey City,NY-NJ,"New York, New Jersey",19756722
+35840,North Port-Bradenton-Sarasota,FL,Florida,865031
+36260,Ogden,UT,Utah,645510
+36420,Oklahoma City,OK,Oklahoma,1445122
+36540,Omaha,NE-IA,"Nebraska, Iowa",972840
+36740,Orlando-Kissimmee-Sanford,FL,Florida,2721022
+37100,Oxnard-Thousand Oaks-Ventura,CA,California,838259
+37340,Palm Bay-Melbourne-Titusville,FL,Florida,620533
+37980,Philadelphia-Camden-Wilmington,PA-NJ-DE-MD,"Pennsylvania, New Jersey, Delaware, Maryland",6241882
+38060,Phoenix-Mesa-Chandler,AZ,Arizona,4941206
+38300,Pittsburgh,PA,Pennsylvania,2443921
+38900,Portland-Vancouver-Hillsboro,OR-WA,"Oregon, Washington",2510529
+39300,Providence-Warwick,RI-MA,"Rhode Island, Massachusetts",1673807
+39340,Provo-Orem-Lehi,UT,Utah,695895
+39580,Raleigh-Cary,NC,North Carolina,1449594
+40060,Richmond,VA,Virginia,1327321
+40140,Riverside-San Bernardino-Ontario,CA,California,4637725
+40380,Rochester,NY,New York,1058875
+40900,Sacramento-Roseville-Folsom,CA,California,2406563
+41620,Salt Lake City-Murray,UT,Utah,1261337
+41700,San Antonio-New Braunfels,TX,Texas,2612802
+41740,San Diego-Chula Vista-Carlsbad,CA,California,3282782
+41860,San Francisco-Oakland-Fremont,CA,California,4653593
+41940,San Jose-Sunnyvale-Santa Clara,CA,California,1969353
+42540,Scranton--Wilkes-Barre,PA,Pennsylvania,567887
+42660,Seattle-Tacoma-Bellevue,WA,Washington,4021467
+44060,Spokane-Spokane Valley,WA,Washington,591793
+41180,St. Louis,MO-IL,"Missouri, Illinois",2809414
+44700,Stockton-Lodi,CA,California,787416
+45060,Syracuse,NY,New York,657128
+45300,Tampa-St. Petersburg-Clearwater,FL,Florida,3240469
+45780,Toledo,OH,Ohio,602977
+46060,Tucson,AZ,Arizona,1049947
+46140,Tulsa,OK,Oklahoma,1026209
+46520,Urban Honolulu,HI,Hawaii,1003666
+47260,Virginia Beach-Chesapeake-Norfolk,VA-NC,"Virginia, North Carolina",1782590
+47900,Washington-Arlington-Alexandria,DC-VA-MD-WV,"District of Columbia, Virginia, Maryland, West Virginia",6263796
+48620,Wichita,KS,Kansas,648935
+49180,Winston-Salem,NC,North Carolina,683637
+49340,Worcester,MA,Massachusetts,861664
