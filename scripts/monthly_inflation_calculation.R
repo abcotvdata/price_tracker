@@ -34,4 +34,4 @@ inflation_small <- inflation %>%
   select(7,8) %>% 
   arrange(date)
 
-write_csv(inflation_small, "inflation_adjustment.csv")
+write_csv(inflation_small, "scripts/inflation_adjustment.csv")
