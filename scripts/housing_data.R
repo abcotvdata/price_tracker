@@ -270,8 +270,8 @@ data$value<-as.character(data$value)
   data$date_updated <- as.Date(data$date_updated, format = "%b_%d_%Y")
 
 #dir.create("../my-app/src/lib/data", recursive = TRUE, showWarnings = FALSE)
-write.csv(data, "housing_data.csv", row.names = FALSE)
-write_json(data, "../price-tracker1/src/lib/data/housing_data.json", pretty = TRUE)
+write.csv(data, "housing/housing_data.csv", row.names = FALSE)
+write_json(data, "housing/housing_data.json", pretty = TRUE)
 
 # Clean up temp files
 file.remove(c("zhvi_metro.csv", "zori_metro.csv", "census_metros.csv"))
