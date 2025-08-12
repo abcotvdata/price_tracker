@@ -21,7 +21,7 @@ jobs:
       - name: Set up pandoc for Rmd docs
         uses: r-lib/actions/setup-pandoc@v2
       - name: Install dependencies and packages
-        run: Rscript -e 'install.packages(c("tidyverse","eia", "janitor", "lubridate","stringr","formattable","data.table","sf","zoo","readxl"))'
+        run: Rscript -e 'install.packages(c("tidyverse","eia", "janitor", "lubridate","stringr","formattable","data.table","sf","zoo","readxl","jsonlite"))'
       - name: pull data, export files
         run: Rscript scripts/eia_gas_data.R
       - name: Commit results
