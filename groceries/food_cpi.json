@@ -12,16 +12,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Albany-Schenectady-Troy",
@@ -36,16 +36,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Albuquerque",
@@ -60,16 +60,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Allentown-Bethlehem-Easton",
@@ -84,16 +84,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Atlanta-Sandy Springs-Roswell",
@@ -108,16 +108,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Augusta-Richmond County",
@@ -132,16 +132,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Austin-Round Rock-San Marcos",
@@ -156,16 +156,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Bakersfield-Delano",
@@ -180,16 +180,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Baltimore-Columbia-Towson",
@@ -204,16 +204,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Baton Rouge",
@@ -228,16 +228,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Birmingham",
@@ -252,16 +252,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Boise City",
@@ -276,16 +276,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Boston-Cambridge-Newton",
@@ -300,16 +300,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Bridgeport-Stamford-Danbury",
@@ -324,16 +324,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Buffalo-Cheektowaga",
@@ -348,16 +348,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Cape Coral-Fort Myers",
@@ -372,16 +372,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Charleston-North Charleston",
@@ -396,16 +396,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Charlotte-Concord-Gastonia",
@@ -420,16 +420,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Chattanooga",
@@ -444,16 +444,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Chicago-Naperville-Elgin",
@@ -468,16 +468,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Cincinnati",
@@ -492,16 +492,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Cleveland",
@@ -516,16 +516,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Colorado Springs",
@@ -540,16 +540,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Columbia",
@@ -564,16 +564,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Columbus",
@@ -588,16 +588,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Dallas-Fort Worth-Arlington",
@@ -612,16 +612,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Dayton-Kettering-Beavercreek",
@@ -636,16 +636,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Deltona-Daytona Beach-Ormond Beach",
@@ -660,16 +660,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Denver-Aurora-Centennial",
@@ -684,16 +684,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Des Moines-West Des Moines",
@@ -708,16 +708,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Detroit-Warren-Dearborn",
@@ -732,16 +732,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Durham-Chapel Hill",
@@ -756,16 +756,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "El Paso",
@@ -780,16 +780,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Fresno",
@@ -804,16 +804,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Grand Rapids-Wyoming-Kentwood",
@@ -828,16 +828,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Greensboro-High Point",
@@ -852,16 +852,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Greenville-Anderson-Greer",
@@ -876,16 +876,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Harrisburg-Carlisle",
@@ -900,16 +900,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Hartford-West Hartford-East Hartford",
@@ -924,16 +924,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Houston-Pasadena-The Woodlands",
@@ -948,16 +948,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Indianapolis-Carmel-Greenwood",
@@ -972,16 +972,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Jackson",
@@ -996,16 +996,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Jacksonville",
@@ -1020,16 +1020,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Kansas City",
@@ -1044,16 +1044,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Kiryas Joel-Poughkeepsie-Newburgh",
@@ -1068,16 +1068,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Knoxville",
@@ -1092,16 +1092,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Lakeland-Winter Haven",
@@ -1116,16 +1116,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Las Vegas-Henderson-North Las Vegas",
@@ -1140,16 +1140,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Little Rock-North Little Rock-Conway",
@@ -1164,16 +1164,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Los Angeles-Long Beach-Anaheim",
@@ -1188,16 +1188,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Louisville/Jefferson County",
@@ -1212,16 +1212,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Madison",
@@ -1236,16 +1236,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "McAllen-Edinburg-Mission",
@@ -1260,16 +1260,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Memphis",
@@ -1284,16 +1284,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Miami-Fort Lauderdale-West Palm Beach",
@@ -1308,16 +1308,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Milwaukee-Waukesha",
@@ -1332,16 +1332,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Minneapolis-St. Paul-Bloomington",
@@ -1356,16 +1356,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Nashville-Davidson--Murfreesboro--Franklin",
@@ -1380,16 +1380,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "New Haven",
@@ -1404,16 +1404,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "New Orleans-Metairie",
@@ -1428,16 +1428,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "New York-Newark-Jersey City",
@@ -1452,16 +1452,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "North Port-Bradenton-Sarasota",
@@ -1476,16 +1476,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Ogden",
@@ -1500,16 +1500,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Oklahoma City",
@@ -1524,16 +1524,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Omaha",
@@ -1548,16 +1548,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Orlando-Kissimmee-Sanford",
@@ -1572,16 +1572,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Oxnard-Thousand Oaks-Ventura",
@@ -1596,16 +1596,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Palm Bay-Melbourne-Titusville",
@@ -1620,16 +1620,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Philadelphia-Camden-Wilmington",
@@ -1644,16 +1644,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Phoenix-Mesa-Chandler",
@@ -1668,16 +1668,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Pittsburgh",
@@ -1692,16 +1692,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Portland-Vancouver-Hillsboro",
@@ -1716,16 +1716,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Providence-Warwick",
@@ -1740,16 +1740,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Provo-Orem-Lehi",
@@ -1764,16 +1764,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Raleigh-Cary",
@@ -1788,16 +1788,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Richmond",
@@ -1812,16 +1812,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Riverside-San Bernardino-Ontario",
@@ -1836,16 +1836,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Rochester",
@@ -1860,16 +1860,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Sacramento-Roseville-Folsom",
@@ -1884,16 +1884,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Salt Lake City-Murray",
@@ -1908,16 +1908,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "San Antonio-New Braunfels",
@@ -1932,16 +1932,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "San Diego-Chula Vista-Carlsbad",
@@ -1956,16 +1956,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "San Francisco-Oakland-Fremont",
@@ -1980,16 +1980,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "San Jose-Sunnyvale-Santa Clara",
@@ -2004,16 +2004,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Scranton--Wilkes-Barre",
@@ -2028,16 +2028,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Seattle-Tacoma-Bellevue",
@@ -2052,16 +2052,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Spokane-Spokane Valley",
@@ -2076,16 +2076,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "St. Louis",
@@ -2100,16 +2100,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Stockton-Lodi",
@@ -2124,16 +2124,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Syracuse",
@@ -2148,16 +2148,16 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   },
   {
     "location": "Tampa-St. Petersburg-Clearwater",
@@ -2172,16 +2172,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Toledo",
@@ -2196,16 +2196,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Tucson",
@@ -2220,16 +2220,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Tulsa",
@@ -2244,16 +2244,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "United States",
@@ -2268,16 +2268,16 @@
     "value": 313.263,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 313.26,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 313.263,
     "latest_value_adjusted": 313.26,
     "min_date": "2015-01-01",
     "oldest_value_raw": 243.123,
     "oldest_value_adjusted": 333.08,
-    "p_change_oldest_newest": -6,
+    "p_change_oldest_newest_raw": -6,
     "data_complete": "True",
-    "percent_change": 28.8496
+    "p_change_oldest_newest_adjusted": 28.8496
   },
   {
     "location": "Urban Honolulu",
@@ -2292,16 +2292,16 @@
     "value": 330.207,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 330.21,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 330.207,
     "latest_value_adjusted": 330.21,
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest": -3.8,
+    "p_change_oldest_newest_raw": -3.8,
     "data_complete": "True",
-    "percent_change": 31.8502
+    "p_change_oldest_newest_adjusted": 31.8502
   },
   {
     "location": "Virginia Beach-Chesapeake-Norfolk",
@@ -2316,16 +2316,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Washington-Arlington-Alexandria",
@@ -2340,16 +2340,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Wichita",
@@ -2364,16 +2364,16 @@
     "value": 295.847,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 295.85,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 295.847,
     "latest_value_adjusted": 295.85,
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest": -6.7,
+    "p_change_oldest_newest_raw": -6.7,
     "data_complete": "True",
-    "percent_change": 27.8631
+    "p_change_oldest_newest_adjusted": 27.8631
   },
   {
     "location": "Winston-Salem",
@@ -2388,16 +2388,16 @@
     "value": 311.025,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 311.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 311.025,
     "latest_value_adjusted": 311.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest": -6.1,
+    "p_change_oldest_newest_raw": -6.1,
     "data_complete": "True",
-    "percent_change": 28.6673
+    "p_change_oldest_newest_adjusted": 28.6673
   },
   {
     "location": "Worcester",
@@ -2412,15 +2412,15 @@
     "value": 315.021,
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 315.02,
-    "date_updated": "2025-08-12",
+    "date_updated": "2025-08-13",
     "max_date": "2025-07-01",
     "latest_value_raw": 315.021,
     "latest_value_adjusted": 315.02,
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest": -7.6,
+    "p_change_oldest_newest_raw": -7.6,
     "data_complete": "True",
-    "percent_change": 26.5439
+    "p_change_oldest_newest_adjusted": 26.5439
   }
 ]
