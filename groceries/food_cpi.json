@@ -19,9 +19,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Albany-Schenectady-Troy",
@@ -43,9 +43,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Albuquerque",
@@ -67,9 +67,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Allentown-Bethlehem-Easton",
@@ -91,9 +91,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Atlanta-Sandy Springs-Roswell",
@@ -115,9 +115,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Augusta-Richmond County",
@@ -139,9 +139,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Austin-Round Rock-San Marcos",
@@ -163,9 +163,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Bakersfield-Delano",
@@ -187,9 +187,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Baltimore-Columbia-Towson",
@@ -211,9 +211,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Baton Rouge",
@@ -235,9 +235,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Birmingham",
@@ -259,9 +259,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Boise City",
@@ -283,9 +283,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Boston-Cambridge-Newton",
@@ -307,9 +307,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Bridgeport-Stamford-Danbury",
@@ -331,9 +331,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Buffalo-Cheektowaga",
@@ -355,9 +355,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Cape Coral-Fort Myers",
@@ -379,9 +379,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Charleston-North Charleston",
@@ -403,9 +403,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Charlotte-Concord-Gastonia",
@@ -427,9 +427,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Chattanooga",
@@ -451,9 +451,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Chicago-Naperville-Elgin",
@@ -475,9 +475,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Cincinnati",
@@ -499,9 +499,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Cleveland",
@@ -523,9 +523,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Colorado Springs",
@@ -547,9 +547,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Columbia",
@@ -571,9 +571,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Columbus",
@@ -595,9 +595,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Dallas-Fort Worth-Arlington",
@@ -619,9 +619,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Dayton-Kettering-Beavercreek",
@@ -643,9 +643,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Deltona-Daytona Beach-Ormond Beach",
@@ -667,9 +667,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Denver-Aurora-Centennial",
@@ -691,9 +691,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Des Moines-West Des Moines",
@@ -715,9 +715,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Detroit-Warren-Dearborn",
@@ -739,9 +739,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Durham-Chapel Hill",
@@ -763,9 +763,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "El Paso",
@@ -787,9 +787,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Fresno",
@@ -811,9 +811,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Grand Rapids-Wyoming-Kentwood",
@@ -835,9 +835,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Greensboro-High Point",
@@ -859,9 +859,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Greenville-Anderson-Greer",
@@ -883,9 +883,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Harrisburg-Carlisle",
@@ -907,9 +907,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Hartford-West Hartford-East Hartford",
@@ -931,9 +931,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Houston-Pasadena-The Woodlands",
@@ -955,9 +955,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Indianapolis-Carmel-Greenwood",
@@ -979,9 +979,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Jackson",
@@ -1003,9 +1003,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Jacksonville",
@@ -1027,9 +1027,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Kansas City",
@@ -1051,9 +1051,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Kiryas Joel-Poughkeepsie-Newburgh",
@@ -1075,9 +1075,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Knoxville",
@@ -1099,9 +1099,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Lakeland-Winter Haven",
@@ -1123,9 +1123,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Las Vegas-Henderson-North Las Vegas",
@@ -1147,9 +1147,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Little Rock-North Little Rock-Conway",
@@ -1171,9 +1171,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Los Angeles-Long Beach-Anaheim",
@@ -1195,9 +1195,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Louisville/Jefferson County",
@@ -1219,9 +1219,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Madison",
@@ -1243,9 +1243,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "McAllen-Edinburg-Mission",
@@ -1267,9 +1267,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Memphis",
@@ -1291,9 +1291,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Miami-Fort Lauderdale-West Palm Beach",
@@ -1315,9 +1315,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Milwaukee-Waukesha",
@@ -1339,9 +1339,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Minneapolis-St. Paul-Bloomington",
@@ -1363,9 +1363,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Nashville-Davidson--Murfreesboro--Franklin",
@@ -1387,9 +1387,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "New Haven",
@@ -1411,9 +1411,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "New Orleans-Metairie",
@@ -1435,9 +1435,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "New York-Newark-Jersey City",
@@ -1459,9 +1459,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "North Port-Bradenton-Sarasota",
@@ -1483,9 +1483,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Ogden",
@@ -1507,9 +1507,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Oklahoma City",
@@ -1531,9 +1531,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Omaha",
@@ -1555,9 +1555,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Orlando-Kissimmee-Sanford",
@@ -1579,9 +1579,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Oxnard-Thousand Oaks-Ventura",
@@ -1603,9 +1603,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Palm Bay-Melbourne-Titusville",
@@ -1627,9 +1627,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Philadelphia-Camden-Wilmington",
@@ -1651,9 +1651,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Phoenix-Mesa-Chandler",
@@ -1675,9 +1675,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Pittsburgh",
@@ -1699,9 +1699,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Portland-Vancouver-Hillsboro",
@@ -1723,9 +1723,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Providence-Warwick",
@@ -1747,9 +1747,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Provo-Orem-Lehi",
@@ -1771,9 +1771,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Raleigh-Cary",
@@ -1795,9 +1795,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Richmond",
@@ -1819,9 +1819,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Riverside-San Bernardino-Ontario",
@@ -1843,9 +1843,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Rochester",
@@ -1867,9 +1867,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Sacramento-Roseville-Folsom",
@@ -1891,9 +1891,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Salt Lake City-Murray",
@@ -1915,9 +1915,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "San Antonio-New Braunfels",
@@ -1939,9 +1939,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "San Diego-Chula Vista-Carlsbad",
@@ -1963,9 +1963,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "San Francisco-Oakland-Fremont",
@@ -1987,9 +1987,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "San Jose-Sunnyvale-Santa Clara",
@@ -2011,9 +2011,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Scranton--Wilkes-Barre",
@@ -2035,9 +2035,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Seattle-Tacoma-Bellevue",
@@ -2059,9 +2059,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Spokane-Spokane Valley",
@@ -2083,9 +2083,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "St. Louis",
@@ -2107,9 +2107,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Stockton-Lodi",
@@ -2131,9 +2131,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Syracuse",
@@ -2155,9 +2155,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Tampa-St. Petersburg-Clearwater",
@@ -2179,9 +2179,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Toledo",
@@ -2203,9 +2203,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Tucson",
@@ -2227,9 +2227,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Tulsa",
@@ -2251,9 +2251,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "United States",
@@ -2275,9 +2275,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 243.123,
     "oldest_value_adjusted": 333.08,
-    "p_change_oldest_newest_raw": -6,
+    "p_change_oldest_newest_adjusted": -6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.8496
+    "p_change_oldest_newest_raw": 28.8496
   },
   {
     "location": "Urban Honolulu",
@@ -2299,9 +2299,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 250.441,
     "oldest_value_adjusted": 343.1,
-    "p_change_oldest_newest_raw": -3.8,
+    "p_change_oldest_newest_adjusted": -3.8,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 31.8502
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Virginia Beach-Chesapeake-Norfolk",
@@ -2323,9 +2323,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Washington-Arlington-Alexandria",
@@ -2347,9 +2347,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Wichita",
@@ -2371,9 +2371,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 231.378,
     "oldest_value_adjusted": 316.99,
-    "p_change_oldest_newest_raw": -6.7,
+    "p_change_oldest_newest_adjusted": -6.7,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 27.8631
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Winston-Salem",
@@ -2395,9 +2395,9 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 241.728,
     "oldest_value_adjusted": 331.17,
-    "p_change_oldest_newest_raw": -6.1,
+    "p_change_oldest_newest_adjusted": -6.1,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 28.6673
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Worcester",
@@ -2419,8 +2419,8 @@
     "min_date": "2015-01-01",
     "oldest_value_raw": 248.942,
     "oldest_value_adjusted": 341.05,
-    "p_change_oldest_newest_raw": -7.6,
+    "p_change_oldest_newest_adjusted": -7.6,
     "data_complete": "True",
-    "p_change_oldest_newest_adjusted": 26.5439
+    "p_change_oldest_newest_raw": 26.5439
   }
 ]
