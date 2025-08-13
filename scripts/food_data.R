@@ -294,7 +294,7 @@ oldest_data <- food1 %>%
 
 food2 <- left_join(latest_data, oldest_data, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin"))
 
-food2 <- food2 %>% mutate(p_change_oldest_newest = round(((latest_value_adjusted - oldest_value_adjusted)/(oldest_value_adjusted))*100,1)) %>% select(-14)
+food2 <- food2 %>% mutate(p_change_oldest_newest_adjusted = round(((latest_value_adjusted - oldest_value_adjusted)/(oldest_value_adjusted))*100,1)) %>% select(-14)
 
 food3 <- left_join(food1,food2, by = c("location","state_abbreviation","state_spelled_out","region","item","description","measurement","category_bin"))
 
@@ -390,7 +390,7 @@ drinks_bin <- food3 %>%
 
 food_all <- food3 %>% 
   filter(item == "All Food At Home") %>% 
-  mutate(percent_change = ((latest_value_raw - oldest_value_raw)/oldest_value_raw)*100) %>% 
+  mutate(p_change_oldest_newest_raw = ((latest_value_raw - oldest_value_raw)/oldest_value_raw)*100) %>% 
   group_by(location) %>%
   slice_tail(n = 1)
 
