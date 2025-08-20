@@ -21,7 +21,7 @@ jobs:
       - name: Set up pandoc for Rmd docs
         uses: r-lib/actions/setup-pandoc@v2
       - name: Install dependencies and packages
-        run: Rscript -e 'install.packages(c("tidyverse","blscrapeR", "janitor", "lubridate","stringr","dplyr","blsR","jsonlite","r2r","rlang","usethis"))'
+        run: Rscript -e 'install.packages(c("tidyverse","blscrapeR", "janitor", "lubridate","stringr","dplyr","blsR","jsonlite","r2r","rlang","usethis","tidycensus"))'
       - name: pull data, export files
         run: Rscript scripts/food_data.R
       - name: Commit results
