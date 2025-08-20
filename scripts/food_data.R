@@ -406,7 +406,7 @@ data_2019 <- food3 %>%
   filter(date == date_2019) %>%
   rename(value_adjusted_2019 = value_inflation_adjusted, value_raw_2019 = value) %>% 
   mutate(p_change_2019_newest_adjusted = round(((latest_value_adjusted - value_adjusted_2019)/(value_adjusted_2019))*100,1)) %>% 
-  mutate(p_change_2019_oldest_newest_raw = ((latest_value_raw - value_raw_2019)/value_raw_2019)*100) %>% 
+  mutate(p_change_2019_newest_raw = ((latest_value_raw - value_raw_2019)/value_raw_2019)*100) %>% 
   select(-5,-7,-8,-9,-11,-13,-18)
 
 food_all1 <- left_join(food_all, data_2019, by = c("location","state_abbreviation","state_spelled_out","region","item","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_adjusted","p_change_oldest_newest_adjusted")) %>% 
