@@ -9,9 +9,11 @@ library(jsonlite)
 library(r2r)
 library(rlang)
 library(usethis)
+library(tidycensus)
 options(timeout=300)
 
 Sys.getenv("BLS_API_KEY")
+Sys.getenv("CENSUS_API_KEY")
 
 us <- c("APU0000712311", "APU0000FL2101", "APU0000712112", "APU0000714233", "APU0000711415", "APU0000711211", "APU0000711311", "APU0000711412", "APU0000710212",
             "APU0000709112", "APU0000FJ4101", "APU0000708111", "APU0000FD2101", "APU0000FC1101", "APU0000706111", "APU0000704111", "APU0000701111", "APU0000702111", 
@@ -153,7 +155,7 @@ food <- rbind(food, softdrinks)
 
 
 #adjust for inflation
-inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv")
+inflation <- read_csv("inflation_adjustment.csv")
 
 
 food <- left_join(food, inflation, by = "date")
@@ -162,7 +164,7 @@ food <- food %>% mutate(value_inflation_adjusted = round(value*inflation_adjustm
 
 
 #add in location column 
-locations <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/housing/housing_data.csv") %>% select(2,3,4)
+locations <- read_csv("housing_data.csv") %>% select(2,3,4)
 locations <- locations[! duplicated(locations), ]
 
 west <- c("WA","OR","CA","ID","MT","WY","NV","UT","CO","AZ","NM","AK","HI")
@@ -267,6 +269,7 @@ food1 <- food1 %>%
   item == "Potato Chips" ~ "Snacks and Desserts",
   item == "Cookies" ~ "Snacks and Desserts",
   item == "Ice Cream" ~ "Snacks and Desserts",
+  item == "All Soft Drinks" ~ "Drinks",
   item == "All Soft Drinks" ~ "Drinks",
   item == "Malt Beverages" ~ "Drinks",
   item == "Wine" ~ "Drinks",
@@ -392,7 +395,84 @@ food_all <- food3 %>%
   filter(item == "All Food At Home") %>% 
   mutate(p_change_oldest_newest_raw = ((latest_value_raw - oldest_value_raw)/oldest_value_raw)*100) %>% 
   group_by(location) %>%
-  slice_tail(n = 1)
+  slice_tail(n = 1) %>% 
+  select(-7,-8,-9,-21)
+
+data_2019 <- food3 %>%
+  filter(item == "All Food At Home") %>% 
+  mutate(date_2019 = make_date(2019, month(max_date),1)) %>%
+  group_by(location, item) %>%
+  filter(!is.na(value)) %>%
+  filter(date == date_2019) %>%
+  rename(value_adjusted_2019 = value_inflation_adjusted, value_raw_2019 = value) %>% 
+  mutate(p_change_2019_newest_adjusted = round(((latest_value_adjusted - value_adjusted_2019)/(value_adjusted_2019))*100,1)) %>% 
+  mutate(p_change_2019_oldest_newest_raw = ((latest_value_raw - value_raw_2019)/value_raw_2019)*100) %>% 
+  select(-5,-7,-8,-9,-11,-13,-18)
+
+food_all1 <- left_join(food_all, data_2019, by = c("location","state_abbreviation","state_spelled_out","region","item","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_adjusted","p_change_oldest_newest_adjusted")) %>% 
+  select(-2,-5,-8,-21) 
+
+
+# median household income
+
+current_year <- as.numeric(format(Sys.Date(), "%Y"))
+
+get_most_recent_year <- function() {
+  for (year in current_year:2015) {
+    result <- tryCatch({
+      get_acs(
+        geography = "us",
+        variables = "B19013_001E",
+        geometry = FALSE,
+        year = year,
+        output = "wide"
+      )
+      return(year)
+    }, error = function(e) NULL)
+    
+    if (!is.null(result)) return(year)
+  }
+  return(2021)
+}
+
+most_recent_year <- get_most_recent_year()
+
+years <- c(2015, 2019, most_recent_year)
+
+results <- list()
+
+for (year in years) {
+  income <- get_acs(
+    geography = "us",
+    variables = "B19013_001E",
+    geometry = FALSE,
+    year = year,
+    output = "wide"
+  )
+  results[[year]] <- income
+}
+
+income_years <- do.call(rbind, results)
+
+income_years <- income_years %>% select(-1,-4) %>% rename(region = NAME, median_household_income_raw = B19013_001E)
+
+income_years$year <- years
+income_years_flipped <- income_years %>% group_by(region, year) %>% summarize(income = sum(median_household_income_raw)) %>% pivot_wider(names_from = year, values_from = income) %>% clean_names()
+
+names(income_years_flipped)[2:4] <- c("median_household_income_raw_2015", "median_household_income_raw_2019", "median_household_income_raw_recent")
+
+#inflation change from 2015 to 2023 is 1.3, inflation change from 2019 to 2023 is 1.19
+
+income_years_flipped$inflation_adjustment_2015 <- c(1.3)
+income_years_flipped$inflation_adjustment_2019 <- c(1.19)
+
+income_years_flipped <- income_years_flipped %>% mutate(median_household_income_adj_2015 = median_household_income_raw_2015*inflation_adjustment_2015) %>%
+  mutate(median_household_income_adj_2019 = median_household_income_raw_2019*inflation_adjustment_2019) %>%
+  mutate(p_change_2015_recent_income = round(((median_household_income_raw_recent-median_household_income_adj_2015)/median_household_income_adj_2015)*100,1)) %>%
+  mutate(p_change_2019_recent_income = round(((median_household_income_raw_recent-median_household_income_adj_2019)/median_household_income_adj_2019)*100,1)) %>% 
+  rename(location = region)
+
+food_all2 <- left_join(food_all1, income_years_flipped, by = c("location")) 
 
 # write csvs and jsons
 
@@ -414,5 +494,5 @@ write_csv(snack_bin, "groceries/snack_data.csv", na = "null")
 write_json(drinks_bin, "groceries/drinks_data.json", pretty = TRUE, na = "null")
 write_csv(drinks_bin, "groceries/drinks_data.csv", na = "null")
 
-write_json(food_all, "groceries/food_cpi.json", pretty = TRUE, na = "null")
-write_csv(food_all, "groceries/food_cpi.csv", na = "null")
+write_json(food_all2, "groceries/food_cpi.json", pretty = TRUE, na = "null")
+write_csv(food_all2, "groceries/food_cpi.csv", na = "null")
