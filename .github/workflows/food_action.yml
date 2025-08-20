@@ -10,6 +10,7 @@ name: pull BLS grocery data
 
 env:
   BLS_KEY: ${{ secrets.BLS_KEY }}
+  CENSUS_KEY: ${{ secrets.CENSUS_KEY }}
 
 jobs:
   render:
