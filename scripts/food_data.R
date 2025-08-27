@@ -155,7 +155,7 @@ food <- rbind(food, softdrinks)
 
 
 #adjust for inflation
-inflation <- read_csv("inflation_adjustment.csv")
+inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv")
 
 
 food <- left_join(food, inflation, by = "date")
@@ -164,7 +164,7 @@ food <- food %>% mutate(value_inflation_adjusted = round(value*inflation_adjustm
 
 
 #add in location column 
-locations <- read_csv("housing_data.csv") %>% select(2,3,4)
+locations <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/housing/housing_data.csv") %>% select(2,3,4)
 locations <- locations[! duplicated(locations), ]
 
 west <- c("WA","OR","CA","ID","MT","WY","NV","UT","CO","AZ","NM","AK","HI")
