@@ -371,48 +371,41 @@ food9 <- rbind(food9, food11)
 food3 <- left_join(food3, food9, by = c("location","item"))
 
 
-#add in 2019 data for simple situations where the 2019 month matches the latest month
-test_for_2019 <- food3 %>%
-  mutate(compare_date_2019 = make_date(2019, month(max_date),1)) %>%
+#add in 2020 data for simple situations where the 2019 month matches the latest month
+test_for_2020 <- food3 %>%
+  mutate(compare_date_2020 = make_date(2020, 1,1)) %>%
   group_by(location, item) %>%
   #filter(!is.na(value)) %>%
-  filter(date == compare_date_2019) %>%
-  rename(compare_2019_value_adjusted = value_inflation_adjusted, compare_2019_value_raw = value) %>% select(-5,-11,-13)
-
-test_for_2019_2 <- food3 %>%
-  mutate(compare_date_2019 = make_date(2019, month(max_date),1)) %>%
-  group_by(location,item) %>%
-  filter(is.na(value)) %>%
-  filter(date == compare_date_2019)
+  filter(date == compare_date_2020) %>%
+  rename(compare_2020_value_adjusted = value_inflation_adjusted, compare_2020_value_raw = value) %>% select(-5,-11,-13)
 
 candidates_2019 <- food3 %>%
-  filter(year(date) == 2019) %>%
+  filter(year(date) == 2019 | date == "2020-01-01") %>%
   filter(!is.na(value))
 
-nearest_2019 <- left_join(candidates_2019, test_for_2019, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
-nearest_2019 <- nearest_2019 %>%
-  mutate(diff_days = as.numeric(abs(date-compare_date_2019))) %>%
-  mutate(ahead= !is.na(date) & date >= compare_date_2019) %>%
+nearest_2020 <- left_join(candidates_2019, test_for_2020, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
+
+nearest_2020 <- nearest_2020 %>%
+  mutate(diff_days = as.numeric(abs(compare_date_2020-date))) %>%
   group_by(location,item) %>%
-  arrange(diff_days, desc(ahead), date) %>%
+  arrange(diff_days, date) %>%
   slice_head(n = 1) %>%
   select(-24) %>%
-  rename(compare_date_2019 = date) %>%
-  mutate(compare_2019_value_raw = case_when(
-    !is.na(compare_2019_value_raw) ~ compare_2019_value_raw,
-    is.na(compare_2019_value_raw) ~ value
-  )) %>% mutate(compare_2019_value_adjusted = case_when(
-    !is.na(compare_2019_value_adjusted) ~ compare_2019_value_adjusted,
-    is.na(compare_2019_value_adjusted) ~ value_inflation_adjusted
+  rename(compare_date_2020 = date) %>%
+  mutate(compare_2020_value_raw = case_when(
+    !is.na(compare_2020_value_raw) ~ compare_2020_value_raw,
+    is.na(compare_2020_value_raw) ~ value
+  )) %>% mutate(compare_2020_value_adjusted = case_when(
+    !is.na(compare_2020_value_adjusted) ~ compare_2020_value_adjusted,
+    is.na(compare_2020_value_adjusted) ~ value_inflation_adjusted
   )) %>% select(-c(10,11,12,13,))
 
-food12 <- left_join(food3, nearest_2019, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
 
+food12 <- left_join(food3, nearest_2020, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
 
 food3 <- food12 %>% 
-  mutate(p_change_2019_newest_adjusted = round(((latest_value_adjusted - compare_2019_value_adjusted)/(compare_2019_value_adjusted))*100,1)) %>%
-  select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,27,21)
-
+  mutate(p_change_2020_newest_adjusted = round(((latest_value_adjusted - compare_2020_value_adjusted)/(compare_2020_value_adjusted))*100,1)) %>%
+  select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,21)
 
 
 produce_bin <- food3 %>% 
