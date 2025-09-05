@@ -288,7 +288,7 @@ latest_data <- food1 %>%
 
 
 oldest_data <- food1 %>%
-  group_by(location, item) %>%
+  group_by(location, item,description) %>%
   filter(!is.na(value)) %>%
   filter(date == min(date)) %>%
   rename(oldest_value_adjusted = value_inflation_adjusted, min_date = date, oldest_value_raw = value) %>% select(-13)
@@ -301,6 +301,8 @@ food2 <- food2 %>% mutate(p_change_oldest_newest_adjusted = round(((latest_value
 
 food3 <- left_join(food1,food2, by = c("location","state_abbreviation","state_spelled_out","region","item","description","measurement","category_bin"))
 
+
+
 food3 <- food3 %>% 
   filter(!((item == "All Soft Drinks" & region == 'Northeast' & measurement == '12 pk.'))) %>% 
   filter(!((item == "All Soft Drinks" & region == 'West' & measurement == '2 liters'))) %>% 
@@ -311,6 +313,7 @@ food3 <- food3 %>%
   filter(!((item == "Milk" & region == 'South' & description == 'fresh, low-fat, reduced fat, skim'))) %>% 
   filter(!((item == "Milk" & region == 'Northeast' & description == 'fresh, low-fat, reduced fat, skim'))) %>% 
   mutate(description = if_else(item == "Ham", "Excluding Canned Ham And Luncheon Slices", description))
+
 
 #find items with at least 50% of all years
 
@@ -323,7 +326,7 @@ food4 <- food3 %>% filter(!is.na(value)) %>% filter(location != "United States")
   )) %>%
   mutate(test = paste(location, item, sep = ", "))
 
-#fnd items with at least 80% of last 3 years
+#find items with at least 80% of last 3 years
 
 food5 <- food3 %>% filter(!is.na(value)) %>% filter(date >= "2022-01-01") %>% filter(location != "United States") %>%
   group_by(location,item) %>%
@@ -370,11 +373,10 @@ food9 <- rbind(food9, food11)
 
 food3 <- left_join(food3, food9, by = c("location","item"))
 
-
 #add in 2020 data for simple situations where the 2019 month matches the latest month
 test_for_2020 <- food3 %>%
   mutate(compare_date_2020 = make_date(2020, 1,1)) %>%
-  group_by(location, item) %>%
+  group_by(location, item, description) %>%
   #filter(!is.na(value)) %>%
   filter(date == compare_date_2020) %>%
   rename(compare_2020_value_adjusted = value_inflation_adjusted, compare_2020_value_raw = value) %>% select(-5,-11,-13)
@@ -385,9 +387,10 @@ candidates_2019 <- food3 %>%
 
 nearest_2020 <- left_join(candidates_2019, test_for_2020, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
 
+nearest_2020 <- left_join(candidates_2019, test_for_2020, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
 nearest_2020 <- nearest_2020 %>%
   mutate(diff_days = as.numeric(abs(compare_date_2020-date))) %>%
-  group_by(location,item) %>%
+  group_by(location,item,description) %>%
   arrange(diff_days, date) %>%
   slice_head(n = 1) %>%
   select(-24) %>%
@@ -403,10 +406,15 @@ nearest_2020 <- nearest_2020 %>%
 
 food12 <- left_join(food3, nearest_2020, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
 
+
 food3 <- food12 %>% 
   mutate(p_change_2020_newest_adjusted = round(((latest_value_adjusted - compare_2020_value_adjusted)/(compare_2020_value_adjusted))*100,1)) %>%
   select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,21)
 
+#get rid of nulls
+food3 <- food3 %>% filter(!is.na(value))
+
+# add full name for measurements
 food3 <- food3 %>% 
 mutate(measurement_long = measurement) %>% 
 mutate(measurement_long = str_replace_all(measurement_long, c("lb." = "pound", "16 oz." = "16-ounce container", "12 oz." = "12-ounce container", "8 oz." = "8-ounce container", "gal." = "gallon", "1/2 gal." = "half gallon", "doz." = "dozen", "pk." = "pack")))
@@ -438,19 +446,19 @@ food_all <- food3 %>%
   slice_tail(n = 1) %>% 
   select(-7,-8,-9,-21)
 
-data_2019 <- food3 %>%
-  filter(item == "All Food At Home") %>% 
-  mutate(date_2019 = make_date(2019, month(max_date),1)) %>%
-  group_by(location, item) %>%
-  filter(!is.na(value)) %>%
-  filter(date == date_2019) %>%
-  rename(value_adjusted_2019 = value_inflation_adjusted, value_raw_2019 = value) %>% 
-  mutate(p_change_2019_newest_adjusted = round(((latest_value_adjusted - value_adjusted_2019)/(value_adjusted_2019))*100,1)) %>% 
-  mutate(p_change_2019_newest_raw = ((latest_value_raw - value_raw_2019)/value_raw_2019)*100) %>% 
-  select(-5,-7,-8,-9,-11,-13,-18)
+#data_2019 <- food3 %>%
+#  filter(item == "All Food At Home") %>% 
+#  mutate(date_2019 = make_date(2019, month(max_date),1)) %>%
+#  group_by(location, item) %>%
+#  filter(!is.na(value)) %>%
+#  filter(date == date_2019) %>%
+#  rename(value_adjusted_2019 = value_inflation_adjusted, value_raw_2019 = value) %>% 
+#  mutate(p_change_2019_newest_adjusted = round(((latest_value_adjusted - value_adjusted_2019)/(value_adjusted_2019))*100,1)) %>% 
+#  mutate(p_change_2019_newest_raw = ((latest_value_raw - value_raw_2019)/value_raw_2019)*100) %>% 
+#  select(-5,-7,-8,-9,-11,-13,-18)
 
-food_all1 <- left_join(food_all, data_2019, by = c("location","state_abbreviation","state_spelled_out","region","item","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_adjusted","p_change_oldest_newest_adjusted")) %>% 
-  select(-2,-5,-8,-21) 
+#food_all1 <- left_join(food_all, data_2019, by = c("location","state_abbreviation","state_spelled_out","region","item","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_adjusted","p_change_oldest_newest_adjusted")) %>% 
+#  select(-2,-5,-8,-21) 
 
 
 # median household income
