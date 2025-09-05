@@ -520,7 +520,7 @@ income_years_flipped <- income_years_flipped %>% mutate(median_household_income_
   mutate(p_change_2019_recent_income = round(((median_household_income_raw_recent-median_household_income_adj_2019)/median_household_income_adj_2019)*100,1)) %>% 
   rename(location = region)
 
-food_all2 <- left_join(food_all1, income_years_flipped, by = c("location")) 
+food_all2 <- left_join(food_all, income_years_flipped, by = c("location")) 
 
 # write csvs and jsons
 
