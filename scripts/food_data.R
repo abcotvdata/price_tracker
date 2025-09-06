@@ -411,9 +411,6 @@ food3 <- food12 %>%
   mutate(p_change_2020_newest_adjusted = round(((latest_value_adjusted - compare_2020_value_adjusted)/(compare_2020_value_adjusted))*100,1)) %>%
   select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,21)
 
-#get rid of nulls
-food3 <- food3 %>% 
-mutate(value = ifelse(is.na(value), "", as.character(value)))
 
 # add full name for measurements
 food3 <- food3 %>% 
