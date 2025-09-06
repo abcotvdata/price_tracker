@@ -21,17 +21,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Albany-Schenectady-Troy",
@@ -55,17 +45,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Albuquerque",
@@ -89,17 +69,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Allentown-Bethlehem-Easton",
@@ -123,17 +93,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Atlanta-Sandy Springs-Roswell",
@@ -157,17 +117,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Augusta-Richmond County",
@@ -191,17 +141,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Austin-Round Rock-San Marcos",
@@ -225,17 +165,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Bakersfield-Delano",
@@ -259,17 +189,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Baltimore-Columbia-Towson",
@@ -293,17 +213,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Baton Rouge",
@@ -327,17 +237,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Birmingham",
@@ -361,17 +261,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Boise City",
@@ -395,17 +285,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Boston-Cambridge-Newton",
@@ -429,17 +309,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Bridgeport-Stamford-Danbury",
@@ -463,17 +333,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Buffalo-Cheektowaga",
@@ -497,17 +357,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Cape Coral-Fort Myers",
@@ -531,17 +381,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Charleston-North Charleston",
@@ -565,17 +405,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Charlotte-Concord-Gastonia",
@@ -599,17 +429,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Chattanooga",
@@ -633,17 +453,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Chicago-Naperville-Elgin",
@@ -667,17 +477,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Cincinnati",
@@ -701,17 +501,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Cleveland",
@@ -735,17 +525,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Colorado Springs",
@@ -769,17 +549,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Columbia",
@@ -803,17 +573,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Columbus",
@@ -837,17 +597,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Dallas-Fort Worth-Arlington",
@@ -871,17 +621,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Dayton-Kettering-Beavercreek",
@@ -905,17 +645,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Deltona-Daytona Beach-Ormond Beach",
@@ -939,17 +669,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Denver-Aurora-Centennial",
@@ -973,17 +693,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Des Moines-West Des Moines",
@@ -1007,17 +717,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Detroit-Warren-Dearborn",
@@ -1041,17 +741,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Durham-Chapel Hill",
@@ -1075,17 +765,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "El Paso",
@@ -1109,17 +789,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Fresno",
@@ -1143,17 +813,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Grand Rapids-Wyoming-Kentwood",
@@ -1177,17 +837,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Greensboro-High Point",
@@ -1211,17 +861,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Greenville-Anderson-Greer",
@@ -1245,17 +885,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Harrisburg-Carlisle",
@@ -1279,17 +909,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Hartford-West Hartford-East Hartford",
@@ -1313,17 +933,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Houston-Pasadena-The Woodlands",
@@ -1347,17 +957,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Indianapolis-Carmel-Greenwood",
@@ -1381,17 +981,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Jackson",
@@ -1415,17 +1005,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Jacksonville",
@@ -1449,17 +1029,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Kansas City",
@@ -1483,17 +1053,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Kiryas Joel-Poughkeepsie-Newburgh",
@@ -1517,17 +1077,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Knoxville",
@@ -1551,17 +1101,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Lakeland-Winter Haven",
@@ -1585,17 +1125,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Las Vegas-Henderson-North Las Vegas",
@@ -1619,17 +1149,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Little Rock-North Little Rock-Conway",
@@ -1653,17 +1173,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Los Angeles-Long Beach-Anaheim",
@@ -1687,17 +1197,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Louisville/Jefferson County",
@@ -1721,17 +1221,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Madison",
@@ -1755,17 +1245,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "McAllen-Edinburg-Mission",
@@ -1789,17 +1269,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Memphis",
@@ -1823,17 +1293,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Miami-Fort Lauderdale-West Palm Beach",
@@ -1857,17 +1317,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Milwaukee-Waukesha",
@@ -1891,17 +1341,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Minneapolis-St. Paul-Bloomington",
@@ -1925,17 +1365,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Nashville-Davidson--Murfreesboro--Franklin",
@@ -1959,17 +1389,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "New Haven",
@@ -1993,17 +1413,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "New Orleans-Metairie",
@@ -2027,17 +1437,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "New York-Newark-Jersey City",
@@ -2061,17 +1461,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "North Port-Bradenton-Sarasota",
@@ -2095,17 +1485,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Ogden",
@@ -2129,17 +1509,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Oklahoma City",
@@ -2163,17 +1533,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Omaha",
@@ -2197,17 +1557,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Orlando-Kissimmee-Sanford",
@@ -2231,17 +1581,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Oxnard-Thousand Oaks-Ventura",
@@ -2265,17 +1605,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Palm Bay-Melbourne-Titusville",
@@ -2299,17 +1629,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Philadelphia-Camden-Wilmington",
@@ -2333,17 +1653,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Phoenix-Mesa-Chandler",
@@ -2367,17 +1677,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Pittsburgh",
@@ -2401,17 +1701,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Portland-Vancouver-Hillsboro",
@@ -2435,17 +1725,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Providence-Warwick",
@@ -2469,17 +1749,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Provo-Orem-Lehi",
@@ -2503,17 +1773,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Raleigh-Cary",
@@ -2537,17 +1797,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Richmond",
@@ -2571,17 +1821,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Riverside-San Bernardino-Ontario",
@@ -2605,17 +1845,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Rochester",
@@ -2639,17 +1869,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Sacramento-Roseville-Folsom",
@@ -2673,17 +1893,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Salt Lake City-Murray",
@@ -2707,17 +1917,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "San Antonio-New Braunfels",
@@ -2741,17 +1941,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "San Diego-Chula Vista-Carlsbad",
@@ -2775,17 +1965,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "San Francisco-Oakland-Fremont",
@@ -2809,17 +1989,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "San Jose-Sunnyvale-Santa Clara",
@@ -2843,17 +2013,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Scranton--Wilkes-Barre",
@@ -2877,17 +2037,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Seattle-Tacoma-Bellevue",
@@ -2911,17 +2061,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Spokane-Spokane Valley",
@@ -2945,17 +2085,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "St. Louis",
@@ -2979,17 +2109,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Stockton-Lodi",
@@ -3013,17 +2133,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Syracuse",
@@ -3047,17 +2157,7 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   },
   {
     "location": "Tampa-St. Petersburg-Clearwater",
@@ -3081,17 +2181,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Toledo",
@@ -3115,17 +2205,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Tucson",
@@ -3149,17 +2229,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Tulsa",
@@ -3183,17 +2253,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "United States",
@@ -3217,7 +2277,6 @@
     "compare_2020_value_adjusted": 301.46,
     "p_change_2020_newest_adjusted": 3.9,
     "data_complete": "True",
-    "measurement_long": null,
     "p_change_oldest_newest_raw": 28.8496,
     "median_household_income_raw_2015": 53889,
     "median_household_income_raw_2019": 62843,
@@ -3251,17 +2310,7 @@
     "compare_2020_value_adjusted": 311.12,
     "p_change_2020_newest_adjusted": 6.1,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 31.8502,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 31.8502
   },
   {
     "location": "Virginia Beach-Chesapeake-Norfolk",
@@ -3285,17 +2334,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Washington-Arlington-Alexandria",
@@ -3319,17 +2358,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Wichita",
@@ -3353,17 +2382,7 @@
     "compare_2020_value_adjusted": 283.3,
     "p_change_2020_newest_adjusted": 4.4,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 27.8631,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 27.8631
   },
   {
     "location": "Winston-Salem",
@@ -3387,17 +2406,7 @@
     "compare_2020_value_adjusted": 298.6,
     "p_change_2020_newest_adjusted": 4.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 28.6673,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 28.6673
   },
   {
     "location": "Worcester",
@@ -3421,16 +2430,6 @@
     "compare_2020_value_adjusted": 314.33,
     "p_change_2020_newest_adjusted": 0.2,
     "data_complete": "True",
-    "measurement_long": null,
-    "p_change_oldest_newest_raw": 26.5439,
-    "median_household_income_raw_2015": null,
-    "median_household_income_raw_2019": null,
-    "median_household_income_raw_recent": null,
-    "inflation_adjustment_2015": null,
-    "inflation_adjustment_2019": null,
-    "median_household_income_adj_2015": null,
-    "median_household_income_adj_2019": null,
-    "p_change_2015_recent_income": null,
-    "p_change_2019_recent_income": null
+    "p_change_oldest_newest_raw": 26.5439
   }
 ]
