@@ -412,12 +412,8 @@ food3 <- food12 %>%
   select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,21)
 
 #get rid of nulls
-food3$value<-as.character(food3$value)
-
 food3 <- food3 %>% 
-mutate(value = replace_na(value, ""))
-
-food3$value<-as.numeric(food3$value)
+mutate(value = ifelse(is.na(value), "", as.character(value)))
 
 # add full name for measurements
 food3 <- food3 %>% 
