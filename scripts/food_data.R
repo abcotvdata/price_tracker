@@ -525,23 +525,23 @@ food_all2 <- left_join(food_all, income_years_flipped, by = c("location"))
 
 # write csvs and jsons
 
-write_json(produce_bin, "groceries/produce_data.json", pretty = TRUE, na = "null")
+write_json(produce_bin, "groceries/produce_data.json", pretty = TRUE)
 write_csv(produce_bin, "groceries/produce_data.csv", na = "null")
 
-write_json(dry_goods_bin, "groceries/dry_goods_data.json", pretty = TRUE, na = "null")
+write_json(dry_goods_bin, "groceries/dry_goods_data.json", pretty = TRUE)
 write_csv(dry_goods_bin, "groceries/dry_goods_data.csv", na = "null")
 
-write_json(meat_bin, "groceries/meat_data.json", pretty = TRUE, na = "null")
+write_json(meat_bin, "groceries/meat_data.json", pretty = TRUE)
 write_csv(meat_bin, "groceries/meat_data.csv", na = "null")
 
-write_json(dairy_bin, "groceries/dairy_data.json", pretty = TRUE, na = "null")
+write_json(dairy_bin, "groceries/dairy_data.json", pretty = TRUE)
 write_csv(dairy_bin, "groceries/dairy_data.csv", na = "null")
 
-write_json(snack_bin, "groceries/snack_data.json", pretty = TRUE, na = "null")
+write_json(snack_bin, "groceries/snack_data.json", pretty = TRUE)
 write_csv(snack_bin, "groceries/snack_data.csv", na = "null")
 
-write_json(drinks_bin, "groceries/drinks_data.json", pretty = TRUE, na = "null")
+write_json(drinks_bin, "groceries/drinks_data.json", pretty = TRUE)
 write_csv(drinks_bin, "groceries/drinks_data.csv", na = "null")
 
-write_json(food_all2, "groceries/food_cpi.json", pretty = TRUE, na = "null")
+write_json(food_all2, "groceries/food_cpi.json", pretty = TRUE)
 write_csv(food_all2, "groceries/food_cpi.csv", na = "null")
