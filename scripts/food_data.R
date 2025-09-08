@@ -417,6 +417,8 @@ food3 <- food3 %>%
 mutate(measurement_long = measurement) %>% 
 mutate(measurement_long = str_replace_all(measurement_long, c("lb." = "pound", "16 oz." = "16-ounce container", "12 oz." = "12-ounce container", "8 oz." = "8-ounce container", "gal." = "gallon", "1/2 gal." = "half gallon", "doz." = "dozen", "pk." = "pack")))
 
+lubridate::day(food3$date) <- 5
+
 produce_bin <- food3 %>% 
   filter(category_bin == "Produce")
 
