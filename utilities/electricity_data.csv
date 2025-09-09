@@ -44,7 +44,6 @@ United States,US,2018-06-05,United States,United States,Residential Electricity,
 United States,US,2018-07-05,United States,United States,Residential Electricity,150.60312695917938,1.28,192.77,2025-09-09
 United States,US,2018-08-05,United States,United States,Residential Electricity,151.40264703252896,1.28,193.8,2025-09-09
 United States,US,2018-09-05,United States,United States,Residential Electricity,125.35339625867533,1.28,160.45,2025-09-09
-United States,US,2018-10-05,United States,United States,Residential Electricity,NA,1.27,NA,2025-09-09
 United States,US,2018-11-05,United States,United States,Residential Electricity,99.80141909030591,1.28,127.75,2025-09-09
 United States,US,2018-12-05,United States,United States,Residential Electricity,113.81843967375394,1.27,144.55,2025-09-09
 United States,US,2019-01-05,United States,United States,Residential Electricity,123.2873455373358,1.28,157.81,2025-09-09
@@ -170,6 +169,7 @@ Akron,OH,2018-06-05,Ohio,Midwest,Residential Electricity,118.5989631723749,1.28,
 Akron,OH,2018-07-05,Ohio,Midwest,Residential Electricity,142.46043939922077,1.28,182.35,2025-09-09
 Akron,OH,2018-08-05,Ohio,Midwest,Residential Electricity,136.3044789414888,1.28,174.47,2025-09-09
 Akron,OH,2018-09-05,Ohio,Midwest,Residential Electricity,106.37249388743396,1.28,136.16,2025-09-09
+Akron,OH,2018-10-05,Ohio,Midwest,Residential Electricity,96.49558037688335,1.27,122.55,2025-09-09
 Akron,OH,2018-11-05,Ohio,Midwest,Residential Electricity,104.00795780417911,1.28,133.13,2025-09-09
 Akron,OH,2018-12-05,Ohio,Midwest,Residential Electricity,117.34385348536907,1.27,149.03,2025-09-09
 Akron,OH,2019-01-05,Ohio,Midwest,Residential Electricity,128.32022485636426,1.28,164.25,2025-09-09
@@ -295,6 +295,7 @@ Albany-Schenectady-Troy,NY,2018-06-05,New York,East Coast,Residential Electricit
 Albany-Schenectady-Troy,NY,2018-07-05,New York,East Coast,Residential Electricity,146.01748725339507,1.28,186.9,2025-09-09
 Albany-Schenectady-Troy,NY,2018-08-05,New York,East Coast,Residential Electricity,149.15786725545644,1.28,190.92,2025-09-09
 Albany-Schenectady-Troy,NY,2018-09-05,New York,East Coast,Residential Electricity,137.84120584709987,1.28,176.44,2025-09-09
+Albany-Schenectady-Troy,NY,2018-10-05,New York,East Coast,Residential Electricity,105.00821118679032,1.27,133.36,2025-09-09
 Albany-Schenectady-Troy,NY,2018-11-05,New York,East Coast,Residential Electricity,93.68773649241434,1.28,119.92,2025-09-09
 Albany-Schenectady-Troy,NY,2018-12-05,New York,East Coast,Residential Electricity,103.75579383936602,1.27,131.77,2025-09-09
 Albany-Schenectady-Troy,NY,2019-01-05,New York,East Coast,Residential Electricity,107.63662454267651,1.28,137.77,2025-09-09
@@ -420,7 +421,6 @@ Albuquerque,NM,2018-06-05,New Mexico,Gulf Coast,Residential Electricity,98.45886
 Albuquerque,NM,2018-07-05,New Mexico,Gulf Coast,Residential Electricity,116.98563346209724,1.28,149.74,2025-09-09
 Albuquerque,NM,2018-08-05,New Mexico,Gulf Coast,Residential Electricity,111.95502417954253,1.28,143.3,2025-09-09
 Albuquerque,NM,2018-09-05,New Mexico,Gulf Coast,Residential Electricity,84.53919158987729,1.28,108.21,2025-09-09
-Albuquerque,NM,2018-10-05,New Mexico,Gulf Coast,Residential Electricity,67.94559499442904,1.27,86.29,2025-09-09
 Albuquerque,NM,2018-11-05,New Mexico,Gulf Coast,Residential Electricity,66.4840531986321,1.28,85.1,2025-09-09
 Albuquerque,NM,2018-12-05,New Mexico,Gulf Coast,Residential Electricity,83.13294358102819,1.27,105.58,2025-09-09
 Albuquerque,NM,2019-01-05,New Mexico,Gulf Coast,Residential Electricity,90.02744667212082,1.28,115.24,2025-09-09
@@ -546,6 +546,7 @@ Allentown-Bethlehem-Easton,PA,2018-06-05,Pennsylvania,East Coast,Residential Ele
 Allentown-Bethlehem-Easton,PA,2018-07-05,Pennsylvania,East Coast,Residential Electricity,134.70597832409138,1.28,172.42,2025-09-09
 Allentown-Bethlehem-Easton,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-09
 Allentown-Bethlehem-Easton,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-09
+Allentown-Bethlehem-Easton,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.27,126.35,2025-09-09
 Allentown-Bethlehem-Easton,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-09
 Allentown-Bethlehem-Easton,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.27,163.31,2025-09-09
 Allentown-Bethlehem-Easton,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-09
@@ -671,7 +672,6 @@ Atlanta-Sandy Springs-Roswell,GA,2018-06-05,Georgia,East Coast,Residential Elect
 Atlanta-Sandy Springs-Roswell,GA,2018-07-05,Georgia,East Coast,Residential Electricity,178.85821211802966,1.28,228.94,2025-09-09
 Atlanta-Sandy Springs-Roswell,GA,2018-08-05,Georgia,East Coast,Residential Electricity,175.28128696682242,1.28,224.36,2025-09-09
 Atlanta-Sandy Springs-Roswell,GA,2018-09-05,Georgia,East Coast,Residential Electricity,162.35529130873704,1.28,207.81,2025-09-09
-Atlanta-Sandy Springs-Roswell,GA,2018-10-05,Georgia,East Coast,Residential Electricity,110.92235293841965,1.27,140.87,2025-09-09
 Atlanta-Sandy Springs-Roswell,GA,2018-11-05,Georgia,East Coast,Residential Electricity,102.29586839416046,1.28,130.94,2025-09-09
 Atlanta-Sandy Springs-Roswell,GA,2018-12-05,Georgia,East Coast,Residential Electricity,106.33423933113524,1.27,135.04,2025-09-09
 Atlanta-Sandy Springs-Roswell,GA,2019-01-05,Georgia,East Coast,Residential Electricity,133.36962943150917,1.28,170.71,2025-09-09
@@ -797,7 +797,6 @@ Augusta-Richmond County,GA,2018-06-05,Georgia,East Coast,Residential Electricity
 Augusta-Richmond County,GA,2018-07-05,Georgia,East Coast,Residential Electricity,178.85821211802966,1.28,228.94,2025-09-09
 Augusta-Richmond County,GA,2018-08-05,Georgia,East Coast,Residential Electricity,175.28128696682242,1.28,224.36,2025-09-09
 Augusta-Richmond County,GA,2018-09-05,Georgia,East Coast,Residential Electricity,162.35529130873704,1.28,207.81,2025-09-09
-Augusta-Richmond County,GA,2018-10-05,Georgia,East Coast,Residential Electricity,110.92235293841965,1.27,140.87,2025-09-09
 Augusta-Richmond County,GA,2018-11-05,Georgia,East Coast,Residential Electricity,102.29586839416046,1.28,130.94,2025-09-09
 Augusta-Richmond County,GA,2018-12-05,Georgia,East Coast,Residential Electricity,106.33423933113524,1.27,135.04,2025-09-09
 Augusta-Richmond County,GA,2019-01-05,Georgia,East Coast,Residential Electricity,133.36962943150917,1.28,170.71,2025-09-09
@@ -1175,6 +1174,7 @@ Baltimore-Columbia-Towson,MD,2018-06-05,Maryland,East Coast,Residential Electric
 Baltimore-Columbia-Towson,MD,2018-07-05,Maryland,East Coast,Residential Electricity,159.81118218823121,1.28,204.56,2025-09-09
 Baltimore-Columbia-Towson,MD,2018-08-05,Maryland,East Coast,Residential Electricity,153.39368783848846,1.28,196.34,2025-09-09
 Baltimore-Columbia-Towson,MD,2018-09-05,Maryland,East Coast,Residential Electricity,127.91717671083852,1.28,163.73,2025-09-09
+Baltimore-Columbia-Towson,MD,2018-10-05,Maryland,East Coast,Residential Electricity,109.72505720553747,1.27,139.35,2025-09-09
 Baltimore-Columbia-Towson,MD,2018-11-05,Maryland,East Coast,Residential Electricity,117.8876179569361,1.28,150.9,2025-09-09
 Baltimore-Columbia-Towson,MD,2018-12-05,Maryland,East Coast,Residential Electricity,143.2644692457661,1.27,181.95,2025-09-09
 Baltimore-Columbia-Towson,MD,2019-01-05,Maryland,East Coast,Residential Electricity,165.70899371869157,1.28,212.11,2025-09-09
@@ -1930,6 +1930,7 @@ Buffalo-Cheektowaga,NY,2018-06-05,New York,East Coast,Residential Electricity,10
 Buffalo-Cheektowaga,NY,2018-07-05,New York,East Coast,Residential Electricity,146.01748725339507,1.28,186.9,2025-09-09
 Buffalo-Cheektowaga,NY,2018-08-05,New York,East Coast,Residential Electricity,149.15786725545644,1.28,190.92,2025-09-09
 Buffalo-Cheektowaga,NY,2018-09-05,New York,East Coast,Residential Electricity,137.84120584709987,1.28,176.44,2025-09-09
+Buffalo-Cheektowaga,NY,2018-10-05,New York,East Coast,Residential Electricity,105.00821118679032,1.27,133.36,2025-09-09
 Buffalo-Cheektowaga,NY,2018-11-05,New York,East Coast,Residential Electricity,93.68773649241434,1.28,119.92,2025-09-09
 Buffalo-Cheektowaga,NY,2018-12-05,New York,East Coast,Residential Electricity,103.75579383936602,1.27,131.77,2025-09-09
 Buffalo-Cheektowaga,NY,2019-01-05,New York,East Coast,Residential Electricity,107.63662454267651,1.28,137.77,2025-09-09
@@ -2055,7 +2056,6 @@ Cape Coral-Fort Myers,FL,2018-06-05,Florida,East Coast,Residential Electricity,1
 Cape Coral-Fort Myers,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Cape Coral-Fort Myers,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Cape Coral-Fort Myers,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Cape Coral-Fort Myers,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Cape Coral-Fort Myers,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Cape Coral-Fort Myers,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Cape Coral-Fort Myers,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -2181,6 +2181,7 @@ Charleston-North Charleston,SC,2018-06-05,South Carolina,East Coast,Residential 
 Charleston-North Charleston,SC,2018-07-05,South Carolina,East Coast,Residential Electricity,189.0224930482992,1.28,241.95,2025-09-09
 Charleston-North Charleston,SC,2018-08-05,South Carolina,East Coast,Residential Electricity,145.6634158324508,1.28,186.45,2025-09-09
 Charleston-North Charleston,SC,2018-09-05,South Carolina,East Coast,Residential Electricity,156.50906114822098,1.28,200.33,2025-09-09
+Charleston-North Charleston,SC,2018-10-05,South Carolina,East Coast,Residential Electricity,128.11983649208793,1.27,162.71,2025-09-09
 Charleston-North Charleston,SC,2018-11-05,South Carolina,East Coast,Residential Electricity,117.03539877566443,1.28,149.81,2025-09-09
 Charleston-North Charleston,SC,2018-12-05,South Carolina,East Coast,Residential Electricity,137.17311710774507,1.27,174.21,2025-09-09
 Charleston-North Charleston,SC,2019-01-05,South Carolina,East Coast,Residential Electricity,148.3000153806372,1.28,189.82,2025-09-09
@@ -2306,6 +2307,7 @@ Charlotte-Concord-Gastonia,NC,2018-06-05,North Carolina,East Coast,Residential E
 Charlotte-Concord-Gastonia,NC,2018-07-05,North Carolina,East Coast,Residential Electricity,151.86737997118132,1.28,194.39,2025-09-09
 Charlotte-Concord-Gastonia,NC,2018-08-05,North Carolina,East Coast,Residential Electricity,148.66659209252063,1.28,190.29,2025-09-09
 Charlotte-Concord-Gastonia,NC,2018-09-05,North Carolina,East Coast,Residential Electricity,133.59456631792378,1.28,171,2025-09-09
+Charlotte-Concord-Gastonia,NC,2018-10-05,North Carolina,East Coast,Residential Electricity,109.44246917523866,1.27,138.99,2025-09-09
 Charlotte-Concord-Gastonia,NC,2018-11-05,North Carolina,East Coast,Residential Electricity,106.06301359431055,1.28,135.76,2025-09-09
 Charlotte-Concord-Gastonia,NC,2018-12-05,North Carolina,East Coast,Residential Electricity,124.57977489722151,1.27,158.22,2025-09-09
 Charlotte-Concord-Gastonia,NC,2019-01-05,North Carolina,East Coast,Residential Electricity,137.81449534457474,1.28,176.4,2025-09-09
@@ -2431,7 +2433,6 @@ Chattanooga,TN,2018-06-05,Tennessee,Midwest,Residential Electricity,143.76453017
 Chattanooga,TN,2018-07-05,Tennessee,Midwest,Residential Electricity,165.23156741776,1.28,211.5,2025-09-09
 Chattanooga,TN,2018-08-05,Tennessee,Midwest,Residential Electricity,159.94038795577842,1.28,204.72,2025-09-09
 Chattanooga,TN,2018-09-05,Tennessee,Midwest,Residential Electricity,149.05757136025997,1.28,190.79,2025-09-09
-Chattanooga,TN,2018-10-05,Tennessee,Midwest,Residential Electricity,118.8513646049046,1.27,150.94,2025-09-09
 Chattanooga,TN,2018-11-05,Tennessee,Midwest,Residential Electricity,111.80731412835121,1.28,143.11,2025-09-09
 Chattanooga,TN,2018-12-05,Tennessee,Midwest,Residential Electricity,141.76564619615698,1.27,180.04,2025-09-09
 Chattanooga,TN,2019-01-05,Tennessee,Midwest,Residential Electricity,146.72956701601314,1.28,187.81,2025-09-09
@@ -2683,6 +2684,7 @@ Cincinnati,OH,2018-06-05,Ohio,Midwest,Residential Electricity,118.5989631723749,
 Cincinnati,OH,2018-07-05,Ohio,Midwest,Residential Electricity,142.46043939922077,1.28,182.35,2025-09-09
 Cincinnati,OH,2018-08-05,Ohio,Midwest,Residential Electricity,136.3044789414888,1.28,174.47,2025-09-09
 Cincinnati,OH,2018-09-05,Ohio,Midwest,Residential Electricity,106.37249388743396,1.28,136.16,2025-09-09
+Cincinnati,OH,2018-10-05,Ohio,Midwest,Residential Electricity,96.49558037688335,1.27,122.55,2025-09-09
 Cincinnati,OH,2018-11-05,Ohio,Midwest,Residential Electricity,104.00795780417911,1.28,133.13,2025-09-09
 Cincinnati,OH,2018-12-05,Ohio,Midwest,Residential Electricity,117.34385348536907,1.27,149.03,2025-09-09
 Cincinnati,OH,2019-01-05,Ohio,Midwest,Residential Electricity,128.32022485636426,1.28,164.25,2025-09-09
@@ -2808,6 +2810,7 @@ Cleveland,OH,2018-06-05,Ohio,Midwest,Residential Electricity,118.5989631723749,1
 Cleveland,OH,2018-07-05,Ohio,Midwest,Residential Electricity,142.46043939922077,1.28,182.35,2025-09-09
 Cleveland,OH,2018-08-05,Ohio,Midwest,Residential Electricity,136.3044789414888,1.28,174.47,2025-09-09
 Cleveland,OH,2018-09-05,Ohio,Midwest,Residential Electricity,106.37249388743396,1.28,136.16,2025-09-09
+Cleveland,OH,2018-10-05,Ohio,Midwest,Residential Electricity,96.49558037688335,1.27,122.55,2025-09-09
 Cleveland,OH,2018-11-05,Ohio,Midwest,Residential Electricity,104.00795780417911,1.28,133.13,2025-09-09
 Cleveland,OH,2018-12-05,Ohio,Midwest,Residential Electricity,117.34385348536907,1.27,149.03,2025-09-09
 Cleveland,OH,2019-01-05,Ohio,Midwest,Residential Electricity,128.32022485636426,1.28,164.25,2025-09-09
@@ -3059,6 +3062,7 @@ Columbia,SC,2018-06-05,South Carolina,East Coast,Residential Electricity,171.939
 Columbia,SC,2018-07-05,South Carolina,East Coast,Residential Electricity,189.0224930482992,1.28,241.95,2025-09-09
 Columbia,SC,2018-08-05,South Carolina,East Coast,Residential Electricity,145.6634158324508,1.28,186.45,2025-09-09
 Columbia,SC,2018-09-05,South Carolina,East Coast,Residential Electricity,156.50906114822098,1.28,200.33,2025-09-09
+Columbia,SC,2018-10-05,South Carolina,East Coast,Residential Electricity,128.11983649208793,1.27,162.71,2025-09-09
 Columbia,SC,2018-11-05,South Carolina,East Coast,Residential Electricity,117.03539877566443,1.28,149.81,2025-09-09
 Columbia,SC,2018-12-05,South Carolina,East Coast,Residential Electricity,137.17311710774507,1.27,174.21,2025-09-09
 Columbia,SC,2019-01-05,South Carolina,East Coast,Residential Electricity,148.3000153806372,1.28,189.82,2025-09-09
@@ -3184,6 +3188,7 @@ Columbus,OH,2018-06-05,Ohio,Midwest,Residential Electricity,118.5989631723749,1.
 Columbus,OH,2018-07-05,Ohio,Midwest,Residential Electricity,142.46043939922077,1.28,182.35,2025-09-09
 Columbus,OH,2018-08-05,Ohio,Midwest,Residential Electricity,136.3044789414888,1.28,174.47,2025-09-09
 Columbus,OH,2018-09-05,Ohio,Midwest,Residential Electricity,106.37249388743396,1.28,136.16,2025-09-09
+Columbus,OH,2018-10-05,Ohio,Midwest,Residential Electricity,96.49558037688335,1.27,122.55,2025-09-09
 Columbus,OH,2018-11-05,Ohio,Midwest,Residential Electricity,104.00795780417911,1.28,133.13,2025-09-09
 Columbus,OH,2018-12-05,Ohio,Midwest,Residential Electricity,117.34385348536907,1.27,149.03,2025-09-09
 Columbus,OH,2019-01-05,Ohio,Midwest,Residential Electricity,128.32022485636426,1.28,164.25,2025-09-09
@@ -3435,6 +3440,7 @@ Dayton-Kettering-Beavercreek,OH,2018-06-05,Ohio,Midwest,Residential Electricity,
 Dayton-Kettering-Beavercreek,OH,2018-07-05,Ohio,Midwest,Residential Electricity,142.46043939922077,1.28,182.35,2025-09-09
 Dayton-Kettering-Beavercreek,OH,2018-08-05,Ohio,Midwest,Residential Electricity,136.3044789414888,1.28,174.47,2025-09-09
 Dayton-Kettering-Beavercreek,OH,2018-09-05,Ohio,Midwest,Residential Electricity,106.37249388743396,1.28,136.16,2025-09-09
+Dayton-Kettering-Beavercreek,OH,2018-10-05,Ohio,Midwest,Residential Electricity,96.49558037688335,1.27,122.55,2025-09-09
 Dayton-Kettering-Beavercreek,OH,2018-11-05,Ohio,Midwest,Residential Electricity,104.00795780417911,1.28,133.13,2025-09-09
 Dayton-Kettering-Beavercreek,OH,2018-12-05,Ohio,Midwest,Residential Electricity,117.34385348536907,1.27,149.03,2025-09-09
 Dayton-Kettering-Beavercreek,OH,2019-01-05,Ohio,Midwest,Residential Electricity,128.32022485636426,1.28,164.25,2025-09-09
@@ -3560,7 +3566,6 @@ Deltona-Daytona Beach-Ormond Beach,FL,2018-06-05,Florida,East Coast,Residential 
 Deltona-Daytona Beach-Ormond Beach,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Deltona-Daytona Beach-Ormond Beach,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Deltona-Daytona Beach-Ormond Beach,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Deltona-Daytona Beach-Ormond Beach,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Deltona-Daytona Beach-Ormond Beach,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Deltona-Daytona Beach-Ormond Beach,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Deltona-Daytona Beach-Ormond Beach,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -4064,6 +4069,7 @@ Durham-Chapel Hill,NC,2018-06-05,North Carolina,East Coast,Residential Electrici
 Durham-Chapel Hill,NC,2018-07-05,North Carolina,East Coast,Residential Electricity,151.86737997118132,1.28,194.39,2025-09-09
 Durham-Chapel Hill,NC,2018-08-05,North Carolina,East Coast,Residential Electricity,148.66659209252063,1.28,190.29,2025-09-09
 Durham-Chapel Hill,NC,2018-09-05,North Carolina,East Coast,Residential Electricity,133.59456631792378,1.28,171,2025-09-09
+Durham-Chapel Hill,NC,2018-10-05,North Carolina,East Coast,Residential Electricity,109.44246917523866,1.27,138.99,2025-09-09
 Durham-Chapel Hill,NC,2018-11-05,North Carolina,East Coast,Residential Electricity,106.06301359431055,1.28,135.76,2025-09-09
 Durham-Chapel Hill,NC,2018-12-05,North Carolina,East Coast,Residential Electricity,124.57977489722151,1.27,158.22,2025-09-09
 Durham-Chapel Hill,NC,2019-01-05,North Carolina,East Coast,Residential Electricity,137.81449534457474,1.28,176.4,2025-09-09
@@ -4567,6 +4573,7 @@ Greensboro-High Point,NC,2018-06-05,North Carolina,East Coast,Residential Electr
 Greensboro-High Point,NC,2018-07-05,North Carolina,East Coast,Residential Electricity,151.86737997118132,1.28,194.39,2025-09-09
 Greensboro-High Point,NC,2018-08-05,North Carolina,East Coast,Residential Electricity,148.66659209252063,1.28,190.29,2025-09-09
 Greensboro-High Point,NC,2018-09-05,North Carolina,East Coast,Residential Electricity,133.59456631792378,1.28,171,2025-09-09
+Greensboro-High Point,NC,2018-10-05,North Carolina,East Coast,Residential Electricity,109.44246917523866,1.27,138.99,2025-09-09
 Greensboro-High Point,NC,2018-11-05,North Carolina,East Coast,Residential Electricity,106.06301359431055,1.28,135.76,2025-09-09
 Greensboro-High Point,NC,2018-12-05,North Carolina,East Coast,Residential Electricity,124.57977489722151,1.27,158.22,2025-09-09
 Greensboro-High Point,NC,2019-01-05,North Carolina,East Coast,Residential Electricity,137.81449534457474,1.28,176.4,2025-09-09
@@ -4692,6 +4699,7 @@ Greenville-Anderson-Greer,SC,2018-06-05,South Carolina,East Coast,Residential El
 Greenville-Anderson-Greer,SC,2018-07-05,South Carolina,East Coast,Residential Electricity,189.0224930482992,1.28,241.95,2025-09-09
 Greenville-Anderson-Greer,SC,2018-08-05,South Carolina,East Coast,Residential Electricity,145.6634158324508,1.28,186.45,2025-09-09
 Greenville-Anderson-Greer,SC,2018-09-05,South Carolina,East Coast,Residential Electricity,156.50906114822098,1.28,200.33,2025-09-09
+Greenville-Anderson-Greer,SC,2018-10-05,South Carolina,East Coast,Residential Electricity,128.11983649208793,1.27,162.71,2025-09-09
 Greenville-Anderson-Greer,SC,2018-11-05,South Carolina,East Coast,Residential Electricity,117.03539877566443,1.28,149.81,2025-09-09
 Greenville-Anderson-Greer,SC,2018-12-05,South Carolina,East Coast,Residential Electricity,137.17311710774507,1.27,174.21,2025-09-09
 Greenville-Anderson-Greer,SC,2019-01-05,South Carolina,East Coast,Residential Electricity,148.3000153806372,1.28,189.82,2025-09-09
@@ -4817,6 +4825,7 @@ Harrisburg-Carlisle,PA,2018-06-05,Pennsylvania,East Coast,Residential Electricit
 Harrisburg-Carlisle,PA,2018-07-05,Pennsylvania,East Coast,Residential Electricity,134.70597832409138,1.28,172.42,2025-09-09
 Harrisburg-Carlisle,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-09
 Harrisburg-Carlisle,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-09
+Harrisburg-Carlisle,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.27,126.35,2025-09-09
 Harrisburg-Carlisle,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-09
 Harrisburg-Carlisle,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.27,163.31,2025-09-09
 Harrisburg-Carlisle,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-09
@@ -5446,7 +5455,6 @@ Jacksonville,FL,2018-06-05,Florida,East Coast,Residential Electricity,140.731081
 Jacksonville,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Jacksonville,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Jacksonville,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Jacksonville,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Jacksonville,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Jacksonville,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Jacksonville,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -5572,7 +5580,6 @@ Kansas City,MO,2018-06-05,Missouri,Midwest,Residential Electricity,167.910462637
 Kansas City,MO,2018-07-05,Missouri,Midwest,Residential Electricity,184.26114678179977,1.28,235.85,2025-09-09
 Kansas City,MO,2018-08-05,Missouri,Midwest,Residential Electricity,167.95541098687738,1.28,214.98,2025-09-09
 Kansas City,MO,2018-09-05,Missouri,Midwest,Residential Electricity,122.208557396379,1.28,156.43,2025-09-09
-Kansas City,MO,2018-10-05,Missouri,Midwest,Residential Electricity,95.70309276375697,1.27,121.54,2025-09-09
 Kansas City,MO,2018-11-05,Missouri,Midwest,Residential Electricity,101.26691657265742,1.28,129.62,2025-09-09
 Kansas City,MO,2018-12-05,Missouri,Midwest,Residential Electricity,115.33686140006284,1.27,146.48,2025-09-09
 Kansas City,MO,2019-01-05,Missouri,Midwest,Residential Electricity,123.45971617256166,1.28,158.03,2025-09-09
@@ -5698,6 +5705,7 @@ Kiryas Joel-Poughkeepsie-Newburgh,NY,2018-06-05,New York,East Coast,Residential 
 Kiryas Joel-Poughkeepsie-Newburgh,NY,2018-07-05,New York,East Coast,Residential Electricity,146.01748725339507,1.28,186.9,2025-09-09
 Kiryas Joel-Poughkeepsie-Newburgh,NY,2018-08-05,New York,East Coast,Residential Electricity,149.15786725545644,1.28,190.92,2025-09-09
 Kiryas Joel-Poughkeepsie-Newburgh,NY,2018-09-05,New York,East Coast,Residential Electricity,137.84120584709987,1.28,176.44,2025-09-09
+Kiryas Joel-Poughkeepsie-Newburgh,NY,2018-10-05,New York,East Coast,Residential Electricity,105.00821118679032,1.27,133.36,2025-09-09
 Kiryas Joel-Poughkeepsie-Newburgh,NY,2018-11-05,New York,East Coast,Residential Electricity,93.68773649241434,1.28,119.92,2025-09-09
 Kiryas Joel-Poughkeepsie-Newburgh,NY,2018-12-05,New York,East Coast,Residential Electricity,103.75579383936602,1.27,131.77,2025-09-09
 Kiryas Joel-Poughkeepsie-Newburgh,NY,2019-01-05,New York,East Coast,Residential Electricity,107.63662454267651,1.28,137.77,2025-09-09
@@ -5823,7 +5831,6 @@ Knoxville,TN,2018-06-05,Tennessee,Midwest,Residential Electricity,143.7645301799
 Knoxville,TN,2018-07-05,Tennessee,Midwest,Residential Electricity,165.23156741776,1.28,211.5,2025-09-09
 Knoxville,TN,2018-08-05,Tennessee,Midwest,Residential Electricity,159.94038795577842,1.28,204.72,2025-09-09
 Knoxville,TN,2018-09-05,Tennessee,Midwest,Residential Electricity,149.05757136025997,1.28,190.79,2025-09-09
-Knoxville,TN,2018-10-05,Tennessee,Midwest,Residential Electricity,118.8513646049046,1.27,150.94,2025-09-09
 Knoxville,TN,2018-11-05,Tennessee,Midwest,Residential Electricity,111.80731412835121,1.28,143.11,2025-09-09
 Knoxville,TN,2018-12-05,Tennessee,Midwest,Residential Electricity,141.76564619615698,1.27,180.04,2025-09-09
 Knoxville,TN,2019-01-05,Tennessee,Midwest,Residential Electricity,146.72956701601314,1.28,187.81,2025-09-09
@@ -5949,7 +5956,6 @@ Lakeland-Winter Haven,FL,2018-06-05,Florida,East Coast,Residential Electricity,1
 Lakeland-Winter Haven,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Lakeland-Winter Haven,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Lakeland-Winter Haven,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Lakeland-Winter Haven,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Lakeland-Winter Haven,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Lakeland-Winter Haven,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Lakeland-Winter Haven,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -6075,7 +6081,6 @@ Las Vegas-Henderson-North Las Vegas,NV,2018-06-05,Nevada,West Coast,Residential 
 Las Vegas-Henderson-North Las Vegas,NV,2018-07-05,Nevada,West Coast,Residential Electricity,205.2020237378938,1.28,262.66,2025-09-09
 Las Vegas-Henderson-North Las Vegas,NV,2018-08-05,Nevada,West Coast,Residential Electricity,179.8967669532076,1.28,230.27,2025-09-09
 Las Vegas-Henderson-North Las Vegas,NV,2018-09-05,Nevada,West Coast,Residential Electricity,135.60169371755083,1.28,173.57,2025-09-09
-Las Vegas-Henderson-North Las Vegas,NV,2018-10-05,Nevada,West Coast,Residential Electricity,84.07891141272438,1.27,106.78,2025-09-09
 Las Vegas-Henderson-North Las Vegas,NV,2018-11-05,Nevada,West Coast,Residential Electricity,76.1245640236126,1.28,97.44,2025-09-09
 Las Vegas-Henderson-North Las Vegas,NV,2018-12-05,Nevada,West Coast,Residential Electricity,89.60198349217282,1.27,113.79,2025-09-09
 Las Vegas-Henderson-North Las Vegas,NV,2019-01-05,Nevada,West Coast,Residential Electricity,90.2375135504696,1.28,115.5,2025-09-09
@@ -6579,6 +6584,7 @@ Madison,WI,2018-06-05,Wisconsin,Midwest,Residential Electricity,93.6516525499610
 Madison,WI,2018-07-05,Wisconsin,Midwest,Residential Electricity,117.46054639474647,1.28,150.35,2025-09-09
 Madison,WI,2018-08-05,Wisconsin,Midwest,Residential Electricity,111.96948912610829,1.28,143.32,2025-09-09
 Madison,WI,2018-09-05,Wisconsin,Midwest,Residential Electricity,89.6182669761575,1.28,114.71,2025-09-09
+Madison,WI,2018-10-05,Wisconsin,Midwest,Residential Electricity,NA,1.27,NA,2025-09-09
 Madison,WI,2018-11-05,Wisconsin,Midwest,Residential Electricity,93.9443958625725,1.28,120.25,2025-09-09
 Madison,WI,2018-12-05,Wisconsin,Midwest,Residential Electricity,100.60594750712062,1.27,127.77,2025-09-09
 Madison,WI,2019-01-05,Wisconsin,Midwest,Residential Electricity,109.82721717119377,1.28,140.58,2025-09-09
@@ -6830,7 +6836,6 @@ Memphis,TN,2018-06-05,Tennessee,Midwest,Residential Electricity,143.764530179918
 Memphis,TN,2018-07-05,Tennessee,Midwest,Residential Electricity,165.23156741776,1.28,211.5,2025-09-09
 Memphis,TN,2018-08-05,Tennessee,Midwest,Residential Electricity,159.94038795577842,1.28,204.72,2025-09-09
 Memphis,TN,2018-09-05,Tennessee,Midwest,Residential Electricity,149.05757136025997,1.28,190.79,2025-09-09
-Memphis,TN,2018-10-05,Tennessee,Midwest,Residential Electricity,118.8513646049046,1.27,150.94,2025-09-09
 Memphis,TN,2018-11-05,Tennessee,Midwest,Residential Electricity,111.80731412835121,1.28,143.11,2025-09-09
 Memphis,TN,2018-12-05,Tennessee,Midwest,Residential Electricity,141.76564619615698,1.27,180.04,2025-09-09
 Memphis,TN,2019-01-05,Tennessee,Midwest,Residential Electricity,146.72956701601314,1.28,187.81,2025-09-09
@@ -6956,7 +6961,6 @@ Miami-Fort Lauderdale-West Palm Beach,FL,2018-06-05,Florida,East Coast,Residenti
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Miami-Fort Lauderdale-West Palm Beach,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Miami-Fort Lauderdale-West Palm Beach,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -7082,6 +7086,7 @@ Milwaukee-Waukesha,WI,2018-06-05,Wisconsin,Midwest,Residential Electricity,93.65
 Milwaukee-Waukesha,WI,2018-07-05,Wisconsin,Midwest,Residential Electricity,117.46054639474647,1.28,150.35,2025-09-09
 Milwaukee-Waukesha,WI,2018-08-05,Wisconsin,Midwest,Residential Electricity,111.96948912610829,1.28,143.32,2025-09-09
 Milwaukee-Waukesha,WI,2018-09-05,Wisconsin,Midwest,Residential Electricity,89.6182669761575,1.28,114.71,2025-09-09
+Milwaukee-Waukesha,WI,2018-10-05,Wisconsin,Midwest,Residential Electricity,NA,1.27,NA,2025-09-09
 Milwaukee-Waukesha,WI,2018-11-05,Wisconsin,Midwest,Residential Electricity,93.9443958625725,1.28,120.25,2025-09-09
 Milwaukee-Waukesha,WI,2018-12-05,Wisconsin,Midwest,Residential Electricity,100.60594750712062,1.27,127.77,2025-09-09
 Milwaukee-Waukesha,WI,2019-01-05,Wisconsin,Midwest,Residential Electricity,109.82721717119377,1.28,140.58,2025-09-09
@@ -7333,7 +7338,6 @@ Nashville-Davidson--Murfreesboro--Franklin,TN,2018-06-05,Tennessee,Midwest,Resid
 Nashville-Davidson--Murfreesboro--Franklin,TN,2018-07-05,Tennessee,Midwest,Residential Electricity,165.23156741776,1.28,211.5,2025-09-09
 Nashville-Davidson--Murfreesboro--Franklin,TN,2018-08-05,Tennessee,Midwest,Residential Electricity,159.94038795577842,1.28,204.72,2025-09-09
 Nashville-Davidson--Murfreesboro--Franklin,TN,2018-09-05,Tennessee,Midwest,Residential Electricity,149.05757136025997,1.28,190.79,2025-09-09
-Nashville-Davidson--Murfreesboro--Franklin,TN,2018-10-05,Tennessee,Midwest,Residential Electricity,118.8513646049046,1.27,150.94,2025-09-09
 Nashville-Davidson--Murfreesboro--Franklin,TN,2018-11-05,Tennessee,Midwest,Residential Electricity,111.80731412835121,1.28,143.11,2025-09-09
 Nashville-Davidson--Murfreesboro--Franklin,TN,2018-12-05,Tennessee,Midwest,Residential Electricity,141.76564619615698,1.27,180.04,2025-09-09
 Nashville-Davidson--Murfreesboro--Franklin,TN,2019-01-05,Tennessee,Midwest,Residential Electricity,146.72956701601314,1.28,187.81,2025-09-09
@@ -7711,6 +7715,7 @@ New York-Newark-Jersey City,NY,2018-06-05,New York,East Coast,Residential Electr
 New York-Newark-Jersey City,NY,2018-07-05,New York,East Coast,Residential Electricity,146.01748725339507,1.28,186.9,2025-09-09
 New York-Newark-Jersey City,NY,2018-08-05,New York,East Coast,Residential Electricity,149.15786725545644,1.28,190.92,2025-09-09
 New York-Newark-Jersey City,NY,2018-09-05,New York,East Coast,Residential Electricity,137.84120584709987,1.28,176.44,2025-09-09
+New York-Newark-Jersey City,NY,2018-10-05,New York,East Coast,Residential Electricity,105.00821118679032,1.27,133.36,2025-09-09
 New York-Newark-Jersey City,NY,2018-11-05,New York,East Coast,Residential Electricity,93.68773649241434,1.28,119.92,2025-09-09
 New York-Newark-Jersey City,NY,2018-12-05,New York,East Coast,Residential Electricity,103.75579383936602,1.27,131.77,2025-09-09
 New York-Newark-Jersey City,NY,2019-01-05,New York,East Coast,Residential Electricity,107.63662454267651,1.28,137.77,2025-09-09
@@ -7836,7 +7841,6 @@ North Port-Bradenton-Sarasota,FL,2018-06-05,Florida,East Coast,Residential Elect
 North Port-Bradenton-Sarasota,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 North Port-Bradenton-Sarasota,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 North Port-Bradenton-Sarasota,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-North Port-Bradenton-Sarasota,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 North Port-Bradenton-Sarasota,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 North Port-Bradenton-Sarasota,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 North Port-Bradenton-Sarasota,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -8088,6 +8092,7 @@ Oklahoma City,OK,2018-06-05,Oklahoma,Midwest,Residential Electricity,149.9420261
 Oklahoma City,OK,2018-07-05,Oklahoma,Midwest,Residential Electricity,164.55616284404059,1.28,210.63,2025-09-09
 Oklahoma City,OK,2018-08-05,Oklahoma,Midwest,Residential Electricity,155.75810424944527,1.28,199.37,2025-09-09
 Oklahoma City,OK,2018-09-05,Oklahoma,Midwest,Residential Electricity,125.26039910230966,1.28,160.33,2025-09-09
+Oklahoma City,OK,2018-10-05,Oklahoma,Midwest,Residential Electricity,101.61118479647091,1.27,129.05,2025-09-09
 Oklahoma City,OK,2018-11-05,Oklahoma,Midwest,Residential Electricity,87.44040355627179,1.28,111.92,2025-09-09
 Oklahoma City,OK,2018-12-05,Oklahoma,Midwest,Residential Electricity,102.41202321419205,1.27,130.06,2025-09-09
 Oklahoma City,OK,2019-01-05,Oklahoma,Midwest,Residential Electricity,110.54120394133123,1.28,141.49,2025-09-09
@@ -8213,7 +8218,6 @@ Omaha,NE,2018-06-05,Nebraska,Midwest,Residential Electricity,121.9323558752749,1
 Omaha,NE,2018-07-05,Nebraska,Midwest,Residential Electricity,145.7753180915191,1.28,186.59,2025-09-09
 Omaha,NE,2018-08-05,Nebraska,Midwest,Residential Electricity,129.1761646844215,1.28,165.35,2025-09-09
 Omaha,NE,2018-09-05,Nebraska,Midwest,Residential Electricity,107.9026832022362,1.28,138.12,2025-09-09
-Omaha,NE,2018-10-05,Nebraska,Midwest,Residential Electricity,84.557700631379,1.27,107.39,2025-09-09
 Omaha,NE,2018-11-05,Nebraska,Midwest,Residential Electricity,93.85064383957982,1.28,120.13,2025-09-09
 Omaha,NE,2018-12-05,Nebraska,Midwest,Residential Electricity,112.66036833474,1.27,143.08,2025-09-09
 Omaha,NE,2019-01-05,Nebraska,Midwest,Residential Electricity,118.36769718320588,1.28,151.51,2025-09-09
@@ -8339,7 +8343,6 @@ Orlando-Kissimmee-Sanford,FL,2018-06-05,Florida,East Coast,Residential Electrici
 Orlando-Kissimmee-Sanford,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Orlando-Kissimmee-Sanford,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Orlando-Kissimmee-Sanford,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Orlando-Kissimmee-Sanford,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Orlando-Kissimmee-Sanford,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Orlando-Kissimmee-Sanford,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Orlando-Kissimmee-Sanford,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -8591,7 +8594,6 @@ Palm Bay-Melbourne-Titusville,FL,2018-06-05,Florida,East Coast,Residential Elect
 Palm Bay-Melbourne-Titusville,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Palm Bay-Melbourne-Titusville,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Palm Bay-Melbourne-Titusville,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Palm Bay-Melbourne-Titusville,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Palm Bay-Melbourne-Titusville,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Palm Bay-Melbourne-Titusville,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Palm Bay-Melbourne-Titusville,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -8717,6 +8719,7 @@ Philadelphia-Camden-Wilmington,PA,2018-06-05,Pennsylvania,East Coast,Residential
 Philadelphia-Camden-Wilmington,PA,2018-07-05,Pennsylvania,East Coast,Residential Electricity,134.70597832409138,1.28,172.42,2025-09-09
 Philadelphia-Camden-Wilmington,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-09
 Philadelphia-Camden-Wilmington,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-09
+Philadelphia-Camden-Wilmington,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.27,126.35,2025-09-09
 Philadelphia-Camden-Wilmington,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-09
 Philadelphia-Camden-Wilmington,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.27,163.31,2025-09-09
 Philadelphia-Camden-Wilmington,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-09
@@ -8968,6 +8971,7 @@ Pittsburgh,PA,2018-06-05,Pennsylvania,East Coast,Residential Electricity,107.724
 Pittsburgh,PA,2018-07-05,Pennsylvania,East Coast,Residential Electricity,134.70597832409138,1.28,172.42,2025-09-09
 Pittsburgh,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-09
 Pittsburgh,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-09
+Pittsburgh,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.27,126.35,2025-09-09
 Pittsburgh,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-09
 Pittsburgh,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.27,163.31,2025-09-09
 Pittsburgh,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-09
@@ -9093,6 +9097,7 @@ Portland-Vancouver-Hillsboro,OR,2018-06-05,Oregon,West Coast,Residential Electri
 Portland-Vancouver-Hillsboro,OR,2018-07-05,Oregon,West Coast,Residential Electricity,99.48479790686679,1.28,127.34,2025-09-09
 Portland-Vancouver-Hillsboro,OR,2018-08-05,Oregon,West Coast,Residential Electricity,95.54504456151797,1.28,122.3,2025-09-09
 Portland-Vancouver-Hillsboro,OR,2018-09-05,Oregon,West Coast,Residential Electricity,77.79979860473149,1.28,99.58,2025-09-09
+Portland-Vancouver-Hillsboro,OR,2018-10-05,Oregon,West Coast,Residential Electricity,82.77130479193254,1.27,105.12,2025-09-09
 Portland-Vancouver-Hillsboro,OR,2018-11-05,Oregon,West Coast,Residential Electricity,102.40414119334638,1.28,131.08,2025-09-09
 Portland-Vancouver-Hillsboro,OR,2018-12-05,Oregon,West Coast,Residential Electricity,127.58098410801307,1.27,162.03,2025-09-09
 Portland-Vancouver-Hillsboro,OR,2019-01-05,Oregon,West Coast,Residential Electricity,125.82765362728195,1.28,161.06,2025-09-09
@@ -9218,6 +9223,7 @@ Providence-Warwick,RI,2018-06-05,Rhode Island,East Coast,Residential Electricity
 Providence-Warwick,RI,2018-07-05,Rhode Island,East Coast,Residential Electricity,146.8391786127903,1.28,187.95,2025-09-09
 Providence-Warwick,RI,2018-08-05,Rhode Island,East Coast,Residential Electricity,159.27421039598946,1.28,203.87,2025-09-09
 Providence-Warwick,RI,2018-09-05,Rhode Island,East Coast,Residential Electricity,139.26900956653986,1.28,178.26,2025-09-09
+Providence-Warwick,RI,2018-10-05,Rhode Island,East Coast,Residential Electricity,107.4053309692297,1.27,136.4,2025-09-09
 Providence-Warwick,RI,2018-11-05,Rhode Island,East Coast,Residential Electricity,112.53261038456559,1.28,144.04,2025-09-09
 Providence-Warwick,RI,2018-12-05,Rhode Island,East Coast,Residential Electricity,129.6592683568601,1.27,164.67,2025-09-09
 Providence-Warwick,RI,2019-01-05,Rhode Island,East Coast,Residential Electricity,143.31943166081763,1.28,183.45,2025-09-09
@@ -9469,6 +9475,7 @@ Raleigh-Cary,NC,2018-06-05,North Carolina,East Coast,Residential Electricity,135
 Raleigh-Cary,NC,2018-07-05,North Carolina,East Coast,Residential Electricity,151.86737997118132,1.28,194.39,2025-09-09
 Raleigh-Cary,NC,2018-08-05,North Carolina,East Coast,Residential Electricity,148.66659209252063,1.28,190.29,2025-09-09
 Raleigh-Cary,NC,2018-09-05,North Carolina,East Coast,Residential Electricity,133.59456631792378,1.28,171,2025-09-09
+Raleigh-Cary,NC,2018-10-05,North Carolina,East Coast,Residential Electricity,109.44246917523866,1.27,138.99,2025-09-09
 Raleigh-Cary,NC,2018-11-05,North Carolina,East Coast,Residential Electricity,106.06301359431055,1.28,135.76,2025-09-09
 Raleigh-Cary,NC,2018-12-05,North Carolina,East Coast,Residential Electricity,124.57977489722151,1.27,158.22,2025-09-09
 Raleigh-Cary,NC,2019-01-05,North Carolina,East Coast,Residential Electricity,137.81449534457474,1.28,176.4,2025-09-09
@@ -9846,6 +9853,7 @@ Rochester,NY,2018-06-05,New York,East Coast,Residential Electricity,108.23213644
 Rochester,NY,2018-07-05,New York,East Coast,Residential Electricity,146.01748725339507,1.28,186.9,2025-09-09
 Rochester,NY,2018-08-05,New York,East Coast,Residential Electricity,149.15786725545644,1.28,190.92,2025-09-09
 Rochester,NY,2018-09-05,New York,East Coast,Residential Electricity,137.84120584709987,1.28,176.44,2025-09-09
+Rochester,NY,2018-10-05,New York,East Coast,Residential Electricity,105.00821118679032,1.27,133.36,2025-09-09
 Rochester,NY,2018-11-05,New York,East Coast,Residential Electricity,93.68773649241434,1.28,119.92,2025-09-09
 Rochester,NY,2018-12-05,New York,East Coast,Residential Electricity,103.75579383936602,1.27,131.77,2025-09-09
 Rochester,NY,2019-01-05,New York,East Coast,Residential Electricity,107.63662454267651,1.28,137.77,2025-09-09
@@ -10727,6 +10735,7 @@ Scranton--Wilkes-Barre,PA,2018-06-05,Pennsylvania,East Coast,Residential Electri
 Scranton--Wilkes-Barre,PA,2018-07-05,Pennsylvania,East Coast,Residential Electricity,134.70597832409138,1.28,172.42,2025-09-09
 Scranton--Wilkes-Barre,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-09
 Scranton--Wilkes-Barre,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-09
+Scranton--Wilkes-Barre,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.27,126.35,2025-09-09
 Scranton--Wilkes-Barre,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-09
 Scranton--Wilkes-Barre,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.27,163.31,2025-09-09
 Scranton--Wilkes-Barre,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-09
@@ -10852,6 +10861,7 @@ Seattle-Tacoma-Bellevue,WA,2018-06-05,Washington,West Coast,Residential Electric
 Seattle-Tacoma-Bellevue,WA,2018-07-05,Washington,West Coast,Residential Electricity,81.99309349050084,1.28,104.95,2025-09-09
 Seattle-Tacoma-Bellevue,WA,2018-08-05,Washington,West Coast,Residential Electricity,80.32328916404711,1.28,102.81,2025-09-09
 Seattle-Tacoma-Bellevue,WA,2018-09-05,Washington,West Coast,Residential Electricity,70.81274291617588,1.28,90.64,2025-09-09
+Seattle-Tacoma-Bellevue,WA,2018-10-05,Washington,West Coast,Residential Electricity,NA,1.27,NA,2025-09-09
 Seattle-Tacoma-Bellevue,WA,2018-11-05,Washington,West Coast,Residential Electricity,94.08518682106491,1.28,120.43,2025-09-09
 Seattle-Tacoma-Bellevue,WA,2018-12-05,Washington,West Coast,Residential Electricity,117.4631987382729,1.27,149.18,2025-09-09
 Seattle-Tacoma-Bellevue,WA,2019-01-05,Washington,West Coast,Residential Electricity,123.97749204616822,1.28,158.69,2025-09-09
@@ -10977,6 +10987,7 @@ Spokane-Spokane Valley,WA,2018-06-05,Washington,West Coast,Residential Electrici
 Spokane-Spokane Valley,WA,2018-07-05,Washington,West Coast,Residential Electricity,81.99309349050084,1.28,104.95,2025-09-09
 Spokane-Spokane Valley,WA,2018-08-05,Washington,West Coast,Residential Electricity,80.32328916404711,1.28,102.81,2025-09-09
 Spokane-Spokane Valley,WA,2018-09-05,Washington,West Coast,Residential Electricity,70.81274291617588,1.28,90.64,2025-09-09
+Spokane-Spokane Valley,WA,2018-10-05,Washington,West Coast,Residential Electricity,NA,1.27,NA,2025-09-09
 Spokane-Spokane Valley,WA,2018-11-05,Washington,West Coast,Residential Electricity,94.08518682106491,1.28,120.43,2025-09-09
 Spokane-Spokane Valley,WA,2018-12-05,Washington,West Coast,Residential Electricity,117.4631987382729,1.27,149.18,2025-09-09
 Spokane-Spokane Valley,WA,2019-01-05,Washington,West Coast,Residential Electricity,123.97749204616822,1.28,158.69,2025-09-09
@@ -11102,7 +11113,6 @@ St. Louis,MO,2018-06-05,Missouri,Midwest,Residential Electricity,167.91046263739
 St. Louis,MO,2018-07-05,Missouri,Midwest,Residential Electricity,184.26114678179977,1.28,235.85,2025-09-09
 St. Louis,MO,2018-08-05,Missouri,Midwest,Residential Electricity,167.95541098687738,1.28,214.98,2025-09-09
 St. Louis,MO,2018-09-05,Missouri,Midwest,Residential Electricity,122.208557396379,1.28,156.43,2025-09-09
-St. Louis,MO,2018-10-05,Missouri,Midwest,Residential Electricity,95.70309276375697,1.27,121.54,2025-09-09
 St. Louis,MO,2018-11-05,Missouri,Midwest,Residential Electricity,101.26691657265742,1.28,129.62,2025-09-09
 St. Louis,MO,2018-12-05,Missouri,Midwest,Residential Electricity,115.33686140006284,1.27,146.48,2025-09-09
 St. Louis,MO,2019-01-05,Missouri,Midwest,Residential Electricity,123.45971617256166,1.28,158.03,2025-09-09
@@ -11354,6 +11364,7 @@ Syracuse,NY,2018-06-05,New York,East Coast,Residential Electricity,108.232136445
 Syracuse,NY,2018-07-05,New York,East Coast,Residential Electricity,146.01748725339507,1.28,186.9,2025-09-09
 Syracuse,NY,2018-08-05,New York,East Coast,Residential Electricity,149.15786725545644,1.28,190.92,2025-09-09
 Syracuse,NY,2018-09-05,New York,East Coast,Residential Electricity,137.84120584709987,1.28,176.44,2025-09-09
+Syracuse,NY,2018-10-05,New York,East Coast,Residential Electricity,105.00821118679032,1.27,133.36,2025-09-09
 Syracuse,NY,2018-11-05,New York,East Coast,Residential Electricity,93.68773649241434,1.28,119.92,2025-09-09
 Syracuse,NY,2018-12-05,New York,East Coast,Residential Electricity,103.75579383936602,1.27,131.77,2025-09-09
 Syracuse,NY,2019-01-05,New York,East Coast,Residential Electricity,107.63662454267651,1.28,137.77,2025-09-09
@@ -11479,7 +11490,6 @@ Tampa-St. Petersburg-Clearwater,FL,2018-06-05,Florida,East Coast,Residential Ele
 Tampa-St. Petersburg-Clearwater,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.41283703601522,1.28,204.05,2025-09-09
 Tampa-St. Petersburg-Clearwater,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-09-09
 Tampa-St. Petersburg-Clearwater,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-09-09
-Tampa-St. Petersburg-Clearwater,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.27,179.66,2025-09-09
 Tampa-St. Petersburg-Clearwater,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-09-09
 Tampa-St. Petersburg-Clearwater,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.27,138.1,2025-09-09
 Tampa-St. Petersburg-Clearwater,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-09-09
@@ -11605,6 +11615,7 @@ Toledo,OH,2018-06-05,Ohio,Midwest,Residential Electricity,118.5989631723749,1.28
 Toledo,OH,2018-07-05,Ohio,Midwest,Residential Electricity,142.46043939922077,1.28,182.35,2025-09-09
 Toledo,OH,2018-08-05,Ohio,Midwest,Residential Electricity,136.3044789414888,1.28,174.47,2025-09-09
 Toledo,OH,2018-09-05,Ohio,Midwest,Residential Electricity,106.37249388743396,1.28,136.16,2025-09-09
+Toledo,OH,2018-10-05,Ohio,Midwest,Residential Electricity,96.49558037688335,1.27,122.55,2025-09-09
 Toledo,OH,2018-11-05,Ohio,Midwest,Residential Electricity,104.00795780417911,1.28,133.13,2025-09-09
 Toledo,OH,2018-12-05,Ohio,Midwest,Residential Electricity,117.34385348536907,1.27,149.03,2025-09-09
 Toledo,OH,2019-01-05,Ohio,Midwest,Residential Electricity,128.32022485636426,1.28,164.25,2025-09-09
@@ -11856,6 +11867,7 @@ Tulsa,OK,2018-06-05,Oklahoma,Midwest,Residential Electricity,149.94202614339454,
 Tulsa,OK,2018-07-05,Oklahoma,Midwest,Residential Electricity,164.55616284404059,1.28,210.63,2025-09-09
 Tulsa,OK,2018-08-05,Oklahoma,Midwest,Residential Electricity,155.75810424944527,1.28,199.37,2025-09-09
 Tulsa,OK,2018-09-05,Oklahoma,Midwest,Residential Electricity,125.26039910230966,1.28,160.33,2025-09-09
+Tulsa,OK,2018-10-05,Oklahoma,Midwest,Residential Electricity,101.61118479647091,1.27,129.05,2025-09-09
 Tulsa,OK,2018-11-05,Oklahoma,Midwest,Residential Electricity,87.44040355627179,1.28,111.92,2025-09-09
 Tulsa,OK,2018-12-05,Oklahoma,Midwest,Residential Electricity,102.41202321419205,1.27,130.06,2025-09-09
 Tulsa,OK,2019-01-05,Oklahoma,Midwest,Residential Electricity,110.54120394133123,1.28,141.49,2025-09-09
@@ -11981,7 +11993,6 @@ Urban Honolulu,HI,2018-06-05,Hawaii,West Coast,Residential Electricity,164.41429
 Urban Honolulu,HI,2018-07-05,Hawaii,West Coast,Residential Electricity,184.319782072076,1.28,235.93,2025-09-09
 Urban Honolulu,HI,2018-08-05,Hawaii,West Coast,Residential Electricity,189.22126088043223,1.28,242.2,2025-09-09
 Urban Honolulu,HI,2018-09-05,Hawaii,West Coast,Residential Electricity,180.65766620499886,1.28,231.24,2025-09-09
-Urban Honolulu,HI,2018-10-05,Hawaii,West Coast,Residential Electricity,180.83860588017055,1.27,229.67,2025-09-09
 Urban Honolulu,HI,2018-11-05,Hawaii,West Coast,Residential Electricity,175.52304665724606,1.28,224.67,2025-09-09
 Urban Honolulu,HI,2018-12-05,Hawaii,West Coast,Residential Electricity,170.76732839750366,1.27,216.87,2025-09-09
 Urban Honolulu,HI,2019-01-05,Hawaii,West Coast,Residential Electricity,168.6338935576791,1.28,215.85,2025-09-09
@@ -12485,6 +12496,7 @@ Winston-Salem,NC,2018-06-05,North Carolina,East Coast,Residential Electricity,13
 Winston-Salem,NC,2018-07-05,North Carolina,East Coast,Residential Electricity,151.86737997118132,1.28,194.39,2025-09-09
 Winston-Salem,NC,2018-08-05,North Carolina,East Coast,Residential Electricity,148.66659209252063,1.28,190.29,2025-09-09
 Winston-Salem,NC,2018-09-05,North Carolina,East Coast,Residential Electricity,133.59456631792378,1.28,171,2025-09-09
+Winston-Salem,NC,2018-10-05,North Carolina,East Coast,Residential Electricity,109.44246917523866,1.27,138.99,2025-09-09
 Winston-Salem,NC,2018-11-05,North Carolina,East Coast,Residential Electricity,106.06301359431055,1.28,135.76,2025-09-09
 Winston-Salem,NC,2018-12-05,North Carolina,East Coast,Residential Electricity,124.57977489722151,1.27,158.22,2025-09-09
 Winston-Salem,NC,2019-01-05,North Carolina,East Coast,Residential Electricity,137.81449534457474,1.28,176.4,2025-09-09
