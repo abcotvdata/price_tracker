@@ -138,6 +138,8 @@ electricity <- electricity %>%
 
 electricity <- electricity[order(electricity$location != "United States"), ]
 
+lubridate::day(electricity$date) <- 5
+
 write_csv(electricity, "utilities/electricity_data.csv")
 write_json(electricity, "utilities/electricity_data.json", pretty = TRUE)
 
