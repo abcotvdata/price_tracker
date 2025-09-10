@@ -414,8 +414,8 @@ food3 <- food12 %>%
 
 # add full name for measurements
 food3 <- food3 %>% 
-mutate(measurement_long = measurement) %>% 
-mutate(measurement_long = str_replace_all(measurement_long, c("lb." = "pound", "16 oz." = "16-ounce container", "12 oz." = "12-ounce container", "8 oz." = "8-ounce container", "gal." = "gallon", "1/2 gal." = "half gallon", "doz." = "dozen", "pk." = "pack")))
+  mutate(measurement_long = measurement) %>% 
+  mutate(measurement_long = str_replace_all(measurement_long, c("lb." = "pound", "16 oz." = "16-ounce container", "12 oz." = "12-ounce container", "8 oz." = "8-ounce container", "gal." = "gallon", "doz." = "dozen", "pk." = "pack", "1/2" = "half")))
 
 lubridate::day(food3$date) <- 5
 
