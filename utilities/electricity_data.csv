@@ -44,7 +44,6 @@ United States,US,2018-06-05,United States,United States,Residential Electricity,
 United States,US,2018-07-05,United States,United States,Residential Electricity,150.60312695917938,1.29,194.28,2025-09-16
 United States,US,2018-08-05,United States,United States,Residential Electricity,151.40264703252896,1.28,193.8,2025-09-16
 United States,US,2018-09-05,United States,United States,Residential Electricity,125.35339625867533,1.28,160.45,2025-09-16
-United States,US,2018-10-05,United States,United States,Residential Electricity,NA,1.28,NA,2025-09-16
 United States,US,2018-11-05,United States,United States,Residential Electricity,99.80141909030591,1.28,127.75,2025-09-16
 United States,US,2018-12-05,United States,United States,Residential Electricity,113.81843967375394,1.28,145.69,2025-09-16
 United States,US,2019-01-05,United States,United States,Residential Electricity,123.2873455373358,1.28,157.81,2025-09-16
@@ -1553,7 +1552,6 @@ Boise City,ID,2018-06-05,Idaho,Rocky Mountain,Residential Electricity,82.9854959
 Boise City,ID,2018-07-05,Idaho,Rocky Mountain,Residential Electricity,110.44067568654239,1.29,142.47,2025-09-16
 Boise City,ID,2018-08-05,Idaho,Rocky Mountain,Residential Electricity,99.86373145037452,1.28,127.83,2025-09-16
 Boise City,ID,2018-09-05,Idaho,Rocky Mountain,Residential Electricity,71.91800032674576,1.28,92.06,2025-09-16
-Boise City,ID,2018-10-05,Idaho,Rocky Mountain,Residential Electricity,77.577654261881,1.28,99.3,2025-09-16
 Boise City,ID,2018-11-05,Idaho,Rocky Mountain,Residential Electricity,95.14692384246706,1.28,121.79,2025-09-16
 Boise City,ID,2018-12-05,Idaho,Rocky Mountain,Residential Electricity,123.54347430058554,1.28,158.14,2025-09-16
 Boise City,ID,2019-01-05,Idaho,Rocky Mountain,Residential Electricity,121.33399973276254,1.28,155.31,2025-09-16
@@ -2559,7 +2557,6 @@ Chicago-Naperville-Elgin,IL,2018-06-05,Illinois,Midwest,Residential Electricity,
 Chicago-Naperville-Elgin,IL,2018-07-05,Illinois,Midwest,Residential Electricity,118.16295197099802,1.29,152.43,2025-09-16
 Chicago-Naperville-Elgin,IL,2018-08-05,Illinois,Midwest,Residential Electricity,123.04595051650058,1.28,157.5,2025-09-16
 Chicago-Naperville-Elgin,IL,2018-09-05,Illinois,Midwest,Residential Electricity,92.3352328556881,1.28,118.19,2025-09-16
-Chicago-Naperville-Elgin,IL,2018-10-05,Illinois,Midwest,Residential Electricity,79.68893486442947,1.28,102,2025-09-16
 Chicago-Naperville-Elgin,IL,2018-11-05,Illinois,Midwest,Residential Electricity,87.07833699067905,1.28,111.46,2025-09-16
 Chicago-Naperville-Elgin,IL,2018-12-05,Illinois,Midwest,Residential Electricity,91.3622934761955,1.28,116.94,2025-09-16
 Chicago-Naperville-Elgin,IL,2019-01-05,Illinois,Midwest,Residential Electricity,100.95121270326473,1.28,129.22,2025-09-16
@@ -3818,7 +3815,6 @@ Des Moines-West Des Moines,IA,2018-06-05,Iowa,Midwest,Residential Electricity,12
 Des Moines-West Des Moines,IA,2018-07-05,Iowa,Midwest,Residential Electricity,144.44154276640518,1.29,186.33,2025-09-16
 Des Moines-West Des Moines,IA,2018-08-05,Iowa,Midwest,Residential Electricity,144.25696565335554,1.28,184.65,2025-09-16
 Des Moines-West Des Moines,IA,2018-09-05,Iowa,Midwest,Residential Electricity,99.02790532378651,1.28,126.76,2025-09-16
-Des Moines-West Des Moines,IA,2018-10-05,Iowa,Midwest,Residential Electricity,84.22042781683675,1.28,107.8,2025-09-16
 Des Moines-West Des Moines,IA,2018-11-05,Iowa,Midwest,Residential Electricity,89.63517796794908,1.28,114.73,2025-09-16
 Des Moines-West Des Moines,IA,2018-12-05,Iowa,Midwest,Residential Electricity,106.64094836537485,1.28,136.5,2025-09-16
 Des Moines-West Des Moines,IA,2019-01-05,Iowa,Midwest,Residential Electricity,120.895944140094,1.28,154.75,2025-09-16
@@ -5204,7 +5200,6 @@ Indianapolis-Carmel-Greenwood,IN,2018-06-05,Indiana,Midwest,Residential Electric
 Indianapolis-Carmel-Greenwood,IN,2018-07-05,Indiana,Midwest,Residential Electricity,147.99876000394116,1.29,190.92,2025-09-16
 Indianapolis-Carmel-Greenwood,IN,2018-08-05,Indiana,Midwest,Residential Electricity,146.3300996058312,1.28,187.3,2025-09-16
 Indianapolis-Carmel-Greenwood,IN,2018-09-05,Indiana,Midwest,Residential Electricity,124.63772305698966,1.28,159.54,2025-09-16
-Indianapolis-Carmel-Greenwood,IN,2018-10-05,Indiana,Midwest,Residential Electricity,103.93385499131455,1.28,133.04,2025-09-16
 Indianapolis-Carmel-Greenwood,IN,2018-11-05,Indiana,Midwest,Residential Electricity,112.50276891787145,1.28,144,2025-09-16
 Indianapolis-Carmel-Greenwood,IN,2018-12-05,Indiana,Midwest,Residential Electricity,128.2956926292779,1.28,164.22,2025-09-16
 Indianapolis-Carmel-Greenwood,IN,2019-01-05,Indiana,Midwest,Residential Electricity,141.9105534505361,1.28,181.65,2025-09-16
@@ -5330,7 +5325,6 @@ Jackson,MS,2018-06-05,Mississippi,Gulf Coast,Residential Electricity,159.5748004
 Jackson,MS,2018-07-05,Mississippi,Gulf Coast,Residential Electricity,171.6950458028872,1.29,221.49,2025-09-16
 Jackson,MS,2018-08-05,Mississippi,Gulf Coast,Residential Electricity,168.601654429919,1.28,215.81,2025-09-16
 Jackson,MS,2018-09-05,Mississippi,Gulf Coast,Residential Electricity,158.29872363121112,1.28,202.62,2025-09-16
-Jackson,MS,2018-10-05,Mississippi,Gulf Coast,Residential Electricity,131.94136683464464,1.28,168.88,2025-09-16
 Jackson,MS,2018-11-05,Mississippi,Gulf Coast,Residential Electricity,110.35246168017858,1.28,141.25,2025-09-16
 Jackson,MS,2018-12-05,Mississippi,Gulf Coast,Residential Electricity,129.34559482028544,1.28,165.56,2025-09-16
 Jackson,MS,2019-01-05,Mississippi,Gulf Coast,Residential Electricity,140.02524683274288,1.28,179.23,2025-09-16
@@ -12245,7 +12239,6 @@ Washington-Arlington-Alexandria,DC,2018-06-05,District of Columbia,East Coast,Re
 Washington-Arlington-Alexandria,DC,2018-07-05,District of Columbia,East Coast,Residential Electricity,114.95460754707356,1.29,148.29,2025-09-16
 Washington-Arlington-Alexandria,DC,2018-08-05,District of Columbia,East Coast,Residential Electricity,121.14112726599403,1.28,155.06,2025-09-16
 Washington-Arlington-Alexandria,DC,2018-09-05,District of Columbia,East Coast,Residential Electricity,109.5044901017905,1.28,140.17,2025-09-16
-Washington-Arlington-Alexandria,DC,2018-10-05,District of Columbia,East Coast,Residential Electricity,NA,1.28,NA,2025-09-16
 Washington-Arlington-Alexandria,DC,2018-11-05,District of Columbia,East Coast,Residential Electricity,93.88677866866635,1.28,120.18,2025-09-16
 Washington-Arlington-Alexandria,DC,2018-12-05,District of Columbia,East Coast,Residential Electricity,100.86031147629119,1.28,129.1,2025-09-16
 Washington-Arlington-Alexandria,DC,2019-01-05,District of Columbia,East Coast,Residential Electricity,106.71298548426272,1.28,136.59,2025-09-16
