@@ -60,6 +60,8 @@ inflation <- inflation %>% rename(month = date)
 gas_long$month <- floor_date(gas_long$date, "month")
 
 #calcuate inflation
+# once new inflation calculation script (for all geographies) has been swapped in, uncomment the line below and delete the line beneath it
+#gas_long <- left_join(gas_long, inflation, by = c(“month”, “region”))
 gas_long <- left_join(gas_long, inflation, by = "month")
 
 gas <- gas_long %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
