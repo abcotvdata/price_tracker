@@ -117,6 +117,8 @@ electricity <- electricity %>% mutate(category = "Residential Electricity") %>% 
 #adjust for inflation
 inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv")
 
+# once new inflation calculation script (for all geographies) has been swapped in, uncomment the line below and delete the line beneath it
+#electricity <- left_join(electricity, inflation, by = c(“date”, “region”))
 electricity <- left_join(electricity, inflation, by = "date")
 
 electricity <- electricity %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
