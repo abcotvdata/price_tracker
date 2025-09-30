@@ -552,7 +552,6 @@ Allentown-Bethlehem-Easton,PA,2018-07-05,Pennsylvania,East Coast,Residential Ele
 Allentown-Bethlehem-Easton,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-30
 Allentown-Bethlehem-Easton,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-30
 Allentown-Bethlehem-Easton,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.28,127.34,2025-09-30
-Allentown-Bethlehem-Easton,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-30
 Allentown-Bethlehem-Easton,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.28,164.6,2025-09-30
 Allentown-Bethlehem-Easton,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-30
 Allentown-Bethlehem-Easton,PA,2019-02-05,Pennsylvania,East Coast,Residential Electricity,133.18708169159277,1.28,170.48,2025-09-30
@@ -679,7 +678,6 @@ Atlanta-Sandy Springs-Roswell,GA,2018-07-05,Georgia,East Coast,Residential Elect
 Atlanta-Sandy Springs-Roswell,GA,2018-08-05,Georgia,East Coast,Residential Electricity,175.28128696682242,1.28,224.36,2025-09-30
 Atlanta-Sandy Springs-Roswell,GA,2018-09-05,Georgia,East Coast,Residential Electricity,162.35529130873704,1.28,207.81,2025-09-30
 Atlanta-Sandy Springs-Roswell,GA,2018-10-05,Georgia,East Coast,Residential Electricity,110.92235293841965,1.28,141.98,2025-09-30
-Atlanta-Sandy Springs-Roswell,GA,2018-11-05,Georgia,East Coast,Residential Electricity,102.29586839416046,1.28,130.94,2025-09-30
 Atlanta-Sandy Springs-Roswell,GA,2018-12-05,Georgia,East Coast,Residential Electricity,106.33423933113524,1.28,136.11,2025-09-30
 Atlanta-Sandy Springs-Roswell,GA,2019-01-05,Georgia,East Coast,Residential Electricity,133.36962943150917,1.28,170.71,2025-09-30
 Atlanta-Sandy Springs-Roswell,GA,2019-02-05,Georgia,East Coast,Residential Electricity,108.52899190065705,1.28,138.92,2025-09-30
@@ -806,7 +804,6 @@ Augusta-Richmond County,GA,2018-07-05,Georgia,East Coast,Residential Electricity
 Augusta-Richmond County,GA,2018-08-05,Georgia,East Coast,Residential Electricity,175.28128696682242,1.28,224.36,2025-09-30
 Augusta-Richmond County,GA,2018-09-05,Georgia,East Coast,Residential Electricity,162.35529130873704,1.28,207.81,2025-09-30
 Augusta-Richmond County,GA,2018-10-05,Georgia,East Coast,Residential Electricity,110.92235293841965,1.28,141.98,2025-09-30
-Augusta-Richmond County,GA,2018-11-05,Georgia,East Coast,Residential Electricity,102.29586839416046,1.28,130.94,2025-09-30
 Augusta-Richmond County,GA,2018-12-05,Georgia,East Coast,Residential Electricity,106.33423933113524,1.28,136.11,2025-09-30
 Augusta-Richmond County,GA,2019-01-05,Georgia,East Coast,Residential Electricity,133.36962943150917,1.28,170.71,2025-09-30
 Augusta-Richmond County,GA,2019-02-05,Georgia,East Coast,Residential Electricity,108.52899190065705,1.28,138.92,2025-09-30
@@ -1568,7 +1565,6 @@ Boise City,ID,2018-07-05,Idaho,Rocky Mountain,Residential Electricity,110.440675
 Boise City,ID,2018-08-05,Idaho,Rocky Mountain,Residential Electricity,99.86373145037452,1.28,127.83,2025-09-30
 Boise City,ID,2018-09-05,Idaho,Rocky Mountain,Residential Electricity,71.91800032674576,1.28,92.06,2025-09-30
 Boise City,ID,2018-10-05,Idaho,Rocky Mountain,Residential Electricity,77.577654261881,1.28,99.3,2025-09-30
-Boise City,ID,2018-11-05,Idaho,Rocky Mountain,Residential Electricity,95.14692384246706,1.28,121.79,2025-09-30
 Boise City,ID,2018-12-05,Idaho,Rocky Mountain,Residential Electricity,123.54347430058554,1.28,158.14,2025-09-30
 Boise City,ID,2019-01-05,Idaho,Rocky Mountain,Residential Electricity,121.33399973276254,1.28,155.31,2025-09-30
 Boise City,ID,2019-02-05,Idaho,Rocky Mountain,Residential Electricity,107.33579213849325,1.28,137.39,2025-09-30
@@ -2202,7 +2198,6 @@ Charleston-North Charleston,SC,2018-07-05,South Carolina,East Coast,Residential 
 Charleston-North Charleston,SC,2018-08-05,South Carolina,East Coast,Residential Electricity,145.6634158324508,1.28,186.45,2025-09-30
 Charleston-North Charleston,SC,2018-09-05,South Carolina,East Coast,Residential Electricity,156.50906114822098,1.28,200.33,2025-09-30
 Charleston-North Charleston,SC,2018-10-05,South Carolina,East Coast,Residential Electricity,128.11983649208793,1.28,163.99,2025-09-30
-Charleston-North Charleston,SC,2018-11-05,South Carolina,East Coast,Residential Electricity,117.03539877566443,1.28,149.81,2025-09-30
 Charleston-North Charleston,SC,2018-12-05,South Carolina,East Coast,Residential Electricity,137.17311710774507,1.28,175.58,2025-09-30
 Charleston-North Charleston,SC,2019-01-05,South Carolina,East Coast,Residential Electricity,148.3000153806372,1.28,189.82,2025-09-30
 Charleston-North Charleston,SC,2019-02-05,South Carolina,East Coast,Residential Electricity,128.48405313695594,1.28,164.46,2025-09-30
@@ -2964,6 +2959,7 @@ Colorado Springs,CO,2018-07-05,Colorado,Rocky Mountain,Residential Electricity,1
 Colorado Springs,CO,2018-08-05,Colorado,Rocky Mountain,Residential Electricity,106.35096560489278,1.28,136.13,2025-09-30
 Colorado Springs,CO,2018-09-05,Colorado,Rocky Mountain,Residential Electricity,89.03129297060472,1.28,113.96,2025-09-30
 Colorado Springs,CO,2018-10-05,Colorado,Rocky Mountain,Residential Electricity,73.87071827107583,1.28,94.55,2025-09-30
+Colorado Springs,CO,2018-11-05,Colorado,Rocky Mountain,Residential Electricity,75.3312921796428,1.28,96.42,2025-09-30
 Colorado Springs,CO,2018-12-05,Colorado,Rocky Mountain,Residential Electricity,85.0462103646604,1.28,108.86,2025-09-30
 Colorado Springs,CO,2019-01-05,Colorado,Rocky Mountain,Residential Electricity,85.80600214797319,1.28,109.83,2025-09-30
 Colorado Springs,CO,2019-02-05,Colorado,Rocky Mountain,Residential Electricity,76.50428965704174,1.28,97.93,2025-09-30
@@ -3090,7 +3086,6 @@ Columbia,SC,2018-07-05,South Carolina,East Coast,Residential Electricity,189.022
 Columbia,SC,2018-08-05,South Carolina,East Coast,Residential Electricity,145.6634158324508,1.28,186.45,2025-09-30
 Columbia,SC,2018-09-05,South Carolina,East Coast,Residential Electricity,156.50906114822098,1.28,200.33,2025-09-30
 Columbia,SC,2018-10-05,South Carolina,East Coast,Residential Electricity,128.11983649208793,1.28,163.99,2025-09-30
-Columbia,SC,2018-11-05,South Carolina,East Coast,Residential Electricity,117.03539877566443,1.28,149.81,2025-09-30
 Columbia,SC,2018-12-05,South Carolina,East Coast,Residential Electricity,137.17311710774507,1.28,175.58,2025-09-30
 Columbia,SC,2019-01-05,South Carolina,East Coast,Residential Electricity,148.3000153806372,1.28,189.82,2025-09-30
 Columbia,SC,2019-02-05,South Carolina,East Coast,Residential Electricity,128.48405313695594,1.28,164.46,2025-09-30
@@ -3724,6 +3719,7 @@ Denver-Aurora-Centennial,CO,2018-07-05,Colorado,Rocky Mountain,Residential Elect
 Denver-Aurora-Centennial,CO,2018-08-05,Colorado,Rocky Mountain,Residential Electricity,106.35096560489278,1.28,136.13,2025-09-30
 Denver-Aurora-Centennial,CO,2018-09-05,Colorado,Rocky Mountain,Residential Electricity,89.03129297060472,1.28,113.96,2025-09-30
 Denver-Aurora-Centennial,CO,2018-10-05,Colorado,Rocky Mountain,Residential Electricity,73.87071827107583,1.28,94.55,2025-09-30
+Denver-Aurora-Centennial,CO,2018-11-05,Colorado,Rocky Mountain,Residential Electricity,75.3312921796428,1.28,96.42,2025-09-30
 Denver-Aurora-Centennial,CO,2018-12-05,Colorado,Rocky Mountain,Residential Electricity,85.0462103646604,1.28,108.86,2025-09-30
 Denver-Aurora-Centennial,CO,2019-01-05,Colorado,Rocky Mountain,Residential Electricity,85.80600214797319,1.28,109.83,2025-09-30
 Denver-Aurora-Centennial,CO,2019-02-05,Colorado,Rocky Mountain,Residential Electricity,76.50428965704174,1.28,97.93,2025-09-30
@@ -4739,7 +4735,6 @@ Greenville-Anderson-Greer,SC,2018-07-05,South Carolina,East Coast,Residential El
 Greenville-Anderson-Greer,SC,2018-08-05,South Carolina,East Coast,Residential Electricity,145.6634158324508,1.28,186.45,2025-09-30
 Greenville-Anderson-Greer,SC,2018-09-05,South Carolina,East Coast,Residential Electricity,156.50906114822098,1.28,200.33,2025-09-30
 Greenville-Anderson-Greer,SC,2018-10-05,South Carolina,East Coast,Residential Electricity,128.11983649208793,1.28,163.99,2025-09-30
-Greenville-Anderson-Greer,SC,2018-11-05,South Carolina,East Coast,Residential Electricity,117.03539877566443,1.28,149.81,2025-09-30
 Greenville-Anderson-Greer,SC,2018-12-05,South Carolina,East Coast,Residential Electricity,137.17311710774507,1.28,175.58,2025-09-30
 Greenville-Anderson-Greer,SC,2019-01-05,South Carolina,East Coast,Residential Electricity,148.3000153806372,1.28,189.82,2025-09-30
 Greenville-Anderson-Greer,SC,2019-02-05,South Carolina,East Coast,Residential Electricity,128.48405313695594,1.28,164.46,2025-09-30
@@ -4866,7 +4861,6 @@ Harrisburg-Carlisle,PA,2018-07-05,Pennsylvania,East Coast,Residential Electricit
 Harrisburg-Carlisle,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-30
 Harrisburg-Carlisle,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-30
 Harrisburg-Carlisle,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.28,127.34,2025-09-30
-Harrisburg-Carlisle,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-30
 Harrisburg-Carlisle,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.28,164.6,2025-09-30
 Harrisburg-Carlisle,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-30
 Harrisburg-Carlisle,PA,2019-02-05,Pennsylvania,East Coast,Residential Electricity,133.18708169159277,1.28,170.48,2025-09-30
@@ -8797,7 +8791,6 @@ Philadelphia-Camden-Wilmington,PA,2018-07-05,Pennsylvania,East Coast,Residential
 Philadelphia-Camden-Wilmington,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-30
 Philadelphia-Camden-Wilmington,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-30
 Philadelphia-Camden-Wilmington,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.28,127.34,2025-09-30
-Philadelphia-Camden-Wilmington,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-30
 Philadelphia-Camden-Wilmington,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.28,164.6,2025-09-30
 Philadelphia-Camden-Wilmington,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-30
 Philadelphia-Camden-Wilmington,PA,2019-02-05,Pennsylvania,East Coast,Residential Electricity,133.18708169159277,1.28,170.48,2025-09-30
@@ -9051,7 +9044,6 @@ Pittsburgh,PA,2018-07-05,Pennsylvania,East Coast,Residential Electricity,134.705
 Pittsburgh,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-30
 Pittsburgh,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-30
 Pittsburgh,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.28,127.34,2025-09-30
-Pittsburgh,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-30
 Pittsburgh,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.28,164.6,2025-09-30
 Pittsburgh,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-30
 Pittsburgh,PA,2019-02-05,Pennsylvania,East Coast,Residential Electricity,133.18708169159277,1.28,170.48,2025-09-30
@@ -9305,7 +9297,6 @@ Providence-Warwick,RI,2018-07-05,Rhode Island,East Coast,Residential Electricity
 Providence-Warwick,RI,2018-08-05,Rhode Island,East Coast,Residential Electricity,159.27421039598946,1.28,203.87,2025-09-30
 Providence-Warwick,RI,2018-09-05,Rhode Island,East Coast,Residential Electricity,139.26900956653986,1.28,178.26,2025-09-30
 Providence-Warwick,RI,2018-10-05,Rhode Island,East Coast,Residential Electricity,107.4053309692297,1.28,137.48,2025-09-30
-Providence-Warwick,RI,2018-11-05,Rhode Island,East Coast,Residential Electricity,112.53261038456559,1.28,144.04,2025-09-30
 Providence-Warwick,RI,2018-12-05,Rhode Island,East Coast,Residential Electricity,129.6592683568601,1.28,165.96,2025-09-30
 Providence-Warwick,RI,2019-01-05,Rhode Island,East Coast,Residential Electricity,143.31943166081763,1.28,183.45,2025-09-30
 Providence-Warwick,RI,2019-02-05,Rhode Island,East Coast,Residential Electricity,128.42572100401608,1.28,164.38,2025-09-30
@@ -10829,7 +10820,6 @@ Scranton--Wilkes-Barre,PA,2018-07-05,Pennsylvania,East Coast,Residential Electri
 Scranton--Wilkes-Barre,PA,2018-08-05,Pennsylvania,East Coast,Residential Electricity,134.16481898521477,1.28,171.73,2025-09-30
 Scranton--Wilkes-Barre,PA,2018-09-05,Pennsylvania,East Coast,Residential Electricity,124.00039732175405,1.28,158.72,2025-09-30
 Scranton--Wilkes-Barre,PA,2018-10-05,Pennsylvania,East Coast,Residential Electricity,99.48549841749812,1.28,127.34,2025-09-30
-Scranton--Wilkes-Barre,PA,2018-11-05,Pennsylvania,East Coast,Residential Electricity,104.79855819854895,1.28,134.14,2025-09-30
 Scranton--Wilkes-Barre,PA,2018-12-05,Pennsylvania,East Coast,Residential Electricity,128.59127465289592,1.28,164.6,2025-09-30
 Scranton--Wilkes-Barre,PA,2019-01-05,Pennsylvania,East Coast,Residential Electricity,132.00492524965324,1.28,168.97,2025-09-30
 Scranton--Wilkes-Barre,PA,2019-02-05,Pennsylvania,East Coast,Residential Electricity,133.18708169159277,1.28,170.48,2025-09-30
@@ -12098,7 +12088,6 @@ Urban Honolulu,HI,2018-07-05,Hawaii,West Coast,Residential Electricity,184.31978
 Urban Honolulu,HI,2018-08-05,Hawaii,West Coast,Residential Electricity,189.22126088043223,1.28,242.2,2025-09-30
 Urban Honolulu,HI,2018-09-05,Hawaii,West Coast,Residential Electricity,180.65766620499886,1.28,231.24,2025-09-30
 Urban Honolulu,HI,2018-10-05,Hawaii,West Coast,Residential Electricity,180.83860588017055,1.28,231.47,2025-09-30
-Urban Honolulu,HI,2018-11-05,Hawaii,West Coast,Residential Electricity,175.52304665724606,1.28,224.67,2025-09-30
 Urban Honolulu,HI,2018-12-05,Hawaii,West Coast,Residential Electricity,170.76732839750366,1.28,218.58,2025-09-30
 Urban Honolulu,HI,2019-01-05,Hawaii,West Coast,Residential Electricity,168.6338935576791,1.28,215.85,2025-09-30
 Urban Honolulu,HI,2019-02-05,Hawaii,West Coast,Residential Electricity,134.45623118664213,1.28,172.1,2025-09-30
