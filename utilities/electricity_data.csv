@@ -45,6 +45,7 @@ United States,US,2018-07-05,United States,United States,Residential Electricity,
 United States,US,2018-08-05,United States,United States,Residential Electricity,151.40264703252896,1.28,193.8,2025-10-01
 United States,US,2018-09-05,United States,United States,Residential Electricity,125.35339625867533,1.28,160.45,2025-10-01
 United States,US,2018-10-05,United States,United States,Residential Electricity,102.36650569309197,1.28,131.03,2025-10-01
+United States,US,2018-11-05,United States,United States,Residential Electricity,99.80141909030591,1.28,127.75,2025-10-01
 United States,US,2018-12-05,United States,United States,Residential Electricity,113.81843967375394,1.28,145.69,2025-10-01
 United States,US,2019-01-05,United States,United States,Residential Electricity,123.2873455373358,1.28,157.81,2025-10-01
 United States,US,2019-02-05,United States,United States,Residential Electricity,111.24369413338519,1.28,142.39,2025-10-01
@@ -1822,6 +1823,7 @@ Bridgeport-Stamford-Danbury,CT,2018-07-05,Connecticut,East Coast,Residential Ele
 Bridgeport-Stamford-Danbury,CT,2018-08-05,Connecticut,East Coast,Residential Electricity,198.16824929333086,1.28,253.66,2025-10-01
 Bridgeport-Stamford-Danbury,CT,2018-09-05,Connecticut,East Coast,Residential Electricity,153.76364867739235,1.28,196.82,2025-10-01
 Bridgeport-Stamford-Danbury,CT,2018-10-05,Connecticut,East Coast,Residential Electricity,122.73367997120829,1.28,157.1,2025-10-01
+Bridgeport-Stamford-Danbury,CT,2018-11-05,Connecticut,East Coast,Residential Electricity,NA,1.28,NA,2025-10-01
 Bridgeport-Stamford-Danbury,CT,2018-12-05,Connecticut,East Coast,Residential Electricity,163.27670117080237,1.28,208.99,2025-10-01
 Bridgeport-Stamford-Danbury,CT,2019-01-05,Connecticut,East Coast,Residential Electricity,179.52991483307386,1.28,229.8,2025-10-01
 Bridgeport-Stamford-Danbury,CT,2019-02-05,Connecticut,East Coast,Residential Electricity,158.5328527242963,1.28,202.92,2025-10-01
@@ -2075,6 +2077,7 @@ Cape Coral-Fort Myers,FL,2018-07-05,Florida,East Coast,Residential Electricity,1
 Cape Coral-Fort Myers,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Cape Coral-Fort Myers,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Cape Coral-Fort Myers,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Cape Coral-Fort Myers,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Cape Coral-Fort Myers,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Cape Coral-Fort Myers,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Cape Coral-Fort Myers,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -3598,6 +3601,7 @@ Deltona-Daytona Beach-Ormond Beach,FL,2018-07-05,Florida,East Coast,Residential 
 Deltona-Daytona Beach-Ormond Beach,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Deltona-Daytona Beach-Ormond Beach,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Deltona-Daytona Beach-Ormond Beach,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Deltona-Daytona Beach-Ormond Beach,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Deltona-Daytona Beach-Ormond Beach,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Deltona-Daytona Beach-Ormond Beach,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Deltona-Daytona Beach-Ormond Beach,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -3851,7 +3855,6 @@ Des Moines-West Des Moines,IA,2018-07-05,Iowa,Midwest,Residential Electricity,14
 Des Moines-West Des Moines,IA,2018-08-05,Iowa,Midwest,Residential Electricity,144.25696565335554,1.28,184.65,2025-10-01
 Des Moines-West Des Moines,IA,2018-09-05,Iowa,Midwest,Residential Electricity,99.02790532378651,1.28,126.76,2025-10-01
 Des Moines-West Des Moines,IA,2018-10-05,Iowa,Midwest,Residential Electricity,84.22042781683675,1.28,107.8,2025-10-01
-Des Moines-West Des Moines,IA,2018-11-05,Iowa,Midwest,Residential Electricity,NA,1.28,NA,2025-10-01
 Des Moines-West Des Moines,IA,2018-12-05,Iowa,Midwest,Residential Electricity,106.64094836537485,1.28,136.5,2025-10-01
 Des Moines-West Des Moines,IA,2019-01-05,Iowa,Midwest,Residential Electricity,120.895944140094,1.28,154.75,2025-10-01
 Des Moines-West Des Moines,IA,2019-02-05,Iowa,Midwest,Residential Electricity,113.69005498960085,1.28,145.52,2025-10-01
@@ -4994,6 +4997,7 @@ Hartford-West Hartford-East Hartford,CT,2018-07-05,Connecticut,East Coast,Reside
 Hartford-West Hartford-East Hartford,CT,2018-08-05,Connecticut,East Coast,Residential Electricity,198.16824929333086,1.28,253.66,2025-10-01
 Hartford-West Hartford-East Hartford,CT,2018-09-05,Connecticut,East Coast,Residential Electricity,153.76364867739235,1.28,196.82,2025-10-01
 Hartford-West Hartford-East Hartford,CT,2018-10-05,Connecticut,East Coast,Residential Electricity,122.73367997120829,1.28,157.1,2025-10-01
+Hartford-West Hartford-East Hartford,CT,2018-11-05,Connecticut,East Coast,Residential Electricity,NA,1.28,NA,2025-10-01
 Hartford-West Hartford-East Hartford,CT,2018-12-05,Connecticut,East Coast,Residential Electricity,163.27670117080237,1.28,208.99,2025-10-01
 Hartford-West Hartford-East Hartford,CT,2019-01-05,Connecticut,East Coast,Residential Electricity,179.52991483307386,1.28,229.8,2025-10-01
 Hartford-West Hartford-East Hartford,CT,2019-02-05,Connecticut,East Coast,Residential Electricity,158.5328527242963,1.28,202.92,2025-10-01
@@ -5247,7 +5251,6 @@ Indianapolis-Carmel-Greenwood,IN,2018-07-05,Indiana,Midwest,Residential Electric
 Indianapolis-Carmel-Greenwood,IN,2018-08-05,Indiana,Midwest,Residential Electricity,146.3300996058312,1.28,187.3,2025-10-01
 Indianapolis-Carmel-Greenwood,IN,2018-09-05,Indiana,Midwest,Residential Electricity,124.63772305698966,1.28,159.54,2025-10-01
 Indianapolis-Carmel-Greenwood,IN,2018-10-05,Indiana,Midwest,Residential Electricity,103.93385499131455,1.28,133.04,2025-10-01
-Indianapolis-Carmel-Greenwood,IN,2018-11-05,Indiana,Midwest,Residential Electricity,NA,1.28,NA,2025-10-01
 Indianapolis-Carmel-Greenwood,IN,2018-12-05,Indiana,Midwest,Residential Electricity,128.2956926292779,1.28,164.22,2025-10-01
 Indianapolis-Carmel-Greenwood,IN,2019-01-05,Indiana,Midwest,Residential Electricity,141.9105534505361,1.28,181.65,2025-10-01
 Indianapolis-Carmel-Greenwood,IN,2019-02-05,Indiana,Midwest,Residential Electricity,127.33314517836527,1.28,162.99,2025-10-01
@@ -5501,6 +5504,7 @@ Jacksonville,FL,2018-07-05,Florida,East Coast,Residential Electricity,159.412837
 Jacksonville,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Jacksonville,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Jacksonville,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Jacksonville,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Jacksonville,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Jacksonville,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Jacksonville,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -6008,6 +6012,7 @@ Lakeland-Winter Haven,FL,2018-07-05,Florida,East Coast,Residential Electricity,1
 Lakeland-Winter Haven,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Lakeland-Winter Haven,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Lakeland-Winter Haven,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Lakeland-Winter Haven,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Lakeland-Winter Haven,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Lakeland-Winter Haven,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Lakeland-Winter Haven,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -6515,7 +6520,6 @@ Louisville/Jefferson County,KY,2018-07-05,Kentucky,Midwest,Residential Electrici
 Louisville/Jefferson County,KY,2018-08-05,Kentucky,Midwest,Residential Electricity,141.6686739499477,1.28,181.34,2025-10-01
 Louisville/Jefferson County,KY,2018-09-05,Kentucky,Midwest,Residential Electricity,122.51249907980956,1.28,156.82,2025-10-01
 Louisville/Jefferson County,KY,2018-10-05,Kentucky,Midwest,Residential Electricity,102.19753884161875,1.28,130.81,2025-10-01
-Louisville/Jefferson County,KY,2018-11-05,Kentucky,Midwest,Residential Electricity,NA,1.28,NA,2025-10-01
 Louisville/Jefferson County,KY,2018-12-05,Kentucky,Midwest,Residential Electricity,130.05537795057026,1.28,166.47,2025-10-01
 Louisville/Jefferson County,KY,2019-01-05,Kentucky,Midwest,Residential Electricity,141.64022567653078,1.28,181.3,2025-10-01
 Louisville/Jefferson County,KY,2019-02-05,Kentucky,Midwest,Residential Electricity,117.82671244775199,1.28,150.82,2025-10-01
@@ -7023,6 +7027,7 @@ Miami-Fort Lauderdale-West Palm Beach,FL,2018-07-05,Florida,East Coast,Residenti
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Miami-Fort Lauderdale-West Palm Beach,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Miami-Fort Lauderdale-West Palm Beach,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Miami-Fort Lauderdale-West Palm Beach,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Miami-Fort Lauderdale-West Palm Beach,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -7530,6 +7535,7 @@ New Haven,CT,2018-07-05,Connecticut,East Coast,Residential Electricity,203.07641
 New Haven,CT,2018-08-05,Connecticut,East Coast,Residential Electricity,198.16824929333086,1.28,253.66,2025-10-01
 New Haven,CT,2018-09-05,Connecticut,East Coast,Residential Electricity,153.76364867739235,1.28,196.82,2025-10-01
 New Haven,CT,2018-10-05,Connecticut,East Coast,Residential Electricity,122.73367997120829,1.28,157.1,2025-10-01
+New Haven,CT,2018-11-05,Connecticut,East Coast,Residential Electricity,NA,1.28,NA,2025-10-01
 New Haven,CT,2018-12-05,Connecticut,East Coast,Residential Electricity,163.27670117080237,1.28,208.99,2025-10-01
 New Haven,CT,2019-01-05,Connecticut,East Coast,Residential Electricity,179.52991483307386,1.28,229.8,2025-10-01
 New Haven,CT,2019-02-05,Connecticut,East Coast,Residential Electricity,158.5328527242963,1.28,202.92,2025-10-01
@@ -7910,6 +7916,7 @@ North Port-Bradenton-Sarasota,FL,2018-07-05,Florida,East Coast,Residential Elect
 North Port-Bradenton-Sarasota,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 North Port-Bradenton-Sarasota,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 North Port-Bradenton-Sarasota,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+North Port-Bradenton-Sarasota,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 North Port-Bradenton-Sarasota,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 North Port-Bradenton-Sarasota,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 North Port-Bradenton-Sarasota,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -8417,6 +8424,7 @@ Orlando-Kissimmee-Sanford,FL,2018-07-05,Florida,East Coast,Residential Electrici
 Orlando-Kissimmee-Sanford,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Orlando-Kissimmee-Sanford,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Orlando-Kissimmee-Sanford,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Orlando-Kissimmee-Sanford,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Orlando-Kissimmee-Sanford,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Orlando-Kissimmee-Sanford,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Orlando-Kissimmee-Sanford,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -8670,6 +8678,7 @@ Palm Bay-Melbourne-Titusville,FL,2018-07-05,Florida,East Coast,Residential Elect
 Palm Bay-Melbourne-Titusville,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Palm Bay-Melbourne-Titusville,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Palm Bay-Melbourne-Titusville,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Palm Bay-Melbourne-Titusville,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Palm Bay-Melbourne-Titusville,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Palm Bay-Melbourne-Titusville,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Palm Bay-Melbourne-Titusville,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -11590,6 +11599,7 @@ Tampa-St. Petersburg-Clearwater,FL,2018-07-05,Florida,East Coast,Residential Ele
 Tampa-St. Petersburg-Clearwater,FL,2018-08-05,Florida,East Coast,Residential Electricity,156.44842153839502,1.28,200.25,2025-10-01
 Tampa-St. Petersburg-Clearwater,FL,2018-09-05,Florida,East Coast,Residential Electricity,152.91264362284576,1.28,195.73,2025-10-01
 Tampa-St. Petersburg-Clearwater,FL,2018-10-05,Florida,East Coast,Residential Electricity,141.46160214968043,1.28,181.07,2025-10-01
+Tampa-St. Petersburg-Clearwater,FL,2018-11-05,Florida,East Coast,Residential Electricity,113.81661859344536,1.28,145.69,2025-10-01
 Tampa-St. Petersburg-Clearwater,FL,2018-12-05,Florida,East Coast,Residential Electricity,108.73816836182132,1.28,139.18,2025-10-01
 Tampa-St. Petersburg-Clearwater,FL,2019-01-05,Florida,East Coast,Residential Electricity,113.51045814911896,1.28,145.29,2025-10-01
 Tampa-St. Petersburg-Clearwater,FL,2019-02-05,Florida,East Coast,Residential Electricity,105.91592072410229,1.28,135.57,2025-10-01
@@ -12478,7 +12488,6 @@ Wichita,KS,2018-07-05,Kansas,Midwest,Residential Electricity,181.87208783452695,
 Wichita,KS,2018-08-05,Kansas,Midwest,Residential Electricity,165.61620690606384,1.28,211.99,2025-10-01
 Wichita,KS,2018-09-05,Kansas,Midwest,Residential Electricity,125.12422059442791,1.28,160.16,2025-10-01
 Wichita,KS,2018-10-05,Kansas,Midwest,Residential Electricity,95.47638897715807,1.28,122.21,2025-10-01
-Wichita,KS,2018-11-05,Kansas,Midwest,Residential Electricity,NA,1.28,NA,2025-10-01
 Wichita,KS,2018-12-05,Kansas,Midwest,Residential Electricity,106.5293448309303,1.28,136.36,2025-10-01
 Wichita,KS,2019-01-05,Kansas,Midwest,Residential Electricity,99.01410982377176,1.28,126.74,2025-10-01
 Wichita,KS,2019-02-05,Kansas,Midwest,Residential Electricity,111.02461747351191,1.28,142.11,2025-10-01
