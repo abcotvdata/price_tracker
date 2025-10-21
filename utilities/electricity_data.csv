@@ -1315,7 +1315,6 @@ Baton Rouge,LA,2018-07-05,Louisiana,Gulf Coast,Residential Electricity,165.94509
 Baton Rouge,LA,2018-08-05,Louisiana,Gulf Coast,Residential Electricity,162.44756733794523,1.28,207.93,2025-10-21
 Baton Rouge,LA,2018-09-05,Louisiana,Gulf Coast,Residential Electricity,146.77230497326784,1.28,187.87,2025-10-21
 Baton Rouge,LA,2018-10-05,Louisiana,Gulf Coast,Residential Electricity,118.46507837581902,1.28,151.64,2025-10-21
-Baton Rouge,LA,2018-11-05,Louisiana,Gulf Coast,Residential Electricity,NA,1.28,NA,2025-10-21
 Baton Rouge,LA,2018-12-05,Louisiana,Gulf Coast,Residential Electricity,107.15483387438736,1.28,137.16,2025-10-21
 Baton Rouge,LA,2019-01-05,Louisiana,Gulf Coast,Residential Electricity,113.05773719720156,1.28,144.71,2025-10-21
 Baton Rouge,LA,2019-02-05,Louisiana,Gulf Coast,Residential Electricity,104.08010905366275,1.28,133.22,2025-10-21
@@ -1442,7 +1441,6 @@ Birmingham,AL,2018-07-05,Alabama,Gulf Coast,Residential Electricity,188.16532041
 Birmingham,AL,2018-08-05,Alabama,Gulf Coast,Residential Electricity,183.96845391071392,1.28,235.48,2025-10-21
 Birmingham,AL,2018-09-05,Alabama,Gulf Coast,Residential Electricity,174.46048520972906,1.28,223.31,2025-10-21
 Birmingham,AL,2018-10-05,Alabama,Gulf Coast,Residential Electricity,130.8800455015845,1.28,167.53,2025-10-21
-Birmingham,AL,2018-11-05,Alabama,Gulf Coast,Residential Electricity,126.0596567866839,1.28,161.36,2025-10-21
 Birmingham,AL,2018-12-05,Alabama,Gulf Coast,Residential Electricity,145.182028521335,1.28,185.83,2025-10-21
 Birmingham,AL,2019-01-05,Alabama,Gulf Coast,Residential Electricity,157.6539206680025,1.28,201.8,2025-10-21
 Birmingham,AL,2019-02-05,Alabama,Gulf Coast,Residential Electricity,130.80860418800296,1.28,167.44,2025-10-21
@@ -1823,6 +1821,7 @@ Bridgeport-Stamford-Danbury,CT,2018-07-05,Connecticut,East Coast,Residential Ele
 Bridgeport-Stamford-Danbury,CT,2018-08-05,Connecticut,East Coast,Residential Electricity,198.16824929333086,1.28,253.66,2025-10-21
 Bridgeport-Stamford-Danbury,CT,2018-09-05,Connecticut,East Coast,Residential Electricity,153.76364867739235,1.28,196.82,2025-10-21
 Bridgeport-Stamford-Danbury,CT,2018-10-05,Connecticut,East Coast,Residential Electricity,122.73367997120829,1.28,157.1,2025-10-21
+Bridgeport-Stamford-Danbury,CT,2018-11-05,Connecticut,East Coast,Residential Electricity,NA,1.28,NA,2025-10-21
 Bridgeport-Stamford-Danbury,CT,2018-12-05,Connecticut,East Coast,Residential Electricity,163.27670117080237,1.28,208.99,2025-10-21
 Bridgeport-Stamford-Danbury,CT,2019-01-05,Connecticut,East Coast,Residential Electricity,179.52991483307386,1.28,229.8,2025-10-21
 Bridgeport-Stamford-Danbury,CT,2019-02-05,Connecticut,East Coast,Residential Electricity,158.5328527242963,1.28,202.92,2025-10-21
@@ -2584,7 +2583,6 @@ Chicago-Naperville-Elgin,IL,2018-07-05,Illinois,Midwest,Residential Electricity,
 Chicago-Naperville-Elgin,IL,2018-08-05,Illinois,Midwest,Residential Electricity,123.04595051650058,1.28,157.5,2025-10-21
 Chicago-Naperville-Elgin,IL,2018-09-05,Illinois,Midwest,Residential Electricity,92.3352328556881,1.28,118.19,2025-10-21
 Chicago-Naperville-Elgin,IL,2018-10-05,Illinois,Midwest,Residential Electricity,79.68893486442947,1.28,102,2025-10-21
-Chicago-Naperville-Elgin,IL,2018-11-05,Illinois,Midwest,Residential Electricity,NA,1.28,NA,2025-10-21
 Chicago-Naperville-Elgin,IL,2018-12-05,Illinois,Midwest,Residential Electricity,91.3622934761955,1.28,116.94,2025-10-21
 Chicago-Naperville-Elgin,IL,2019-01-05,Illinois,Midwest,Residential Electricity,100.95121270326473,1.28,129.22,2025-10-21
 Chicago-Naperville-Elgin,IL,2019-02-05,Illinois,Midwest,Residential Electricity,87.08642332069081,1.28,111.47,2025-10-21
@@ -4996,6 +4994,7 @@ Hartford-West Hartford-East Hartford,CT,2018-07-05,Connecticut,East Coast,Reside
 Hartford-West Hartford-East Hartford,CT,2018-08-05,Connecticut,East Coast,Residential Electricity,198.16824929333086,1.28,253.66,2025-10-21
 Hartford-West Hartford-East Hartford,CT,2018-09-05,Connecticut,East Coast,Residential Electricity,153.76364867739235,1.28,196.82,2025-10-21
 Hartford-West Hartford-East Hartford,CT,2018-10-05,Connecticut,East Coast,Residential Electricity,122.73367997120829,1.28,157.1,2025-10-21
+Hartford-West Hartford-East Hartford,CT,2018-11-05,Connecticut,East Coast,Residential Electricity,NA,1.28,NA,2025-10-21
 Hartford-West Hartford-East Hartford,CT,2018-12-05,Connecticut,East Coast,Residential Electricity,163.27670117080237,1.28,208.99,2025-10-21
 Hartford-West Hartford-East Hartford,CT,2019-01-05,Connecticut,East Coast,Residential Electricity,179.52991483307386,1.28,229.8,2025-10-21
 Hartford-West Hartford-East Hartford,CT,2019-02-05,Connecticut,East Coast,Residential Electricity,158.5328527242963,1.28,202.92,2025-10-21
@@ -7533,6 +7532,7 @@ New Haven,CT,2018-07-05,Connecticut,East Coast,Residential Electricity,203.07641
 New Haven,CT,2018-08-05,Connecticut,East Coast,Residential Electricity,198.16824929333086,1.28,253.66,2025-10-21
 New Haven,CT,2018-09-05,Connecticut,East Coast,Residential Electricity,153.76364867739235,1.28,196.82,2025-10-21
 New Haven,CT,2018-10-05,Connecticut,East Coast,Residential Electricity,122.73367997120829,1.28,157.1,2025-10-21
+New Haven,CT,2018-11-05,Connecticut,East Coast,Residential Electricity,NA,1.28,NA,2025-10-21
 New Haven,CT,2018-12-05,Connecticut,East Coast,Residential Electricity,163.27670117080237,1.28,208.99,2025-10-21
 New Haven,CT,2019-01-05,Connecticut,East Coast,Residential Electricity,179.52991483307386,1.28,229.8,2025-10-21
 New Haven,CT,2019-02-05,Connecticut,East Coast,Residential Electricity,158.5328527242963,1.28,202.92,2025-10-21
@@ -7659,7 +7659,6 @@ New Orleans-Metairie,LA,2018-07-05,Louisiana,Gulf Coast,Residential Electricity,
 New Orleans-Metairie,LA,2018-08-05,Louisiana,Gulf Coast,Residential Electricity,162.44756733794523,1.28,207.93,2025-10-21
 New Orleans-Metairie,LA,2018-09-05,Louisiana,Gulf Coast,Residential Electricity,146.77230497326784,1.28,187.87,2025-10-21
 New Orleans-Metairie,LA,2018-10-05,Louisiana,Gulf Coast,Residential Electricity,118.46507837581902,1.28,151.64,2025-10-21
-New Orleans-Metairie,LA,2018-11-05,Louisiana,Gulf Coast,Residential Electricity,NA,1.28,NA,2025-10-21
 New Orleans-Metairie,LA,2018-12-05,Louisiana,Gulf Coast,Residential Electricity,107.15483387438736,1.28,137.16,2025-10-21
 New Orleans-Metairie,LA,2019-01-05,Louisiana,Gulf Coast,Residential Electricity,113.05773719720156,1.28,144.71,2025-10-21
 New Orleans-Metairie,LA,2019-02-05,Louisiana,Gulf Coast,Residential Electricity,104.08010905366275,1.28,133.22,2025-10-21
