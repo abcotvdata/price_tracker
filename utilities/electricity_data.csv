@@ -1057,6 +1057,7 @@ Bakersfield-Delano,CA,2018-07-05,California,West Coast,Residential Electricity,1
 Bakersfield-Delano,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 Bakersfield-Delano,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 Bakersfield-Delano,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+Bakersfield-Delano,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Bakersfield-Delano,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 Bakersfield-Delano,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 Bakersfield-Delano,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -1310,7 +1311,6 @@ Baton Rouge,LA,2018-07-05,Louisiana,Gulf Coast,Residential Electricity,165.94509
 Baton Rouge,LA,2018-08-05,Louisiana,Gulf Coast,Residential Electricity,162.44756733794523,1.28,207.93,2025-10-23
 Baton Rouge,LA,2018-09-05,Louisiana,Gulf Coast,Residential Electricity,146.77230497326784,1.28,187.87,2025-10-23
 Baton Rouge,LA,2018-10-05,Louisiana,Gulf Coast,Residential Electricity,118.46507837581902,1.28,151.64,2025-10-23
-Baton Rouge,LA,2018-11-05,Louisiana,Gulf Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Baton Rouge,LA,2018-12-05,Louisiana,Gulf Coast,Residential Electricity,107.15483387438736,1.28,137.16,2025-10-23
 Baton Rouge,LA,2019-01-05,Louisiana,Gulf Coast,Residential Electricity,113.05773719720156,1.28,144.71,2025-10-23
 Baton Rouge,LA,2019-02-05,Louisiana,Gulf Coast,Residential Electricity,104.08010905366275,1.28,133.22,2025-10-23
@@ -2577,7 +2577,6 @@ Chicago-Naperville-Elgin,IL,2018-07-05,Illinois,Midwest,Residential Electricity,
 Chicago-Naperville-Elgin,IL,2018-08-05,Illinois,Midwest,Residential Electricity,123.04595051650058,1.28,157.5,2025-10-23
 Chicago-Naperville-Elgin,IL,2018-09-05,Illinois,Midwest,Residential Electricity,92.3352328556881,1.28,118.19,2025-10-23
 Chicago-Naperville-Elgin,IL,2018-10-05,Illinois,Midwest,Residential Electricity,79.68893486442947,1.28,102,2025-10-23
-Chicago-Naperville-Elgin,IL,2018-11-05,Illinois,Midwest,Residential Electricity,NA,1.28,NA,2025-10-23
 Chicago-Naperville-Elgin,IL,2018-12-05,Illinois,Midwest,Residential Electricity,91.3622934761955,1.28,116.94,2025-10-23
 Chicago-Naperville-Elgin,IL,2019-01-05,Illinois,Midwest,Residential Electricity,100.95121270326473,1.28,129.22,2025-10-23
 Chicago-Naperville-Elgin,IL,2019-02-05,Illinois,Midwest,Residential Electricity,87.08642332069081,1.28,111.47,2025-10-23
@@ -3845,7 +3844,6 @@ Des Moines-West Des Moines,IA,2018-07-05,Iowa,Midwest,Residential Electricity,14
 Des Moines-West Des Moines,IA,2018-08-05,Iowa,Midwest,Residential Electricity,144.25696565335554,1.28,184.65,2025-10-23
 Des Moines-West Des Moines,IA,2018-09-05,Iowa,Midwest,Residential Electricity,99.02790532378651,1.28,126.76,2025-10-23
 Des Moines-West Des Moines,IA,2018-10-05,Iowa,Midwest,Residential Electricity,84.22042781683675,1.28,107.8,2025-10-23
-Des Moines-West Des Moines,IA,2018-11-05,Iowa,Midwest,Residential Electricity,NA,1.28,NA,2025-10-23
 Des Moines-West Des Moines,IA,2018-12-05,Iowa,Midwest,Residential Electricity,106.64094836537485,1.28,136.5,2025-10-23
 Des Moines-West Des Moines,IA,2019-01-05,Iowa,Midwest,Residential Electricity,120.895944140094,1.28,154.75,2025-10-23
 Des Moines-West Des Moines,IA,2019-02-05,Iowa,Midwest,Residential Electricity,113.69005498960085,1.28,145.52,2025-10-23
@@ -4353,6 +4351,7 @@ Fresno,CA,2018-07-05,California,West Coast,Residential Electricity,138.653765974
 Fresno,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 Fresno,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 Fresno,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+Fresno,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Fresno,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 Fresno,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 Fresno,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -5239,7 +5238,6 @@ Indianapolis-Carmel-Greenwood,IN,2018-07-05,Indiana,Midwest,Residential Electric
 Indianapolis-Carmel-Greenwood,IN,2018-08-05,Indiana,Midwest,Residential Electricity,146.3300996058312,1.28,187.3,2025-10-23
 Indianapolis-Carmel-Greenwood,IN,2018-09-05,Indiana,Midwest,Residential Electricity,124.63772305698966,1.28,159.54,2025-10-23
 Indianapolis-Carmel-Greenwood,IN,2018-10-05,Indiana,Midwest,Residential Electricity,103.93385499131455,1.28,133.04,2025-10-23
-Indianapolis-Carmel-Greenwood,IN,2018-11-05,Indiana,Midwest,Residential Electricity,NA,1.28,NA,2025-10-23
 Indianapolis-Carmel-Greenwood,IN,2018-12-05,Indiana,Midwest,Residential Electricity,128.2956926292779,1.28,164.22,2025-10-23
 Indianapolis-Carmel-Greenwood,IN,2019-01-05,Indiana,Midwest,Residential Electricity,141.9105534505361,1.28,181.65,2025-10-23
 Indianapolis-Carmel-Greenwood,IN,2019-02-05,Indiana,Midwest,Residential Electricity,127.33314517836527,1.28,162.99,2025-10-23
@@ -6253,6 +6251,7 @@ Little Rock-North Little Rock-Conway,AR,2018-07-05,Arkansas,Gulf Coast,Residenti
 Little Rock-North Little Rock-Conway,AR,2018-08-05,Arkansas,Gulf Coast,Residential Electricity,140.18553527058296,1.28,179.44,2025-10-23
 Little Rock-North Little Rock-Conway,AR,2018-09-05,Arkansas,Gulf Coast,Residential Electricity,128.5132646062659,1.28,164.5,2025-10-23
 Little Rock-North Little Rock-Conway,AR,2018-10-05,Arkansas,Gulf Coast,Residential Electricity,95.67014173981066,1.28,122.46,2025-10-23
+Little Rock-North Little Rock-Conway,AR,2018-11-05,Arkansas,Gulf Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Little Rock-North Little Rock-Conway,AR,2018-12-05,Arkansas,Gulf Coast,Residential Electricity,103.97332378960797,1.28,133.09,2025-10-23
 Little Rock-North Little Rock-Conway,AR,2019-01-05,Arkansas,Gulf Coast,Residential Electricity,116.68686643187142,1.28,149.36,2025-10-23
 Little Rock-North Little Rock-Conway,AR,2019-02-05,Arkansas,Gulf Coast,Residential Electricity,110.34219775207877,1.28,141.24,2025-10-23
@@ -6379,6 +6378,7 @@ Los Angeles-Long Beach-Anaheim,CA,2018-07-05,California,West Coast,Residential E
 Los Angeles-Long Beach-Anaheim,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 Los Angeles-Long Beach-Anaheim,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 Los Angeles-Long Beach-Anaheim,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+Los Angeles-Long Beach-Anaheim,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Los Angeles-Long Beach-Anaheim,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 Los Angeles-Long Beach-Anaheim,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 Los Angeles-Long Beach-Anaheim,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -6505,7 +6505,6 @@ Louisville/Jefferson County,KY,2018-07-05,Kentucky,Midwest,Residential Electrici
 Louisville/Jefferson County,KY,2018-08-05,Kentucky,Midwest,Residential Electricity,141.6686739499477,1.28,181.34,2025-10-23
 Louisville/Jefferson County,KY,2018-09-05,Kentucky,Midwest,Residential Electricity,122.51249907980956,1.28,156.82,2025-10-23
 Louisville/Jefferson County,KY,2018-10-05,Kentucky,Midwest,Residential Electricity,102.19753884161875,1.28,130.81,2025-10-23
-Louisville/Jefferson County,KY,2018-11-05,Kentucky,Midwest,Residential Electricity,NA,1.28,NA,2025-10-23
 Louisville/Jefferson County,KY,2018-12-05,Kentucky,Midwest,Residential Electricity,130.05537795057026,1.28,166.47,2025-10-23
 Louisville/Jefferson County,KY,2019-01-05,Kentucky,Midwest,Residential Electricity,141.64022567653078,1.28,181.3,2025-10-23
 Louisville/Jefferson County,KY,2019-02-05,Kentucky,Midwest,Residential Electricity,117.82671244775199,1.28,150.82,2025-10-23
@@ -7647,7 +7646,6 @@ New Orleans-Metairie,LA,2018-07-05,Louisiana,Gulf Coast,Residential Electricity,
 New Orleans-Metairie,LA,2018-08-05,Louisiana,Gulf Coast,Residential Electricity,162.44756733794523,1.28,207.93,2025-10-23
 New Orleans-Metairie,LA,2018-09-05,Louisiana,Gulf Coast,Residential Electricity,146.77230497326784,1.28,187.87,2025-10-23
 New Orleans-Metairie,LA,2018-10-05,Louisiana,Gulf Coast,Residential Electricity,118.46507837581902,1.28,151.64,2025-10-23
-New Orleans-Metairie,LA,2018-11-05,Louisiana,Gulf Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 New Orleans-Metairie,LA,2018-12-05,Louisiana,Gulf Coast,Residential Electricity,107.15483387438736,1.28,137.16,2025-10-23
 New Orleans-Metairie,LA,2019-01-05,Louisiana,Gulf Coast,Residential Electricity,113.05773719720156,1.28,144.71,2025-10-23
 New Orleans-Metairie,LA,2019-02-05,Louisiana,Gulf Coast,Residential Electricity,104.08010905366275,1.28,133.22,2025-10-23
@@ -8534,6 +8532,7 @@ Oxnard-Thousand Oaks-Ventura,CA,2018-07-05,California,West Coast,Residential Ele
 Oxnard-Thousand Oaks-Ventura,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 Oxnard-Thousand Oaks-Ventura,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 Oxnard-Thousand Oaks-Ventura,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+Oxnard-Thousand Oaks-Ventura,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Oxnard-Thousand Oaks-Ventura,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 Oxnard-Thousand Oaks-Ventura,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 Oxnard-Thousand Oaks-Ventura,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -8912,6 +8911,7 @@ Phoenix-Mesa-Chandler,AZ,2018-07-05,Arizona,West Coast,Residential Electricity,2
 Phoenix-Mesa-Chandler,AZ,2018-08-05,Arizona,West Coast,Residential Electricity,209.50058096151773,1.28,268.16,2025-10-23
 Phoenix-Mesa-Chandler,AZ,2018-09-05,Arizona,West Coast,Residential Electricity,175.30183852602383,1.28,224.39,2025-10-23
 Phoenix-Mesa-Chandler,AZ,2018-10-05,Arizona,West Coast,Residential Electricity,104.68771135776113,1.28,134,2025-10-23
+Phoenix-Mesa-Chandler,AZ,2018-11-05,Arizona,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Phoenix-Mesa-Chandler,AZ,2018-12-05,Arizona,West Coast,Residential Electricity,101.56510312212082,1.28,130,2025-10-23
 Phoenix-Mesa-Chandler,AZ,2019-01-05,Arizona,West Coast,Residential Electricity,105.16131393192683,1.28,134.61,2025-10-23
 Phoenix-Mesa-Chandler,AZ,2019-02-05,Arizona,West Coast,Residential Electricity,94.11049101619336,1.28,120.46,2025-10-23
@@ -9798,6 +9798,7 @@ Riverside-San Bernardino-Ontario,CA,2018-07-05,California,West Coast,Residential
 Riverside-San Bernardino-Ontario,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 Riverside-San Bernardino-Ontario,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 Riverside-San Bernardino-Ontario,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+Riverside-San Bernardino-Ontario,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Riverside-San Bernardino-Ontario,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 Riverside-San Bernardino-Ontario,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 Riverside-San Bernardino-Ontario,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -10051,6 +10052,7 @@ Sacramento-Roseville-Folsom,CA,2018-07-05,California,West Coast,Residential Elec
 Sacramento-Roseville-Folsom,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 Sacramento-Roseville-Folsom,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 Sacramento-Roseville-Folsom,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+Sacramento-Roseville-Folsom,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Sacramento-Roseville-Folsom,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 Sacramento-Roseville-Folsom,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 Sacramento-Roseville-Folsom,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -10431,6 +10433,7 @@ San Diego-Chula Vista-Carlsbad,CA,2018-07-05,California,West Coast,Residential E
 San Diego-Chula Vista-Carlsbad,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 San Diego-Chula Vista-Carlsbad,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 San Diego-Chula Vista-Carlsbad,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+San Diego-Chula Vista-Carlsbad,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 San Diego-Chula Vista-Carlsbad,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 San Diego-Chula Vista-Carlsbad,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 San Diego-Chula Vista-Carlsbad,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -10557,6 +10560,7 @@ San Francisco-Oakland-Fremont,CA,2018-07-05,California,West Coast,Residential El
 San Francisco-Oakland-Fremont,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 San Francisco-Oakland-Fremont,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 San Francisco-Oakland-Fremont,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+San Francisco-Oakland-Fremont,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 San Francisco-Oakland-Fremont,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 San Francisco-Oakland-Fremont,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 San Francisco-Oakland-Fremont,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -10683,6 +10687,7 @@ San Jose-Sunnyvale-Santa Clara,CA,2018-07-05,California,West Coast,Residential E
 San Jose-Sunnyvale-Santa Clara,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 San Jose-Sunnyvale-Santa Clara,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 San Jose-Sunnyvale-Santa Clara,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+San Jose-Sunnyvale-Santa Clara,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 San Jose-Sunnyvale-Santa Clara,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 San Jose-Sunnyvale-Santa Clara,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 San Jose-Sunnyvale-Santa Clara,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -11316,6 +11321,7 @@ Stockton-Lodi,CA,2018-07-05,California,West Coast,Residential Electricity,138.65
 Stockton-Lodi,CA,2018-08-05,California,West Coast,Residential Electricity,175.17886178743547,1.28,224.23,2025-10-23
 Stockton-Lodi,CA,2018-09-05,California,West Coast,Residential Electricity,101.021124141077,1.28,129.31,2025-10-23
 Stockton-Lodi,CA,2018-10-05,California,West Coast,Residential Electricity,82.83872297839966,1.28,106.03,2025-10-23
+Stockton-Lodi,CA,2018-11-05,California,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Stockton-Lodi,CA,2018-12-05,California,West Coast,Residential Electricity,100.58530959339842,1.28,128.75,2025-10-23
 Stockton-Lodi,CA,2019-01-05,California,West Coast,Residential Electricity,108.51747918258162,1.28,138.9,2025-10-23
 Stockton-Lodi,CA,2019-02-05,California,West Coast,Residential Electricity,99.44741942344487,1.28,127.29,2025-10-23
@@ -11822,6 +11828,7 @@ Tucson,AZ,2018-07-05,Arizona,West Coast,Residential Electricity,216.003154209070
 Tucson,AZ,2018-08-05,Arizona,West Coast,Residential Electricity,209.50058096151773,1.28,268.16,2025-10-23
 Tucson,AZ,2018-09-05,Arizona,West Coast,Residential Electricity,175.30183852602383,1.28,224.39,2025-10-23
 Tucson,AZ,2018-10-05,Arizona,West Coast,Residential Electricity,104.68771135776113,1.28,134,2025-10-23
+Tucson,AZ,2018-11-05,Arizona,West Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Tucson,AZ,2018-12-05,Arizona,West Coast,Residential Electricity,101.56510312212082,1.28,130,2025-10-23
 Tucson,AZ,2019-01-05,Arizona,West Coast,Residential Electricity,105.16131393192683,1.28,134.61,2025-10-23
 Tucson,AZ,2019-02-05,Arizona,West Coast,Residential Electricity,94.11049101619336,1.28,120.46,2025-10-23
@@ -12328,6 +12335,7 @@ Washington-Arlington-Alexandria,DC,2018-07-05,District of Columbia,East Coast,Re
 Washington-Arlington-Alexandria,DC,2018-08-05,District of Columbia,East Coast,Residential Electricity,121.14112726599403,1.28,155.06,2025-10-23
 Washington-Arlington-Alexandria,DC,2018-09-05,District of Columbia,East Coast,Residential Electricity,109.5044901017905,1.28,140.17,2025-10-23
 Washington-Arlington-Alexandria,DC,2018-10-05,District of Columbia,East Coast,Residential Electricity,94.84793333791443,1.28,121.41,2025-10-23
+Washington-Arlington-Alexandria,DC,2018-11-05,District of Columbia,East Coast,Residential Electricity,NA,1.28,NA,2025-10-23
 Washington-Arlington-Alexandria,DC,2018-12-05,District of Columbia,East Coast,Residential Electricity,100.86031147629119,1.28,129.1,2025-10-23
 Washington-Arlington-Alexandria,DC,2019-01-05,District of Columbia,East Coast,Residential Electricity,106.71298548426272,1.28,136.59,2025-10-23
 Washington-Arlington-Alexandria,DC,2019-02-05,District of Columbia,East Coast,Residential Electricity,100.40697267661974,1.28,128.52,2025-10-23
@@ -12454,7 +12462,6 @@ Wichita,KS,2018-07-05,Kansas,Midwest,Residential Electricity,181.87208783452695,
 Wichita,KS,2018-08-05,Kansas,Midwest,Residential Electricity,165.61620690606384,1.28,211.99,2025-10-23
 Wichita,KS,2018-09-05,Kansas,Midwest,Residential Electricity,125.12422059442791,1.28,160.16,2025-10-23
 Wichita,KS,2018-10-05,Kansas,Midwest,Residential Electricity,95.47638897715807,1.28,122.21,2025-10-23
-Wichita,KS,2018-11-05,Kansas,Midwest,Residential Electricity,NA,1.28,NA,2025-10-23
 Wichita,KS,2018-12-05,Kansas,Midwest,Residential Electricity,106.5293448309303,1.28,136.36,2025-10-23
 Wichita,KS,2019-01-05,Kansas,Midwest,Residential Electricity,99.01410982377176,1.28,126.74,2025-10-23
 Wichita,KS,2019-02-05,Kansas,Midwest,Residential Electricity,111.02461747351191,1.28,142.11,2025-10-23
