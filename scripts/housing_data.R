@@ -234,6 +234,9 @@ data$month <- floor_date(data$date, "month")
 #data <- left_join(data, inflation_small, by = c(“month”, “region”))
 data <- left_join(data,inflation_small, by = "month")
 
+data <- data %>% 
+  mutate(inflation_adjustment = coalesce(inflation_adjustment, 1))
+
 data <- data %>% select(-8) %>% mutate(value_inflation_adjusted = value*inflation_adjustment)
 
 data$year <- as.numeric(format(data$date, "%Y"))
