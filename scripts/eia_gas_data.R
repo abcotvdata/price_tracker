@@ -64,8 +64,12 @@ gas_long$month <- floor_date(gas_long$date, "month")
 #gas_long <- left_join(gas_long, inflation, by = c(“month”, “region”))
 gas_long <- left_join(gas_long, inflation, by = "month")
 
-gas <- gas_long %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
+# remove NA/NULL inflation values
 
+gas_long <- gas_long %>% 
+  mutate(inflation_adjustment = coalesce(inflation_adjustment, 1))
+
+gas <- gas_long %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
 
 #add date updated column and remove month column
 gas <- gas %>% mutate(date_updated = (date)+1) %>% select(-8)
