@@ -2280,13 +2280,13 @@
     "p_change_oldest_newest_raw": 29.8372,
     "median_household_income_raw_2015": 53889,
     "median_household_income_raw_2019": 62843,
-    "median_household_income_raw_recent": 78538,
+    "median_household_income_raw_recent": 80734,
     "inflation_adjustment_2015": 1.3,
     "inflation_adjustment_2019": 1.19,
     "median_household_income_adj_2015": 70055.7,
     "median_household_income_adj_2019": 74783.17,
-    "p_change_2015_recent_income": 12.1,
-    "p_change_2019_recent_income": 5
+    "p_change_2015_recent_income": 15.2,
+    "p_change_2019_recent_income": 8
   },
   {
     "location": "Urban Honolulu",
