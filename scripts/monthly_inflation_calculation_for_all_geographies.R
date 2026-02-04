@@ -56,12 +56,20 @@ calc_inflation_rates <- function(geo_series) {
   # merge inflation rows for current geography with matrix of all geographies
   all_geographies_inflation <- merge(cpi_by_geo, inflation, by = "geography", all = TRUE)
   
-  # return merged matrix as a dataframe
+   # return merged matrix
   return(as.data.frame(all_geographies_inflation))
 }
 
 # call function above for each geography/seriesID in matrix
 all_geographies_inflation <- apply(cpi_by_geo, 1, calc_inflation_rates)
+
+# turn list into dataframe
+all_geographies_inflation <- do.call(rbind.data.frame, all_geographies_inflation)
+
+# remove date NAs, arrange by region and date
+all_geographies_inflation <- all_geographies_inflation %>% 
+  drop_na(date) %>% 
+  arrange(geography, date)
 
 # select only required columns to reduce inflation adjustment file size
 inflation_adjustment <- all_geographies_inflation %>% select(date, inflation_adjustment, geography)
