@@ -8,7 +8,6 @@ library(jsonlite)
 library(r2r)
 library(rlang)
 library(stringr)
-library(fuzzyjoin)
 library(readr)
 options(timeout=300)
 
