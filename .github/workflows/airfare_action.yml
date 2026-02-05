@@ -10,7 +10,7 @@ name: pull US DOT airfare data
 
 jobs:
   render:
-    name: Gather latest housing data
+    name: Gather latest airfare data
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v4
