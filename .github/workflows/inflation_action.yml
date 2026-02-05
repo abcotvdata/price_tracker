@@ -21,7 +21,7 @@ jobs:
       - name: Set up pandoc for Rmd docs
         uses: r-lib/actions/setup-pandoc@v2
       - name: Install dependencies and packages
-        run: Rscript -e 'install.packages(c("tidyverse","blscrapeR", "janitor", "dplyr","lubridate","stringr","blsR"))'
+        run: Rscript -e 'install.packages(c("tidyverse","blscrapeR","janitor","dplyr","lubridate","stringr","blsR","r2r"))'
       - name: pull data, export file
         run: Rscript scripts/monthly_inflation_calculation.R
       - name: pull region data, export file
