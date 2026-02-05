@@ -1,0 +1,28 @@
+# This workflow pulls new airfare data
+
+on:
+  schedule:
+    - cron: '1 12 1 * *'
+
+  workflow_dispatch:
+
+name: pull US DOT airfare data
+
+jobs:
+  render:
+    name: Gather latest housing data
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+      - name: Set up pandoc for Rmd docs
+        uses: r-lib/actions/setup-pandoc@v2
+      - name: Install dependencies and packages
+        run: Rscript -e 'install.packages(c("tidyverse","jsonlite", "janitor", "lubridate","stringr","dplyr","data.table","zoo","httr","r2r","rlang","fuzzyjoin","readr"))'
+      - name: pull data, export files
+        run: Rscript scripts/airfare_data.R
+      - name: Commit results
+        run: |
+          git add -A
+          git commit -m 'New airfare data' || echo "No changes"
+          git push origin || echo "No changes to commit"
