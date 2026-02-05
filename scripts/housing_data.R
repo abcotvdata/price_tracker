@@ -226,7 +226,7 @@ data <- data %>%
 
 #create inflation adjustment column
 #prices adjusted for April 2025
-inflation_small <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv") %>% rename(month = date)
+inflation_small <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/inflation/inflation_adjustment.csv") %>% rename(month = date)
 
 data$month <- floor_date(data$date, "month")
 
