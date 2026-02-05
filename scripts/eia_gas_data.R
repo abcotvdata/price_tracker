@@ -52,7 +52,7 @@ locations <- locations[! duplicated(locations), ]
 gas_long <- left_join(locations, gas_long, by = "region")
 
 #adjust for inflation
-inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv")
+inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/inflation/inflation_adjustment.csv")
 inflation <- inflation %>% rename(month = date)
 
 #add a column to match date from inflation file
