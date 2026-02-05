@@ -115,7 +115,7 @@ electricity <- electricity %>% mutate(region = case_when(
 electricity <- electricity %>% mutate(category = "Residential Electricity") %>% relocate(category, .after = region)
 
 #adjust for inflation
-inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv")
+inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/inflation/inflation_adjustment.csv")
 
 electricity <- left_join(electricity, inflation, by = "date")
 
