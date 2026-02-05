@@ -78,4 +78,4 @@ inflation_adjustment <- all_geographies_inflation %>% select(date, inflation_adj
 inflation_adjustment <- inflation_adjustment %>% rename(region = geography)
 
 # save file with 3 columns (date, inflation_adjustment, geography)
-write_csv(inflation_adjustment, "scripts/inflation_adjustment_all_geographies.csv")
+write_csv(inflation_adjustment, "inflation/inflation_adjustment_all_geographies.csv")
