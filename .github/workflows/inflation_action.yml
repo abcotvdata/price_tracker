@@ -24,6 +24,8 @@ jobs:
         run: Rscript -e 'install.packages(c("tidyverse","blscrapeR", "janitor", "dplyr","lubridate","stringr","blsR"))'
       - name: pull data, export file
         run: Rscript scripts/monthly_inflation_calculation.R
+      - name: pull region data, export file
+        run: Rscript scripts/monthly_inflation_calculation_for_all_geographies.R
       - name: Commit results
         run: |
           git add -A
