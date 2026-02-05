@@ -230,8 +230,6 @@ inflation_small <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_
 
 data$month <- floor_date(data$date, "month")
 
-# once new inflation calculation script (for all geographies) has been swapped in, uncomment the line below and delete the line beneath it
-#data <- left_join(data, inflation_small, by = c(“month”, “region”))
 data <- left_join(data,inflation_small, by = "month")
 
 data <- data %>% 
