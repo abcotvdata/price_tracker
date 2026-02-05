@@ -56,16 +56,12 @@ inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracke
 inflation <- inflation %>% rename(month = date)
 
 #add a column to match date from inflation file
-
 gas_long$month <- floor_date(gas_long$date, "month")
 
 #calcuate inflation
-# once new inflation calculation script (for all geographies) has been swapped in, uncomment the line below and delete the line beneath it
-#gas_long <- left_join(gas_long, inflation, by = c(“month”, “region”))
 gas_long <- left_join(gas_long, inflation, by = "month")
 
-# remove NA/NULL inflation values
-
+#remove NA/NULL inflation values
 gas_long <- gas_long %>% 
   mutate(inflation_adjustment = coalesce(inflation_adjustment, 1))
 
@@ -75,13 +71,11 @@ gas <- gas_long %>% mutate(value_inflation_adjusted = round(value*inflation_adju
 gas <- gas %>% mutate(date_updated = (date)+1) %>% select(-8)
 
 #reorder columns
-
 gas <- gas %>% select(1,2,3,4,7,5,6,8,9,10)
 
-# write to files
-
+#write to files
 write_csv(gas,"transportation/gas_data.csv")
 write_json(gas, "transportation/gas_data.json", pretty = TRUE)
 
-# Clean up temp files
+#clean up temp files
 file.remove("eia_gas_prices.xls")
