@@ -18,7 +18,7 @@ jobs:
       - name: Set up pandoc for Rmd docs
         uses: r-lib/actions/setup-pandoc@v2
       - name: Install dependencies and packages
-        run: Rscript -e 'install.packages(c("tidyverse","jsonlite", "janitor", "lubridate","stringr","dplyr","data.table","zoo","httr","r2r","rlang","fuzzyjoin","readr"))'
+        run: Rscript -e 'install.packages(c("tidyverse","jsonlite", "janitor", "lubridate","stringr","dplyr","data.table","zoo","httr","r2r","rlang","readr"))'
       - name: pull data, export files
         run: Rscript scripts/airfare_data.R
       - name: Commit results
