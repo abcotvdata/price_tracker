@@ -157,9 +157,17 @@ food <- rbind(food, softdrinks)
 #adjust for inflation
 inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment.csv")
 
-# once new inflation calculation script (for all geographies) has been swapped in, uncomment the line below and delete the line beneath it
-#food <- left_join(food, inflation, by = c(“date”, “region”))
 food <- left_join(food, inflation, by = "date")
+
+#adjust for inflation - new code (uncomment right after methodology changes are published)
+#inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/scripts/inflation_adjustment_all_geographies.csv")
+
+#inflation <- inflation %>% 
+#  mutate(region = str_replace(region, "National", "United States"))
+
+#food <- left_join(food, inflation, by = c("date", "region"))
+##food <- left_join(food, inflation, by = "date")
+
 
 food <- food %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
 
