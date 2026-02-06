@@ -11,12 +11,10 @@ library(stringr)
 library(readr)
 options(timeout=300)
 
-Sys.getenv("US_DOT_KEY")
-
 #pull dataset via API call
 url <- "https://data.transportation.gov/resource/tfrh-tu9e.json?$limit=500000"
 
-app_token <- US_DOT_KEY
+app_token <- Sys.getenv("US_DOT_KEY")
 
 response <- GET(url, add_headers(`X-App-Token` = app_token))
 
