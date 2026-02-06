@@ -1,0 +1,1539 @@
+[
+  {
+    "city1": "Albany, NY",
+    "state_abbr": "NY",
+    "state_full": "New York",
+    "airports": [
+      {
+        "airport_1": "ALB",
+        "origin_airport_name": "Albany International"
+      }
+    ]
+  },
+  {
+    "city1": "Albuquerque, NM",
+    "state_abbr": "NM",
+    "state_full": "New Mexico",
+    "airports": [
+      {
+        "airport_1": "ABQ",
+        "origin_airport_name": "Albuquerque International Sunport"
+      }
+    ]
+  },
+  {
+    "city1": "Allentown/Bethlehem/Easton, PA",
+    "state_abbr": "PA",
+    "state_full": "Pennsylvania",
+    "airports": [
+      {
+        "airport_1": "ABE",
+        "origin_airport_name": "Lehigh Valley International"
+      }
+    ]
+  },
+  {
+    "city1": "Amarillo, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "AMA",
+        "origin_airport_name": "Amarillo International"
+      }
+    ]
+  },
+  {
+    "city1": "Appleton, WI",
+    "state_abbr": "WI",
+    "state_full": "Wisconsin",
+    "airports": [
+      {
+        "airport_1": "ATW",
+        "origin_airport_name": "Appleton International"
+      }
+    ]
+  },
+  {
+    "city1": "Asheville, NC",
+    "state_abbr": "NC",
+    "state_full": "North Carolina",
+    "airports": [
+      {
+        "airport_1": "AVL",
+        "origin_airport_name": "Asheville Regional"
+      }
+    ]
+  },
+  {
+    "city1": "Ashland, WV",
+    "state_abbr": "WV",
+    "state_full": "West Virginia",
+    "airports": [
+      {
+        "airport_1": "HTS",
+        "origin_airport_name": "Tri-State/Milton J. Ferguson Field"
+      }
+    ]
+  },
+  {
+    "city1": "Aspen, CO",
+    "state_abbr": "CO",
+    "state_full": "Colorado",
+    "airports": [
+      {
+        "airport_1": "ASE",
+        "origin_airport_name": "Aspen Pitkin County Sardy Field"
+      }
+    ]
+  },
+  {
+    "city1": "Atlanta, GA (Metropolitan Area)",
+    "state_abbr": "GA",
+    "state_full": "Georgia",
+    "airports": [
+      {
+        "airport_1": "ATL",
+        "origin_airport_name": "Atlanta Municipal"
+      }
+    ]
+  },
+  {
+    "city1": "Atlantic City, NJ",
+    "state_abbr": "NJ",
+    "state_full": "New Jersey",
+    "airports": [
+      {
+        "airport_1": "ACY",
+        "origin_airport_name": "Atlantic City International"
+      }
+    ]
+  },
+  {
+    "city1": "Austin, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "AUS",
+        "origin_airport_name": "Austin - Bergstrom International"
+      }
+    ]
+  },
+  {
+    "city1": "Bangor, ME",
+    "state_abbr": "ME",
+    "state_full": "Maine",
+    "airports": [
+      {
+        "airport_1": "BGR",
+        "origin_airport_name": "Bangor International"
+      }
+    ]
+  },
+  {
+    "city1": "Baton Rouge, LA",
+    "state_abbr": "LA",
+    "state_full": "Louisiana",
+    "airports": [
+      {
+        "airport_1": "BTR",
+        "origin_airport_name": "Baton Rouge Metropolitan/Ryan Field"
+      }
+    ]
+  },
+  {
+    "city1": "Belleville, IL",
+    "state_abbr": "IL",
+    "state_full": "Illinois",
+    "airports": [
+      {
+        "airport_1": "BLV",
+        "origin_airport_name": "Scott AFB"
+      }
+    ]
+  },
+  {
+    "city1": "Bellingham, WA",
+    "state_abbr": "WA",
+    "state_full": "Washington",
+    "airports": [
+      {
+        "airport_1": "BLI",
+        "origin_airport_name": "Bellingham International"
+      }
+    ]
+  },
+  {
+    "city1": "Bend/Redmond, OR",
+    "state_abbr": "OR",
+    "state_full": "Oregon",
+    "airports": [
+      {
+        "airport_1": "RDM",
+        "origin_airport_name": "Roberts Field"
+      }
+    ]
+  },
+  {
+    "city1": "Billings, MT",
+    "state_abbr": "MT",
+    "state_full": "Montana",
+    "airports": [
+      {
+        "airport_1": "BIL",
+        "origin_airport_name": "Billings Logan International"
+      }
+    ]
+  },
+  {
+    "city1": "Birmingham, AL",
+    "state_abbr": "AL",
+    "state_full": "Alabama",
+    "airports": [
+      {
+        "airport_1": "BHM",
+        "origin_airport_name": "Birmingham Airport"
+      }
+    ]
+  },
+  {
+    "city1": "Bismarck/Mandan, ND",
+    "state_abbr": "ND",
+    "state_full": "North Dakota",
+    "airports": [
+      {
+        "airport_1": "BIS",
+        "origin_airport_name": "Bismarck Municipal"
+      }
+    ]
+  },
+  {
+    "city1": "Boise, ID",
+    "state_abbr": "ID",
+    "state_full": "Idaho",
+    "airports": [
+      {
+        "airport_1": "BOI",
+        "origin_airport_name": "Boise Air Terminal"
+      }
+    ]
+  },
+  {
+    "city1": "Boston, MA (Metropolitan Area)",
+    "state_abbr": "MA",
+    "state_full": "Massachusetts",
+    "airports": [
+      {
+        "airport_1": "BOS",
+        "origin_airport_name": "Logan International"
+      },
+      {
+        "airport_1": "MHT",
+        "origin_airport_name": "Grenier Field/Manchester Municipal"
+      },
+      {
+        "airport_1": "PVD",
+        "origin_airport_name": "Rhode Island Tf Green International"
+      }
+    ]
+  },
+  {
+    "city1": "Bozeman, MT",
+    "state_abbr": "MT",
+    "state_full": "Montana",
+    "airports": [
+      {
+        "airport_1": "BZN",
+        "origin_airport_name": "Bozeman Yellowstone International"
+      }
+    ]
+  },
+  {
+    "city1": "Buffalo, NY",
+    "state_abbr": "NY",
+    "state_full": "New York",
+    "airports": [
+      {
+        "airport_1": "BUF",
+        "origin_airport_name": "Buffalo Niagara International"
+      }
+    ]
+  },
+  {
+    "city1": "Burlington, VT",
+    "state_abbr": "VT",
+    "state_full": "Vermont",
+    "airports": [
+      {
+        "airport_1": "BTV",
+        "origin_airport_name": "Burlington International"
+      }
+    ]
+  },
+  {
+    "city1": "Cedar Rapids/Iowa City, IA",
+    "state_abbr": "IA",
+    "state_full": "Iowa",
+    "airports": [
+      {
+        "airport_1": "CID",
+        "origin_airport_name": "Cedar Rapids Municipal"
+      }
+    ]
+  },
+  {
+    "city1": "Charleston, SC",
+    "state_abbr": "SC",
+    "state_full": "South Carolina",
+    "airports": [
+      {
+        "airport_1": "CHS",
+        "origin_airport_name": "Charleston AFB/International"
+      }
+    ]
+  },
+  {
+    "city1": "Charlotte, NC",
+    "state_abbr": "NC",
+    "state_full": "North Carolina",
+    "airports": [
+      {
+        "airport_1": "CLT",
+        "origin_airport_name": "Charlotte Douglas International"
+      }
+    ]
+  },
+  {
+    "city1": "Charlottesville, VA",
+    "state_abbr": "VA",
+    "state_full": "Virginia",
+    "airports": [
+      {
+        "airport_1": "CHO",
+        "origin_airport_name": "Charlottesville Albemarle"
+      }
+    ]
+  },
+  {
+    "city1": "Chattanooga, TN",
+    "state_abbr": "TN",
+    "state_full": "Tennessee",
+    "airports": [
+      {
+        "airport_1": "CHA",
+        "origin_airport_name": "Lovell Field"
+      }
+    ]
+  },
+  {
+    "city1": "Chicago, IL",
+    "state_abbr": "IL",
+    "state_full": "Illinois",
+    "airports": [
+      {
+        "airport_1": "MDW",
+        "origin_airport_name": "Chicago Midway International"
+      },
+      {
+        "airport_1": "ORD",
+        "origin_airport_name": "Chicago O'Hare International"
+      }
+    ]
+  },
+  {
+    "city1": "Cincinnati, OH",
+    "state_abbr": "OH",
+    "state_full": "Ohio",
+    "airports": [
+      {
+        "airport_1": "CVG",
+        "origin_airport_name": "Cincinnati/Northern Kentucky International"
+      }
+    ]
+  },
+  {
+    "city1": "Cleveland, OH (Metropolitan Area)",
+    "state_abbr": "OH",
+    "state_full": "Ohio",
+    "airports": [
+      {
+        "airport_1": "CAK",
+        "origin_airport_name": "Akron-Canton Regional"
+      },
+      {
+        "airport_1": "CLE",
+        "origin_airport_name": "Cleveland-Hopkins International"
+      }
+    ]
+  },
+  {
+    "city1": "Colorado Springs, CO",
+    "state_abbr": "CO",
+    "state_full": "Colorado",
+    "airports": [
+      {
+        "airport_1": "COS",
+        "origin_airport_name": "City of Colorado Springs Municipal"
+      }
+    ]
+  },
+  {
+    "city1": "Columbia, SC",
+    "state_abbr": "SC",
+    "state_full": "South Carolina",
+    "airports": [
+      {
+        "airport_1": "CAE",
+        "origin_airport_name": "Columbia Metropolitan"
+      }
+    ]
+  },
+  {
+    "city1": "Columbus, OH",
+    "state_abbr": "OH",
+    "state_full": "Ohio",
+    "airports": [
+      {
+        "airport_1": "CMH",
+        "origin_airport_name": "John Glenn Columbus International"
+      },
+      {
+        "airport_1": "LCK",
+        "origin_airport_name": "Lockbourne AFB"
+      }
+    ]
+  },
+  {
+    "city1": "Concord, NC",
+    "state_abbr": "NC",
+    "state_full": "North Carolina",
+    "airports": [
+      {
+        "airport_1": "USA",
+        "origin_airport_name": "Concord Padgett Regional"
+      }
+    ]
+  },
+  {
+    "city1": "Corpus Christi, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "CRP",
+        "origin_airport_name": "Corpus Christi International"
+      }
+    ]
+  },
+  {
+    "city1": "Dallas/Fort Worth, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "DAL",
+        "origin_airport_name": "Dallas Love Field"
+      },
+      {
+        "airport_1": "DFW",
+        "origin_airport_name": "Dallas Fort Worth Regional"
+      }
+    ]
+  },
+  {
+    "city1": "Dayton, OH",
+    "state_abbr": "OH",
+    "state_full": "Ohio",
+    "airports": [
+      {
+        "airport_1": "DAY",
+        "origin_airport_name": "James M Cox/Dayton International"
+      }
+    ]
+  },
+  {
+    "city1": "Daytona Beach, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "DAB",
+        "origin_airport_name": "Daytona Beach International"
+      }
+    ]
+  },
+  {
+    "city1": "Denver, CO",
+    "state_abbr": "CO",
+    "state_full": "Colorado",
+    "airports": [
+      {
+        "airport_1": "DEN",
+        "origin_airport_name": "Denver International"
+      }
+    ]
+  },
+  {
+    "city1": "Des Moines, IA",
+    "state_abbr": "IA",
+    "state_full": "Iowa",
+    "airports": [
+      {
+        "airport_1": "DSM",
+        "origin_airport_name": "Des Moines International"
+      }
+    ]
+  },
+  {
+    "city1": "Detroit, MI",
+    "state_abbr": "MI",
+    "state_full": "Michigan",
+    "airports": [
+      {
+        "airport_1": "DTW",
+        "origin_airport_name": "Detroit Metro Wayne County"
+      }
+    ]
+  },
+  {
+    "city1": "Eagle, CO",
+    "state_abbr": "CO",
+    "state_full": "Colorado",
+    "airports": [
+      {
+        "airport_1": "EGE",
+        "origin_airport_name": "Eagle County Regional"
+      }
+    ]
+  },
+  {
+    "city1": "El Paso, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "ELP",
+        "origin_airport_name": "El Paso International"
+      }
+    ]
+  },
+  {
+    "city1": "Eugene, OR",
+    "state_abbr": "OR",
+    "state_full": "Oregon",
+    "airports": [
+      {
+        "airport_1": "EUG",
+        "origin_airport_name": "Mahlon Sweet Field"
+      }
+    ]
+  },
+  {
+    "city1": "Eureka/Arcata, CA",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "ACV",
+        "origin_airport_name": "Arcata"
+      }
+    ]
+  },
+  {
+    "city1": "Everett, WA",
+    "state_abbr": "WA",
+    "state_full": "Washington",
+    "airports": [
+      {
+        "airport_1": "PAE",
+        "origin_airport_name": "Seattle Paine Field International"
+      }
+    ]
+  },
+  {
+    "city1": "Fargo, ND",
+    "state_abbr": "ND",
+    "state_full": "North Dakota",
+    "airports": [
+      {
+        "airport_1": "FAR",
+        "origin_airport_name": "Hector Field"
+      }
+    ]
+  },
+  {
+    "city1": "Fayetteville, AR",
+    "state_abbr": "AR",
+    "state_full": "Arkansas",
+    "airports": [
+      {
+        "airport_1": "XNA",
+        "origin_airport_name": "Northwest Arkansas National"
+      }
+    ]
+  },
+  {
+    "city1": "Flint, MI",
+    "state_abbr": "MI",
+    "state_full": "Michigan",
+    "airports": [
+      {
+        "airport_1": "FNT",
+        "origin_airport_name": "Bishop International"
+      }
+    ]
+  },
+  {
+    "city1": "Fort Myers, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "RSW",
+        "origin_airport_name": "Southwest Florida International"
+      }
+    ]
+  },
+  {
+    "city1": "Fort Wayne, IN",
+    "state_abbr": "IN",
+    "state_full": "Indiana",
+    "airports": [
+      {
+        "airport_1": "FWA",
+        "origin_airport_name": "Fort Wayne International"
+      }
+    ]
+  },
+  {
+    "city1": "Fresno, CA",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "FAT",
+        "origin_airport_name": "Fresno Air Terminal"
+      }
+    ]
+  },
+  {
+    "city1": "Grand Forks, ND",
+    "state_abbr": "ND",
+    "state_full": "North Dakota",
+    "airports": [
+      {
+        "airport_1": "GFK",
+        "origin_airport_name": "Grand Forks International"
+      }
+    ]
+  },
+  {
+    "city1": "Grand Rapids, MI",
+    "state_abbr": "MI",
+    "state_full": "Michigan",
+    "airports": [
+      {
+        "airport_1": "GRR",
+        "origin_airport_name": "Gerald R. Ford International"
+      }
+    ]
+  },
+  {
+    "city1": "Greensboro/High Point, NC",
+    "state_abbr": "NC",
+    "state_full": "North Carolina",
+    "airports": [
+      {
+        "airport_1": "GSO",
+        "origin_airport_name": "Piedmont Triad International"
+      }
+    ]
+  },
+  {
+    "city1": "Greenville/Spartanburg, SC",
+    "state_abbr": "SC",
+    "state_full": "South Carolina",
+    "airports": [
+      {
+        "airport_1": "GSP",
+        "origin_airport_name": "Greenville-Spartanburg"
+      }
+    ]
+  },
+  {
+    "city1": "Harlingen/San Benito, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "HRL",
+        "origin_airport_name": "Valley International"
+      }
+    ]
+  },
+  {
+    "city1": "Harrisburg, PA",
+    "state_abbr": "PA",
+    "state_full": "Pennsylvania",
+    "airports": [
+      {
+        "airport_1": "MDT",
+        "origin_airport_name": "Harrisburg International"
+      }
+    ]
+  },
+  {
+    "city1": "Hartford, CT",
+    "state_abbr": "CT",
+    "state_full": "Connecticut",
+    "airports": [
+      {
+        "airport_1": "BDL",
+        "origin_airport_name": "Bradley International"
+      }
+    ]
+  },
+  {
+    "city1": "Hilton Head, SC",
+    "state_abbr": "SC",
+    "state_full": "South Carolina",
+    "airports": [
+      {
+        "airport_1": "HHH",
+        "origin_airport_name": "Hilton Head Airport"
+      }
+    ]
+  },
+  {
+    "city1": "Houston, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "HOU",
+        "origin_airport_name": "William P Hobby"
+      },
+      {
+        "airport_1": "IAH",
+        "origin_airport_name": "George Bush Intercontinental/Houston"
+      }
+    ]
+  },
+  {
+    "city1": "Huntsville, AL",
+    "state_abbr": "AL",
+    "state_full": "Alabama",
+    "airports": [
+      {
+        "airport_1": "HSV",
+        "origin_airport_name": "Huntsville International-Carl T Jones Field"
+      }
+    ]
+  },
+  {
+    "city1": "Idaho Falls, ID",
+    "state_abbr": "ID",
+    "state_full": "Idaho",
+    "airports": [
+      {
+        "airport_1": "IDA",
+        "origin_airport_name": "Fanning Field"
+      }
+    ]
+  },
+  {
+    "city1": "Indianapolis, IN",
+    "state_abbr": "IN",
+    "state_full": "Indiana",
+    "airports": [
+      {
+        "airport_1": "IND",
+        "origin_airport_name": "Indianapolis International"
+      }
+    ]
+  },
+  {
+    "city1": "Jackson, WY",
+    "state_abbr": "WY",
+    "state_full": "Wyoming",
+    "airports": [
+      {
+        "airport_1": "JAC",
+        "origin_airport_name": "Jackson Hole"
+      }
+    ]
+  },
+  {
+    "city1": "Jackson/Vicksburg, MS",
+    "state_abbr": "MS",
+    "state_full": "Mississippi",
+    "airports": [
+      {
+        "airport_1": "JAN",
+        "origin_airport_name": "Allen C Thompson Field"
+      }
+    ]
+  },
+  {
+    "city1": "Jacksonville, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "JAX",
+        "origin_airport_name": "Jacksonville International"
+      }
+    ]
+  },
+  {
+    "city1": "Kalispell, MT",
+    "state_abbr": "MT",
+    "state_full": "Montana",
+    "airports": [
+      {
+        "airport_1": "FCA",
+        "origin_airport_name": "Glacier Park International"
+      }
+    ]
+  },
+  {
+    "city1": "Kansas City, MO",
+    "state_abbr": "MO",
+    "state_full": "Missouri",
+    "airports": [
+      {
+        "airport_1": "MCI",
+        "origin_airport_name": "Kansas City International"
+      }
+    ]
+  },
+  {
+    "city1": "Key West, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "EYW",
+        "origin_airport_name": "Key West International"
+      }
+    ]
+  },
+  {
+    "city1": "Knoxville, TN",
+    "state_abbr": "TN",
+    "state_full": "Tennessee",
+    "airports": [
+      {
+        "airport_1": "TYS",
+        "origin_airport_name": "McGhee Tyson"
+      }
+    ]
+  },
+  {
+    "city1": "Las Vegas, NV",
+    "state_abbr": "NV",
+    "state_full": "Nevada",
+    "airports": [
+      {
+        "airport_1": "LAS",
+        "origin_airport_name": "Harry Reid International"
+      }
+    ]
+  },
+  {
+    "city1": "Latrobe, PA",
+    "state_abbr": "PA",
+    "state_full": "Pennsylvania",
+    "airports": [
+      {
+        "airport_1": "LBE",
+        "origin_airport_name": "Arnold Palmer Regional"
+      }
+    ]
+  },
+  {
+    "city1": "Lexington, KY",
+    "state_abbr": "KY",
+    "state_full": "Kentucky",
+    "airports": [
+      {
+        "airport_1": "LEX",
+        "origin_airport_name": "Blue Grass"
+      }
+    ]
+  },
+  {
+    "city1": "Little Rock, AR",
+    "state_abbr": "AR",
+    "state_full": "Arkansas",
+    "airports": [
+      {
+        "airport_1": "LIT",
+        "origin_airport_name": "Adams Field"
+      }
+    ]
+  },
+  {
+    "city1": "Los Angeles, CA (Metropolitan Area)",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "BUR",
+        "origin_airport_name": "Bob Hope"
+      },
+      {
+        "airport_1": "LAX",
+        "origin_airport_name": "Los Angeles International"
+      },
+      {
+        "airport_1": "LGB",
+        "origin_airport_name": "Long Beach Airport"
+      },
+      {
+        "airport_1": "ONT",
+        "origin_airport_name": "Ontario International"
+      },
+      {
+        "airport_1": "SNA",
+        "origin_airport_name": "John Wayne Airport-Orange County"
+      }
+    ]
+  },
+  {
+    "city1": "Louisville, KY",
+    "state_abbr": "KY",
+    "state_full": "Kentucky",
+    "airports": [
+      {
+        "airport_1": "SDF",
+        "origin_airport_name": "Louisville International-Standiford Field"
+      }
+    ]
+  },
+  {
+    "city1": "Madison, WI",
+    "state_abbr": "WI",
+    "state_full": "Wisconsin",
+    "airports": [
+      {
+        "airport_1": "MSN",
+        "origin_airport_name": "Dane County Regional-Truax Field"
+      }
+    ]
+  },
+  {
+    "city1": "Martha's Vineyard, MA",
+    "state_abbr": "MA",
+    "state_full": "Massachusetts",
+    "airports": [
+      {
+        "airport_1": "MVY",
+        "origin_airport_name": "Martha's Vineyard Airport"
+      }
+    ]
+  },
+  {
+    "city1": "Medford, OR",
+    "state_abbr": "OR",
+    "state_full": "Oregon",
+    "airports": [
+      {
+        "airport_1": "MFR",
+        "origin_airport_name": "Medford Jackson County"
+      }
+    ]
+  },
+  {
+    "city1": "Memphis, TN",
+    "state_abbr": "TN",
+    "state_full": "Tennessee",
+    "airports": [
+      {
+        "airport_1": "MEM",
+        "origin_airport_name": "Memphis International"
+      }
+    ]
+  },
+  {
+    "city1": "Miami, FL (Metropolitan Area)",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "FLL",
+        "origin_airport_name": "Fort Lauderdale-Hollywood International"
+      },
+      {
+        "airport_1": "MIA",
+        "origin_airport_name": "Miami International"
+      }
+    ]
+  },
+  {
+    "city1": "Milwaukee, WI",
+    "state_abbr": "WI",
+    "state_full": "Wisconsin",
+    "airports": [
+      {
+        "airport_1": "MKE",
+        "origin_airport_name": "General Mitchell Field"
+      }
+    ]
+  },
+  {
+    "city1": "Minneapolis/St. Paul, MN",
+    "state_abbr": "MN",
+    "state_full": "Minnesota",
+    "airports": [
+      {
+        "airport_1": "MSP",
+        "origin_airport_name": "Minneapolis-St Paul International"
+      }
+    ]
+  },
+  {
+    "city1": "Minot, ND",
+    "state_abbr": "ND",
+    "state_full": "North Dakota",
+    "airports": [
+      {
+        "airport_1": "MOT",
+        "origin_airport_name": "Minot International"
+      }
+    ]
+  },
+  {
+    "city1": "Missoula, MT",
+    "state_abbr": "MT",
+    "state_full": "Montana",
+    "airports": [
+      {
+        "airport_1": "MSO",
+        "origin_airport_name": "Missoula International"
+      }
+    ]
+  },
+  {
+    "city1": "Myrtle Beach, SC",
+    "state_abbr": "SC",
+    "state_full": "South Carolina",
+    "airports": [
+      {
+        "airport_1": "MYR",
+        "origin_airport_name": "Myrtle Beach International"
+      }
+    ]
+  },
+  {
+    "city1": "Nantucket, MA",
+    "state_abbr": "MA",
+    "state_full": "Massachusetts",
+    "airports": [
+      {
+        "airport_1": "ACK",
+        "origin_airport_name": "Nantucket Memorial"
+      }
+    ]
+  },
+  {
+    "city1": "Nashville, TN",
+    "state_abbr": "TN",
+    "state_full": "Tennessee",
+    "airports": [
+      {
+        "airport_1": "BNA",
+        "origin_airport_name": "Nashville International"
+      }
+    ]
+  },
+  {
+    "city1": "New Haven, CT",
+    "state_abbr": "CT",
+    "state_full": "Connecticut",
+    "airports": [
+      {
+        "airport_1": "HVN",
+        "origin_airport_name": "Tweed New Haven"
+      }
+    ]
+  },
+  {
+    "city1": "New Orleans, LA",
+    "state_abbr": "LA",
+    "state_full": "Louisiana",
+    "airports": [
+      {
+        "airport_1": "MSY",
+        "origin_airport_name": "Louis Armstrong New Orleans International"
+      }
+    ]
+  },
+  {
+    "city1": "New York City, NY (Metropolitan Area)",
+    "state_abbr": "NY",
+    "state_full": "New York",
+    "airports": [
+      {
+        "airport_1": "EWR",
+        "origin_airport_name": "Newark Liberty International"
+      },
+      {
+        "airport_1": "HPN",
+        "origin_airport_name": "Westchester County"
+      },
+      {
+        "airport_1": "ISP",
+        "origin_airport_name": "Long Island MacArthur"
+      },
+      {
+        "airport_1": "JFK",
+        "origin_airport_name": "John F. Kennedy International"
+      },
+      {
+        "airport_1": "LGA",
+        "origin_airport_name": "La Guardia"
+      },
+      {
+        "airport_1": "SWF",
+        "origin_airport_name": "New York Stewart International"
+      }
+    ]
+  },
+  {
+    "city1": "Norfolk, VA (Metropolitan Area)",
+    "state_abbr": "VA",
+    "state_full": "Virginia",
+    "airports": [
+      {
+        "airport_1": "ORF",
+        "origin_airport_name": "Norfolk International"
+      },
+      {
+        "airport_1": "PHF",
+        "origin_airport_name": "Newport News/Williamsburg International"
+      }
+    ]
+  },
+  {
+    "city1": "Oklahoma City, OK",
+    "state_abbr": "OK",
+    "state_full": "Oklahoma",
+    "airports": [
+      {
+        "airport_1": "OKC",
+        "origin_airport_name": "Okc Will Rogers International"
+      }
+    ]
+  },
+  {
+    "city1": "Omaha, NE",
+    "state_abbr": "NE",
+    "state_full": "Nebraska",
+    "airports": [
+      {
+        "airport_1": "OMA",
+        "origin_airport_name": "Eppley Airfield"
+      }
+    ]
+  },
+  {
+    "city1": "Orlando, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "MCO",
+        "origin_airport_name": "Orlando International"
+      }
+    ]
+  },
+  {
+    "city1": "Palm Springs, CA",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "PSP",
+        "origin_airport_name": "Palm Springs International"
+      }
+    ]
+  },
+  {
+    "city1": "Panama City, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "ECP",
+        "origin_airport_name": "Northwest Florida Beaches International"
+      }
+    ]
+  },
+  {
+    "city1": "Pasco/Kennewick/Richland, WA",
+    "state_abbr": "WA",
+    "state_full": "Washington",
+    "airports": [
+      {
+        "airport_1": "PSC",
+        "origin_airport_name": "Tri Cities"
+      }
+    ]
+  },
+  {
+    "city1": "Pensacola, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "PNS",
+        "origin_airport_name": "Pensacola Gulf Coast Regional"
+      }
+    ]
+  },
+  {
+    "city1": "Peoria, IL",
+    "state_abbr": "IL",
+    "state_full": "Illinois",
+    "airports": [
+      {
+        "airport_1": "PIA",
+        "origin_airport_name": "General Downing - Peoria International"
+      }
+    ]
+  },
+  {
+    "city1": "Philadelphia, PA",
+    "state_abbr": "PA",
+    "state_full": "Pennsylvania",
+    "airports": [
+      {
+        "airport_1": "PHL",
+        "origin_airport_name": "Philadelphia International"
+      }
+    ]
+  },
+  {
+    "city1": "Phoenix, AZ",
+    "state_abbr": "AZ",
+    "state_full": "Arizona",
+    "airports": [
+      {
+        "airport_1": "AZA",
+        "origin_airport_name": "Mesa Gateway"
+      },
+      {
+        "airport_1": "PHX",
+        "origin_airport_name": "Phoenix Sky Harbor International"
+      }
+    ]
+  },
+  {
+    "city1": "Pittsburgh, PA",
+    "state_abbr": "PA",
+    "state_full": "Pennsylvania",
+    "airports": [
+      {
+        "airport_1": "PIT",
+        "origin_airport_name": "Pittsburgh International"
+      }
+    ]
+  },
+  {
+    "city1": "Portland, ME",
+    "state_abbr": "ME",
+    "state_full": "Maine",
+    "airports": [
+      {
+        "airport_1": "PWM",
+        "origin_airport_name": "Portland International Jetport"
+      }
+    ]
+  },
+  {
+    "city1": "Portland, OR",
+    "state_abbr": "OR",
+    "state_full": "Oregon",
+    "airports": [
+      {
+        "airport_1": "PDX",
+        "origin_airport_name": "Portland International"
+      }
+    ]
+  },
+  {
+    "city1": "Raleigh/Durham, NC",
+    "state_abbr": "NC",
+    "state_full": "North Carolina",
+    "airports": [
+      {
+        "airport_1": "RDU",
+        "origin_airport_name": "Raleigh-Durham International"
+      }
+    ]
+  },
+  {
+    "city1": "Reno, NV",
+    "state_abbr": "NV",
+    "state_full": "Nevada",
+    "airports": [
+      {
+        "airport_1": "RNO",
+        "origin_airport_name": "Reno/Tahoe International"
+      }
+    ]
+  },
+  {
+    "city1": "Richmond, VA",
+    "state_abbr": "VA",
+    "state_full": "Virginia",
+    "airports": [
+      {
+        "airport_1": "RIC",
+        "origin_airport_name": "Richmond International"
+      }
+    ]
+  },
+  {
+    "city1": "Rochester, NY",
+    "state_abbr": "NY",
+    "state_full": "New York",
+    "airports": [
+      {
+        "airport_1": "ROC",
+        "origin_airport_name": "Frederick Douglass Grtr Rochester International"
+      }
+    ]
+  },
+  {
+    "city1": "Sacramento, CA",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "SMF",
+        "origin_airport_name": "Sacramento International"
+      }
+    ]
+  },
+  {
+    "city1": "Salt Lake City, UT",
+    "state_abbr": "UT",
+    "state_full": "Utah",
+    "airports": [
+      {
+        "airport_1": "SLC",
+        "origin_airport_name": "Salt Lake City International"
+      }
+    ]
+  },
+  {
+    "city1": "San Antonio, TX",
+    "state_abbr": "TX",
+    "state_full": "Texas",
+    "airports": [
+      {
+        "airport_1": "SAT",
+        "origin_airport_name": "San Antonio International"
+      }
+    ]
+  },
+  {
+    "city1": "San Diego, CA",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "SAN",
+        "origin_airport_name": "San Diego International"
+      }
+    ]
+  },
+  {
+    "city1": "San Francisco, CA (Metropolitan Area)",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "OAK",
+        "origin_airport_name": "Metro Oakland International"
+      },
+      {
+        "airport_1": "SFO",
+        "origin_airport_name": "San Francisco International"
+      },
+      {
+        "airport_1": "SJC",
+        "origin_airport_name": "Norman Y. Mineta San Jose International"
+      }
+    ]
+  },
+  {
+    "city1": "Sarasota/Bradenton, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "SRQ",
+        "origin_airport_name": "Sarasota/Bradenton Airport"
+      }
+    ]
+  },
+  {
+    "city1": "Savannah, GA",
+    "state_abbr": "GA",
+    "state_full": "Georgia",
+    "airports": [
+      {
+        "airport_1": "SAV",
+        "origin_airport_name": "Savannah/Hilton Head International"
+      }
+    ]
+  },
+  {
+    "city1": "Seattle, WA",
+    "state_abbr": "WA",
+    "state_full": "Washington",
+    "airports": [
+      {
+        "airport_1": "SEA",
+        "origin_airport_name": "Seattle International"
+      }
+    ]
+  },
+  {
+    "city1": "Sioux Falls, SD",
+    "state_abbr": "SD",
+    "state_full": "South Dakota",
+    "airports": [
+      {
+        "airport_1": "FSD",
+        "origin_airport_name": "Joe Foss Field"
+      }
+    ]
+  },
+  {
+    "city1": "South Bend, IN",
+    "state_abbr": "IN",
+    "state_full": "Indiana",
+    "airports": [
+      {
+        "airport_1": "SBN",
+        "origin_airport_name": "Michiana Regional"
+      }
+    ]
+  },
+  {
+    "city1": "Spokane, WA",
+    "state_abbr": "WA",
+    "state_full": "Washington",
+    "airports": [
+      {
+        "airport_1": "GEG",
+        "origin_airport_name": "Spokane International"
+      }
+    ]
+  },
+  {
+    "city1": "Springfield, MO",
+    "state_abbr": "MO",
+    "state_full": "Missouri",
+    "airports": [
+      {
+        "airport_1": "SGF",
+        "origin_airport_name": "Springfield-Branson National"
+      }
+    ]
+  },
+  {
+    "city1": "St. Louis, MO",
+    "state_abbr": "MO",
+    "state_full": "Missouri",
+    "airports": [
+      {
+        "airport_1": "STL",
+        "origin_airport_name": "Lambert St Louis International"
+      }
+    ]
+  },
+  {
+    "city1": "Syracuse, NY",
+    "state_abbr": "NY",
+    "state_full": "New York",
+    "airports": [
+      {
+        "airport_1": "SYR",
+        "origin_airport_name": "Syracuse Hancock International"
+      }
+    ]
+  },
+  {
+    "city1": "Tampa, FL (Metropolitan Area)",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "PIE",
+        "origin_airport_name": "St Pete Clearwater International"
+      },
+      {
+        "airport_1": "TPA",
+        "origin_airport_name": "Tampa International"
+      }
+    ]
+  },
+  {
+    "city1": "Tucson, AZ",
+    "state_abbr": "AZ",
+    "state_full": "Arizona",
+    "airports": [
+      {
+        "airport_1": "TUS",
+        "origin_airport_name": "Tucson International"
+      }
+    ]
+  },
+  {
+    "city1": "Tulsa, OK",
+    "state_abbr": "OK",
+    "state_full": "Oklahoma",
+    "airports": [
+      {
+        "airport_1": "TUL",
+        "origin_airport_name": "Tulsa International"
+      }
+    ]
+  },
+  {
+    "city1": "Valparaiso, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_1": "VPS",
+        "origin_airport_name": "Eglin AFB"
+      }
+    ]
+  },
+  {
+    "city1": "Washington, DC (Metropolitan Area)",
+    "state_abbr": "DC",
+    "state_full": "District of Columbia",
+    "airports": [
+      {
+        "airport_1": "BWI",
+        "origin_airport_name": "Baltimore/Washington International"
+      },
+      {
+        "airport_1": "DCA",
+        "origin_airport_name": "Ronald Reagan Washington National"
+      },
+      {
+        "airport_1": "IAD",
+        "origin_airport_name": "Washington Dulles International"
+      }
+    ]
+  }
+]
