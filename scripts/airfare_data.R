@@ -340,5 +340,5 @@ final_data <- data6 %>%
 
 #export final_data for trimmed down columns. If you want to export ALL columns,export data6.
 write_json(final_data, "transportation/airfare_data.json", pretty = TRUE, na = "null")
-write_csv(final_data, "transportation/airfare_data.csv", row.names = FALSE)
+write_csv(final_data, "transportation/airfare_data.csv")
 
