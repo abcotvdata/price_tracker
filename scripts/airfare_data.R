@@ -29,9 +29,18 @@ data <- full_data %>% select(2:20)
 rm(response, full_data)
 
 
-#remove data before 2015
+#remove data before 10 years ago
 
-data <- data %>% filter(year >= "2015")
+data <- data %>% 
+  mutate(date = yq(paste0(year, "-Q", quarter)))
+
+max_date <- max(data$date, na.rm = TRUE)
+
+cutoff_date <- max_date - years(10)
+
+data <- data %>% 
+  filter(date >= cutoff_date) %>% 
+  select(-date)
 
 #change all number columns to numeric
 
@@ -150,6 +159,17 @@ data5 <- data4 %>% left_join(
 #remove towers with fewer than 10 average passengers
 
 data6 <- data5 %>% filter(passengers > 10)
+
+
+# add in quarter definitions
+
+data6 <- data6 %>% mutate(quarter_months = case_when(
+  quarter == "1" ~ paste("January to March"),
+  quarter == "2" ~ paste("April to June"),
+  quarter == "3" ~ paste("July to September"),
+  quarter == "4" ~ paste("October to December")
+))
+
 
 #Select only specified columns, this is a test json file that will only output location/city/airport for the test search. Remember to run the "output" line before exporting
 #output_path <- file.path(output_dir, "airfare_locations.json")
