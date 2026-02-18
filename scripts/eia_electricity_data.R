@@ -143,6 +143,10 @@ electricity <- electricity[order(electricity$location != "United States"), ]
 
 lubridate::day(electricity$date) <- 5
 
+# filter for last 10 years (plus three months, since the data lags by that amount)
+electricity <- electricity %>% 
+  filter(floor_date(as.Date(date), "month") >= floor_date(Sys.Date() - months(3) - years(10), "month"))
+
 write_csv(electricity, "utilities/electricity_data.csv")
 write_json(electricity, "utilities/electricity_data.json", pretty = TRUE)
 
