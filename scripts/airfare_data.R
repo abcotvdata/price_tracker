@@ -168,8 +168,13 @@ data6 <- data6 %>% mutate(quarter_months = case_when(
   quarter == "2" ~ paste("April to June"),
   quarter == "3" ~ paste("July to September"),
   quarter == "4" ~ paste("October to December")
-))
-
+)) %>%
+mutate(quarter_months_latest = case_when(
+    quarter_latest == "1" ~ paste("January to March"),
+    quarter_latest == "2" ~ paste("April to June"),
+    quarter_latest == "3" ~ paste("July to September"),
+    quarter_latest == "4" ~ paste("October to December")
+  ))
 
 #Select only specified columns, this is a test json file that will only output location/city/airport for the test search. Remember to run the "output" line before exporting
 #output_path <- file.path(output_dir, "airfare_locations.json")
@@ -348,6 +353,7 @@ final_data <- data6 %>%
     "avg_fare_adjusted",
     "year_latest",
     "quarter_latest",
+    "quarter_months_latest",
     "fare_latest_raw",
     "fare_latest_adjusted",
     "date_oldest",
