@@ -337,6 +337,7 @@ final_data <- data6 %>%
   select(
     "year",
     "quarter",
+    "quarter_months",
     "city1",
     "city2",
     "airport_1",
