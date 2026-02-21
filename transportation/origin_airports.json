@@ -842,17 +842,6 @@
     ]
   },
   {
-    "city1": "Latrobe, PA",
-    "state_abbr": "PA",
-    "state_full": "Pennsylvania",
-    "airports": [
-      {
-        "airport_1": "LBE",
-        "origin_airport_name": "Arnold Palmer Regional"
-      }
-    ]
-  },
-  {
     "city1": "Lexington, KY",
     "state_abbr": "KY",
     "state_full": "Kentucky",

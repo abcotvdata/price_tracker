@@ -695,17 +695,6 @@
     ]
   },
   {
-    "city2": "Niagara Falls, NY",
-    "state_abbr": "NY",
-    "state_full": "New York",
-    "airports": [
-      {
-        "airport_2": "IAG",
-        "destination_airport_name": "Niagara Falls International"
-      }
-    ]
-  },
-  {
     "city2": "Norfolk, VA (Metropolitan Area)",
     "state_abbr": "VA",
     "state_full": "Virginia",
