@@ -36,13 +36,6 @@ calc_inflation_rates <- function(geo_series) {
   # Get 2025 data separately
   inflation_current <- bls_api(geo_series[["seriesid"]], startyear = 2025)
   
-  # Debug: check what columns each has
-  print(paste("Geography:", geo_series[["geography"]]))
-  print("2015-2024 columns:")
-  print(names(inflation))
-  print("2025 columns:")
-  print(names(inflation_current))
-  
   # Find common columns and select only those from both
   common_cols <- intersect(names(inflation), names(inflation_current))
   
