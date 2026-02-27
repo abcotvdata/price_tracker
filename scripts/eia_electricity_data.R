@@ -8,6 +8,8 @@ library(sf)
 library(zoo)
 library(jsonlite)
 library(readxl)
+library(x13binary)
+library(seasonal)
 
 options(timeout=300)
 
@@ -135,20 +137,125 @@ electricity <- electricity %>% mutate(date_updated = Sys.Date())
 #get rid of duplicates in data and places where date updated = NA
 electricity <- electricity[! duplicated(electricity), ]
 
-electricity <- electricity %>%
+checkX13()
+
+#build a monthly sequence once shared between all cities
+mseq <- seq(from = min(electricity$date), to = max(electricity$date), by = "month")
+
+run_x13_one_city <- function(d) {
+  d <- d %>%
+    group_by(date) %>%
+    summarize(value = mean(value, na.rm = TRUE), .groups = "drop") %>%
+    arrange(date) %>%
+    right_join(tibble(date = mseq), by = "date") %>%
+    arrange(date)
+  
+  #handle missing values by returning NA
+  if (any(!is.finite(d$value) | is.na(d$value))) {
+    return(d %>% mutate(sa_value = NA_real_, x13_ok = FALSE, x13_msg = "Missing/invalid values"))
+  }
+
+  x_ts <- ts(d$value, start = c(year(min(d$date)), month(min(d$date))), frequency = 12)  
+  
+  stopifnot(is.ts(x_ts))
+  #print(frequency(x_ts))
+  #print(start(x_ts))
+  #print(end(x_ts))
+  
+  fit <- tryCatch(
+    seas(x_ts, regression.aictest = c("td","easter"), outlier = ""),
+    error = function(e) e
+  )
+  
+  if (inherits(fit, "error")) {
+    return(d %>% mutate(sa_value = NA_real_, x13_ok = FALSE, x13_msg = conditionMessage(fit)))
+  }
+  
+  d %>% mutate(
+    sa_value = as.numeric(final(fit)),
+    x13_ok = TRUE,
+    x13_msg = NA_character_
+  )
+  
+}
+
+electricity1 <- electricity %>%
+  select(location, date, value) %>%
+  group_by(location) %>%
+  group_modify(~ run_x13_one_city(.x)) %>%
+  ungroup()
+
+
+#repeat for inflation-adjusted value
+
+run_x13_inflation_city <- function(d) {
+  d <- d %>%
+    group_by(date) %>%
+    summarize(value = mean(value_inflation_adjusted, na.rm = TRUE), .groups = "drop") %>%
+    arrange(date) %>%
+    right_join(tibble(date = mseq), by = "date") %>%
+    arrange(date)
+  
+  #handle missing values by returning NA
+  if (any(!is.finite(d$value) | is.na(d$value))) {
+    return(d %>% mutate(sa_value = NA_real_, x13_ok = FALSE, x13_msg = "Missing/invalid values"))
+  }
+  
+  x_ts <- ts(d$value, start = c(year(min(d$date)), month(min(d$date))), frequency = 12)  
+  
+  stopifnot(is.ts(x_ts))
+  #print(frequency(x_ts))
+  #print(start(x_ts))
+  #print(end(x_ts))
+  
+  fit <- tryCatch(
+    seas(x_ts, regression.aictest = c("td","easter"), outlier = ""),
+    error = function(e) e
+  )
+  
+  if (inherits(fit, "error")) {
+    return(d %>% mutate(sa_value = NA_real_, x13_ok = FALSE, x13_msg = conditionMessage(fit)))
+  }
+  
+  d %>% mutate(
+    sa_value_inflation_adjusted = as.numeric(final(fit)),
+    x13_ok = TRUE,
+    x13_msg = NA_character_
+  )
+  
+}
+
+electricity2 <- electricity %>%
+  select(location, date, value_inflation_adjusted) %>%
+  group_by(location) %>%
+  group_modify(~ run_x13_inflation_city(.x)) %>%
+  ungroup()
+
+#combine two
+
+electricity1 <- electricity1 %>% select(1,2,3,4) %>% rename(sa_value_raw = sa_value)
+electricity2 <- electricity2 %>% select(1,2,3,4) %>% rename(value_inflation_adjusted = value)
+
+electricity3 <- left_join(electricity1, electricity2, by = c("location", "date"))
+
+electricity4 <- left_join(electricity, electricity3, by = c("location","date","value","value_inflation_adjusted")) 
+
+electricity4 <- electricity4 %>% relocate(date_updated, .after = sa_value_inflation_adjusted)
+
+electricity4 <- electricity4 %>%
   arrange(location, date) %>% 
   group_by(location)
 
-electricity <- electricity[order(electricity$location != "United States"), ]
+electricity4 <-electricity4[order(electricity4$location != "United States"), ]
 
-lubridate::day(electricity$date) <- 5
+lubridate:: day(electricity4$date) <- 5
 
 # filter for last 10 years (plus three months, since the data lags by that amount)
 electricity <- electricity %>% 
   filter(floor_date(as.Date(date), "month") >= floor_date(Sys.Date() - months(3) - years(10), "month"))
 
-write_csv(electricity, "utilities/electricity_data.csv")
-write_json(electricity, "utilities/electricity_data.json", pretty = TRUE)
+write_csv(electricity4, "utilities/electricity_data.csv")
+write_json(electricity4, "utilities/electricity_data.json", pretty = TRUE)
 
 # Clean up temp files
 file.remove(c("eia_electricity_1.json", "eia_electricity_2.json", "eia_customers_and_sales_1.json", "eia_customers_and_sales_2.json"))
