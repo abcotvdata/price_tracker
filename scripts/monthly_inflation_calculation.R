@@ -103,4 +103,7 @@ latest_values <- inflation4$value[inflation_latest_idx]
 
 inflation4$inflation_adjustment <- round((latest_values/inflation4$value),2)
 
-write_csv(inflation4, "inflation/inflation_adjustment.csv")
+inflation5 <- inflation4 %>% 
+  select(date, inflation_adjustment)
+
+write_csv(inflation5, "inflation/inflation_adjustment.csv")
