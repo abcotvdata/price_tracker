@@ -18,12 +18,12 @@ options(timeout=300)
 download.file("https://api.eia.gov/v2/electricity/retail-sales/data/?api_key=xd9gsM696jmdw5b6UNv2ikUhv2t6ANohM19lwbW5&data[0]=price&facets[sectorid][]=RES&start=2015-01&sort[0][column]=period&sort[0][direction]=desc&offset=0&length=5000", "eia_electricity_1.json")
 
 electricity_1 <- fromJSON("eia_electricity_1.json")
-electricity_1 <- as.data.frame(electricity_1) %>% clean_names() %>% select(6,7,8,11)
+electricity_1 <- as.data.frame(electricity_1) %>% clean_names() %>% select("response_data_period","response_data_stateid","response_data_state_description","response_data_price")
 
 download.file("https://api.eia.gov/v2/electricity/retail-sales/data/?api_key=xd9gsM696jmdw5b6UNv2ikUhv2t6ANohM19lwbW5&data[0]=price&facets[sectorid][]=RES&start=2015-01&sort[0][column]=period&sort[0][direction]=desc&offset=5000&length=5000", "eia_electricity_2.json")
 
 electricity_2 <- fromJSON("eia_electricity_2.json")
-electricity_2 <- as.data.frame(electricity_2) %>% clean_names() %>% select(6,7,8,11)
+electricity_2 <- as.data.frame(electricity_2) %>% clean_names() %>% select("response_data_period","response_data_stateid","response_data_state_description","response_data_price")
 
 #combine
 electricity <- rbind(electricity_1,electricity_2)
@@ -37,20 +37,20 @@ electricity <- electricity[! duplicated(electricity), ]
 electricity$response_data_state_description <- gsub("U.S. Total","United States", electricity$response_data_state_description)
 
 #rename columns to match other data
-electricity <- electricity %>% rename(date = response_data_period, state_abbreviation = response_data_stateid, state_spelled_out = response_data_state_description, price_per_kWh = response_data_price)
+electricity1 <- electricity %>% rename(date = response_data_period, state_abbreviation = response_data_stateid, state_spelled_out = response_data_state_description, price_per_kWh = response_data_price)
 
 
 #download average monthly use, most recent available data to calculate average monthly cost
 download.file("https://api.eia.gov/v2/electricity/retail-sales/data/?api_key=xd9gsM696jmdw5b6UNv2ikUhv2t6ANohM19lwbW5&frequency=monthly&data[0]=customers&data[1]=sales&facets[sectorid][]=RES&start=2015-01&sort[0][column]=period&sort[0][direction]=desc&offset=0&length=5000","eia_customers_and_sales_1.json")
 
 customers_and_sales_1 <- fromJSON("eia_customers_and_sales_1.json")
-customers_and_sales_1 <- as.data.frame(customers_and_sales_1) %>% clean_names() %>% select(6,7,8,11,12)
+customers_and_sales_1 <- as.data.frame(customers_and_sales_1) %>% clean_names() %>% select("response_data_period","response_data_stateid","response_data_state_description","response_data_customers","response_data_sales")
 
 #download average monthly use, most recent available data to calculate average monthly cost
 download.file("https://api.eia.gov/v2/electricity/retail-sales/data/?api_key=xd9gsM696jmdw5b6UNv2ikUhv2t6ANohM19lwbW5&frequency=monthly&data[0]=customers&data[1]=sales&facets[sectorid][]=RES&start=2015-01&sort[0][column]=period&sort[0][direction]=desc&offset=5000&length=5000","eia_customers_and_sales_2.json")
 
 customers_and_sales_2 <- fromJSON("eia_customers_and_sales_2.json")
-customers_and_sales_2 <- as.data.frame(customers_and_sales_2) %>% clean_names() %>% select(6,7,8,11,12)
+customers_and_sales_2 <- as.data.frame(customers_and_sales_2) %>% clean_names() %>% select("response_data_period","response_data_stateid","response_data_state_description","response_data_customers","response_data_sales")
 
 customers_and_sales <- rbind(customers_and_sales_1,customers_and_sales_2)
 
@@ -64,38 +64,38 @@ customers_and_sales <- customers_and_sales[! duplicated(customers_and_sales), ]
 customers_and_sales$response_data_state_description <- gsub("U.S. Total","United States", customers_and_sales$response_data_state_description)
 
 #rename columns to match other data
-customers_and_sales <- customers_and_sales %>% rename(date = response_data_period, state_abbreviation = response_data_stateid, state_spelled_out = response_data_state_description)
+customers_and_sales1 <- customers_and_sales %>% rename(date = response_data_period, state_abbreviation = response_data_stateid, state_spelled_out = response_data_state_description)
 
-customers_and_sales$response_data_customers <- as.numeric(customers_and_sales$response_data_customers)
-customers_and_sales$response_data_sales <- as.numeric(customers_and_sales$response_data_sales)
+customers_and_sales1$response_data_customers <- as.numeric(customers_and_sales1$response_data_customers)
+customers_and_sales1$response_data_sales <- as.numeric(customers_and_sales1$response_data_sales)
 
 #convert million kWhr to kWhr and calculate monthly kWh per customer
-customers_and_sales <- customers_and_sales %>% mutate(response_data_sales = response_data_sales*1000000) %>% mutate(kWh_per_customer = response_data_sales/response_data_customers) %>% select(-4,-5)
+customers_and_sales2 <- customers_and_sales1 %>% mutate(response_data_sales = response_data_sales*1000000) %>% mutate(kWh_per_customer = response_data_sales/response_data_customers) %>% select(-"response_data_customers",-"response_data_sales")
 
 
 #make values numerical
 
-electricity$price_per_kWh <- as.numeric(electricity$price_per_kWh)
+electricity1$price_per_kWh <- as.numeric(electricity1$price_per_kWh)
 
 #convert price to dollars for ease with other values
 
-electricity <- electricity %>% mutate(price_per_kWh = price_per_kWh/100)
+electricity2 <- electricity1 %>% mutate(price_per_kWh = price_per_kWh/100)
 
 #calculate avg cost per month
-electricity <- left_join(electricity, customers_and_sales, by = c("date", "state_abbreviation", "state_spelled_out"))
+electricity_all <- left_join(electricity2, customers_and_sales2, by = c("date", "state_abbreviation", "state_spelled_out"))
 
-electricity <- electricity %>% mutate(value = price_per_kWh*kWh_per_customer) %>% select(-4,-5)
+electricity_all1 <- electricity_all %>% mutate(value = price_per_kWh*kWh_per_customer) %>% select(-"price_per_kWh",-"kWh_per_customer")
 
 #adjust dates to match other data
-electricity$date <- paste(electricity$date,"01",sep="-")
+electricity_all1$date <- paste(electricity_all1$date,"01",sep="-")
 
-electricity$date <- as.Date(electricity$date, format = "%Y-%m-%d")
+electricity_all1$date <- as.Date(electricity_all1$date, format = "%Y-%m-%d")
 
 #remove regions from state abbrev/spelled out
 
 regions <- c("MAT","ENC","SAT","ESC","WNC","PACN","PACC","MTN","WSC","NEW")
 
-electricity <- electricity %>% filter(! state_abbreviation %in% regions)
+electricity_all2 <- electricity_all1 %>% filter(! state_abbreviation %in% regions)
 
 east_coast <- c("ME", "VT","NH","MA","CT","RI","NY","PA","NJ","MD","DE","WV","DC","VA","NC","SC","GA","FL")
 west_coast <- c("WA","OR","CA","NV","AZ", "AK","HI")
@@ -105,7 +105,7 @@ midwest <- c("ND","SD","NE","KS","OK","MN","IA","MO","WI","IL","MI","IN","OH","K
 
 
 #add in regions column
-electricity <- electricity %>% mutate(region = case_when(
+electricity_all3 <- electricity_all2 %>% mutate(region = case_when(
   state_abbreviation %in% east_coast ~ "East Coast",
   state_abbreviation %in% west_coast ~ "West Coast",
   state_abbreviation %in% rocky_mountain ~ "Rocky Mountain",
@@ -114,33 +114,33 @@ electricity <- electricity %>% mutate(region = case_when(
   state_spelled_out == "United States" ~ "United States"
 )) %>% relocate(region, .after = state_spelled_out)
 
-electricity <- electricity %>% mutate(category = "Residential Electricity") %>% relocate(category, .after = region)
+electricity_all4 <- electricity_all3 %>% mutate(category = "Residential Electricity") %>% relocate(category, .after = region)
 
 #adjust for inflation
 inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/inflation/inflation_adjustment.csv")
 
-electricity <- left_join(electricity, inflation, by = "date")
+electricity_all_inflation <- left_join(electricity_all4, inflation, by = "date")
 
-electricity <- electricity %>% 
+electricity_all_inflation1 <- electricity_all_inflation %>% 
   mutate(inflation_adjustment = coalesce(inflation_adjustment, 1))
 
-electricity <- electricity %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
+electricity_all_inflation2 <- electricity_all_inflation1 %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
 
 #add in location column 
-locations <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/housing/housing_data.csv") %>% select(2,3)
+locations <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/housing/housing_data.csv") %>% select("location","state_abbreviation")
 locations <- locations[! duplicated(locations), ]
-electricity <- left_join(locations, electricity, by = "state_abbreviation")
+electricity_all_inflation3 <- left_join(locations, electricity_all_inflation2, by = "state_abbreviation")
 
 #now add most recent value
-electricity <- electricity %>% mutate(date_updated = Sys.Date())
+electricity_all_inflation4 <- electricity_all_inflation3 %>% mutate(date_updated = Sys.Date())
 
 #get rid of duplicates in data and places where date updated = NA
-electricity <- electricity[! duplicated(electricity), ]
+electricity_all_inflation5 <- electricity_all_inflation4[! duplicated(electricity_all_inflation4), ]
 
 checkX13()
 
 #build a monthly sequence once shared between all cities
-mseq <- seq(from = min(electricity$date), to = max(electricity$date), by = "month")
+mseq <- seq(from = min(electricityall_inflation5$date), to = max(electricity_all_inflation5$date), by = "month")
 
 run_x13_one_city <- function(d) {
   d <- d %>%
@@ -179,7 +179,7 @@ run_x13_one_city <- function(d) {
   
 }
 
-electricity1 <- electricity %>%
+electricity_seat1 <- electricity_all_inflation5 %>%
   select(location, date, value) %>%
   group_by(location) %>%
   group_modify(~ run_x13_one_city(.x)) %>%
@@ -225,7 +225,7 @@ run_x13_inflation_city <- function(d) {
   
 }
 
-electricity2 <- electricity %>%
+electricity_seat2 <- electricity_all_inflation5 %>%
   select(location, date, value_inflation_adjusted) %>%
   group_by(location) %>%
   group_modify(~ run_x13_inflation_city(.x)) %>%
@@ -233,29 +233,29 @@ electricity2 <- electricity %>%
 
 #combine two
 
-electricity1 <- electricity1 %>% select(1,2,3,4) %>% rename(sa_value_raw = sa_value)
-electricity2 <- electricity2 %>% select(1,2,3,4) %>% rename(value_inflation_adjusted = value)
+electricity_seat1_final <- electricity_seat1 %>% select("location", "date", "value", "sa_value") %>% rename(sa_value_raw = sa_value)
+electricity_seat2_final <- electricity_seat2 %>% select("location", "date", "value", "sa_value_inflation_adjusted") %>% rename(value_inflation_adjusted = value)
 
-electricity3 <- left_join(electricity1, electricity2, by = c("location", "date"))
+electricity_seat_combined <- left_join(electricity_seat1_final, electricity_seat2_final, by = c("location", "date"))
 
-electricity4 <- left_join(electricity, electricity3, by = c("location","date","value","value_inflation_adjusted")) 
+electricity_all_combined <- left_join(electricity_all_inflation5, electricity_seat_combined, by = c("location","date","value","value_inflation_adjusted")) 
 
-electricity4 <- electricity4 %>% relocate(date_updated, .after = sa_value_inflation_adjusted)
+electricity_all_combined1 <- electricity_all_combined %>% relocate(date_updated, .after = sa_value_inflation_adjusted)
 
-electricity4 <- electricity4 %>%
+electricity_all_combined2 <- electricity_all_combined1 %>%
   arrange(location, date) %>% 
   group_by(location)
 
-electricity4 <-electricity4[order(electricity4$location != "United States"), ]
+electricity_all_combined3 <- electricity_all_combined2[order(electricity_all_combined2$location != "United States"), ]
 
-lubridate:: day(electricity4$date) <- 5
+lubridate:: day(electricity_all_combined3$date) <- 5
 
 # filter for last 10 years (plus three months, since the data lags by that amount)
-electricity <- electricity %>% 
+electricity_10yr <- electricity_all_combined3 %>% 
   filter(floor_date(as.Date(date), "month") >= floor_date(Sys.Date() - months(3) - years(10), "month"))
 
-write_csv(electricity4, "utilities/electricity_data.csv")
-write_json(electricity4, "utilities/electricity_data.json", pretty = TRUE)
+write_csv(electricity_10yr, "utilities/electricity_data.csv")
+write_json(electricity_10yr, "utilities/electricity_data.json", pretty = TRUE)
 
 # Clean up temp files
 file.remove(c("eia_electricity_1.json", "eia_electricity_2.json", "eia_customers_and_sales_1.json", "eia_customers_and_sales_2.json"))
