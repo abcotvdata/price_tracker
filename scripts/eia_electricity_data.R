@@ -140,7 +140,7 @@ electricity_all_inflation5 <- electricity_all_inflation4[! duplicated(electricit
 checkX13()
 
 #build a monthly sequence once shared between all cities
-mseq <- seq(from = min(electricityall_inflation5$date), to = max(electricity_all_inflation5$date), by = "month")
+mseq <- seq(from = min(electricity_all_inflation5$date), to = max(electricity_all_inflation5$date), by = "month")
 
 run_x13_one_city <- function(d) {
   d <- d %>%
