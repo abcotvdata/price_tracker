@@ -53,7 +53,13 @@ req <- request(url) |>
   req_headers(
     `User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36",
     `Accept`     = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,*/*",
-    `Referer`    = "https://www.bls.gov/cpi/research-series/r-cpi-u-rs-home.htm"
+    `Accept-Language` = "en-US,en;q=0.9",
+    `Accept-Encoding` = "gzip, deflate, br",
+    `Connection`      = "keep-alive",
+    `Referer`    = "https://www.bls.gov/cpi/research-series/r-cpi-u-rs-home.htm",
+    `Sec-Fetch-Dest`  = "document",
+    `Sec-Fetch-Mode`  = "navigate",
+    `Sec-Fetch-Site`  = "same-origin"
   )
 
 resp <- req_perform(req)
