@@ -20,15 +20,6 @@ jobs:
       - uses: r-lib/actions/setup-r@v2
       - name: Set up pandoc for Rmd docs
         uses: r-lib/actions/setup-pandoc@v2
-      - name: Download BLS file
-        run: |
-          curl -L -o /tmp/r-cpi-u-rs.xlsx \
-          -A "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" \
-          -e "https://www.bls.gov/cpi/research-series/r-cpi-u-rs-home.htm" \
-          "https://www.bls.gov/cpi/research-series/r-cpi-u-rs-allitems.xlsx"
-          echo "File size: $(wc -c < /tmp/r-cpi-u-rs.xlsx) bytes"
-          file /tmp/r-cpi-u-rs.xlsx
-          head -c 4 /tmp/r-cpi-u-rs.xlsx | xxd
       - name: Install dependencies and packages
         run: Rscript -e 'install.packages(c("tidyverse","blscrapeR","janitor","dplyr","lubridate","stringr","blsR","r2r","httr2","readxl"))'
       - name: pull data, export file
