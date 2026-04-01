@@ -21,7 +21,7 @@ jobs:
       - name: Set up pandoc for Rmd docs
         uses: r-lib/actions/setup-pandoc@v2
       - name: Install dependencies and packages
-        run: Rscript -e 'install.packages(c("tidyverse","blscrapeR","janitor","dplyr","lubridate","stringr","blsR","r2r","httr2","readxl"))'
+        run: Rscript -e 'install.packages(c("tidyverse","janitor","dplyr","lubridate","stringr","r2r","httr2","readxl"))'
       - name: pull data, export file
         run: Rscript scripts/R-CPI-U-RS_data_collection.R
       - name: Commit results
