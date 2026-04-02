@@ -24,9 +24,9 @@ gas2 <- gas1 %>% select("date","us","east_coast","midwest","gulf_coast","rocky_m
 #fix date column
 gas2$date <- as.Date(gas2$date, format = "%Y-%m-%d")
 
-#filter to last 10 years
+#filter to last 10 years and one week
 gas3 <- gas2 %>% 
-  filter(floor_date(as.Date(date), "month") >= floor_date(Sys.Date() %m-% years(10)
+  filter(as.Date(date) >= Sys.Date() %m-% years(10) - weeks(1))
 
 gas_long <- gas3 %>%
   pivot_longer(
