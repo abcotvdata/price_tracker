@@ -211,6 +211,17 @@
     ]
   },
   {
+    "city2": "Fargo, ND",
+    "state_abbr": "ND",
+    "state_full": "North Dakota",
+    "airports": [
+      {
+        "airport_2": "FAR",
+        "destination_airport_name": "Hector Field"
+      }
+    ]
+  },
+  {
     "city2": "Fayetteville, AR",
     "state_abbr": "AR",
     "state_full": "Arkansas",

@@ -1360,6 +1360,28 @@
     ]
   },
   {
+    "city1": "Santa Barbara, CA",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "SBA",
+        "origin_airport_name": "Santa Barbara Municipal"
+      }
+    ]
+  },
+  {
+    "city1": "Santa Rosa, CA",
+    "state_abbr": "CA",
+    "state_full": "California",
+    "airports": [
+      {
+        "airport_1": "STS",
+        "origin_airport_name": "Charles M. Schulz - Sonoma County"
+      }
+    ]
+  },
+  {
     "city1": "Sarasota/Bradenton, FL",
     "state_abbr": "FL",
     "state_full": "Florida",
