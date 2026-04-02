@@ -26,7 +26,7 @@ gas2$date <- as.Date(gas2$date, format = "%Y-%m-%d")
 
 #filter to last 10 years
 gas3 <- gas2 %>% 
-  filter(floor_date(as.Date(date), "month") >= floor_date(Sys.Date() - years(10), "month"))
+  filter(floor_date(as.Date(date), "month") >= floor_date(Sys.Date() %m-% years(10)
 
 gas_long <- gas3 %>%
   pivot_longer(
