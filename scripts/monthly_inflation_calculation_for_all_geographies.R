@@ -30,11 +30,11 @@ cpi_by_geo <- cbind(geography = c("National", "Northeast", "Midwest", "South", "
 
 # calculate inflation rates for each geography using its all items CPI series
 calc_inflation_rates <- function(geo_series) {
-  # Get 2015-2024 data
-  inflation <- bls_api(geo_series[["seriesid"]], startyear = 2015)
+  # Get data from 10 years and 3 months back
+  inflation <- bls_api(geo_series[["seriesid"]], startyear = year(Sys.Date() %m-% months(123)))
   
-  # Get 2025 data separately
-  inflation_current <- bls_api(geo_series[["seriesid"]], startyear = 2025)
+  # Get current year data separately
+  inflation_current <- bls_api(geo_series[["seriesid"]], startyear = year(Sys.Date()))
   
   # Find common columns and select only those from both
   common_cols <- intersect(names(inflation), names(inflation_current))
