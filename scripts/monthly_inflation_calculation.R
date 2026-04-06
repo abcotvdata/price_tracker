@@ -133,11 +133,8 @@ inflation2_rebase <- inflation2_rebase %>%
   filter(date >= normalized_10yr) %>%
   select(c(date,value))
 
-#filter initial inflation file to only be data not included in CPI-U-RS. This should still work when the 2025 data comes out
+#filter initial inflation file to only be data not included in CPI-U-RS
 inflation3 <- inflation_rebase %>% select(c(date,value)) %>% filter(date > max(inflation2$date))
-
-#replace NA for Oct 2025 with Sept 2025 (and any future NA values)
-inflation3 <- inflation3 %>% arrange(date) %>% fill(value, .direction = "down")
 
 #combine CPI-U-RS and CPI-U
 inflation4 <- bind_rows(inflation2_rebase, inflation3)
@@ -150,7 +147,8 @@ latest_values <- inflation4$value[inflation_latest_idx]
 inflation4$inflation_adjustment <- round((latest_values/inflation4$value),2)
 
 inflation5 <- inflation4 %>% 
-  select(date, inflation_adjustment)
+  select(date, inflation_adjustment) %>% 
+  arrange(date) %>% fill(inflation_adjustment, .direction = "down")
 
 #output_dir <- "/Users/aguia216/Desktop/CODING_PROJECTS/price-tracker16/src/lib/data"
 #dir.create(output_dir, recursive = TRUE, showWarnings = FALSE)
