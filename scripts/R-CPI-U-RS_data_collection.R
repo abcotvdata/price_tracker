@@ -32,6 +32,6 @@ resp <- req_perform(req)
 
 writeBin(resp_body_raw(resp), tmp)
 
-research_collection_data <- read_excel(tmp, skip = 5) %>% clean_names()
+research_collection_data <- read_excel(tmp, skip = 5) %>% slice(1:(n() - 2)) %>% clean_names()
 
 write_xlsx(research_collection_data, "inflation/r-cpi-u-rs-allitems.xlsx")
