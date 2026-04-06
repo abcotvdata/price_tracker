@@ -97,8 +97,8 @@ download.file(
   mode = "wb"
 )
 
-#skip the first 5 rows of notes
-inflation2 <- read_excel(tmp, skip = 5) %>% clean_names()
+#skip the first 5 rows of notes and remove the last two rows of notes and NA values
+inflation2 <- read_excel(tmp, skip = 5) %>% slice(1:(n() - 2)) %>% clean_names()
 
 #rm(inflation2)
 
