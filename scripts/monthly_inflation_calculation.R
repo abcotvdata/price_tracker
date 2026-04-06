@@ -97,8 +97,10 @@ download.file(
   mode = "wb"
 )
 
-#skip the first 5 rows of notes and remove the last two rows of notes and NA values
-inflation2 <- read_excel(tmp, skip = 5) %>% slice(1:(n() - 2)) %>% clean_names()
+#removes all notes and turns empty values into NAs
+inflation2 <- read_excel(tmp, skip = 5) %>% slice(1:(n() - 2)) %>% clean_names() %>% mutate(across(where(is.character), ~na_if(., "-")))
+
+inflation2$oct <- as.numeric(inflation2$oct)
 
 #rm(inflation2)
 
