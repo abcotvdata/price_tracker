@@ -34,7 +34,7 @@ calc_inflation_rates <- function(geo_series) {
   inflation <- bls_api(geo_series[["seriesid"]], startyear = year(Sys.Date() %m-% months(123)))
   
   # Get current year data separately
-  inflation_current <- bls_api(geo_series[["seriesid"]], startyear = year(Sys.Date() %m-% months(123)))
+  inflation_current <- bls_api(geo_series[["seriesid"]], startyear = year(Sys.Date()))
   
   # Find common columns and select only those from both
   common_cols <- intersect(names(inflation), names(inflation_current))
