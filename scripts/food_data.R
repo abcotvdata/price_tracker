@@ -38,20 +38,20 @@ northeast2 <- c("APU0100720311", "APU0100720111","APU0100FF1101","APU0100FN1102"
 
 
 #one time download older files
-us_food <- bls_api(us, startyear = 2015)
-us_food2 <- bls_api(us2, startyear = 2015)
+us_food1 <- bls_api(us, startyear = 2016)
+us_food2 <- bls_api(us2, startyear = 2016)
 
-west_food <- bls_api(west, startyear = 2015) 
-west_food2 <- bls_api(west2, startyear = 2015)
+west_food1 <- bls_api(west, startyear = 2016) 
+west_food2 <- bls_api(west2, startyear = 2016)
 
-south_food <- bls_api(south, startyear = 2015)
-south_food2 <- bls_api(south2, startyear = 2015)
+south_food1 <- bls_api(south, startyear = 2016)
+south_food2 <- bls_api(south2, startyear = 2016)
 
-midwest_food <- bls_api(midwest, startyear = 2015) 
-midwest_food2 <- bls_api(midwest2, startyear = 2015) 
+midwest_food1 <- bls_api(midwest, startyear = 2016) 
+midwest_food2 <- bls_api(midwest2, startyear = 2016) 
 
-northeast_food <- bls_api(northeast, startyear = 2015)
-northeast_food2 <- bls_api(northeast2, startyear = 2015)
+northeast_food1 <- bls_api(northeast, startyear = 2016)
+northeast_food2 <- bls_api(northeast2, startyear = 2016)
 
 # west_food <- west_food %>% select(-7)
 # south_food2 <- south_food2 %>% select(-7)
@@ -60,20 +60,20 @@ northeast_food2 <- bls_api(northeast2, startyear = 2015)
 # northeast_food <- northeast_food %>% select(-7)
 # northeast_food2 <- northeast_food2 %>% select(-7)
 
-us_food3 <- bls_api(us, startyear = 2025)
-us_food4 <- bls_api(us2, startyear = 2025)
+us_food3 <- bls_api(us, startyear = 2026)
+us_food4 <- bls_api(us2, startyear = 2026)
 
-west_food3 <- bls_api(west, startyear = 2025) 
-west_food4 <- bls_api(west2, startyear = 2025)
+west_food3 <- bls_api(west, startyear = 2026) 
+west_food4 <- bls_api(west2, startyear = 2026)
 
-south_food3 <- bls_api(south, startyear = 2025) 
-south_food4 <- bls_api(south2, startyear = 2025)
+south_food3 <- bls_api(south, startyear = 2026) 
+south_food4 <- bls_api(south2, startyear = 2026)
 
-midwest_food3 <- bls_api(midwest, startyear = 2025)
-midwest_food4 <- bls_api(midwest2, startyear = 2025)
+midwest_food3 <- bls_api(midwest, startyear = 2026)
+midwest_food4 <- bls_api(midwest2, startyear = 2026)
 
-northeast_food3 <- bls_api(northeast, startyear = 2025)
-northeast_food4 <- bls_api(northeast2, startyear = 2025)
+northeast_food3 <- bls_api(northeast, startyear = 2026)
+northeast_food4 <- bls_api(northeast2, startyear = 2026)
 
 us_food3 <- us_food3 %>% select(-4)
 west_food3 <- west_food3 %>% select(-4)
@@ -88,12 +88,13 @@ northeast_food4 <- northeast_food4 %>% select(-4)
 
 
 
-us_food <- rbind(us_food, us_food2,us_food3,us_food4)
-west_food <- rbind(west_food, west_food2,west_food3,west_food4)
-south_food <- rbind(south_food, south_food2,south_food3,south_food4)
-midwest_food <- rbind(midwest_food, midwest_food2,midwest_food3,midwest_food4)
-northeast_food <- rbind(northeast_food, northeast_food2,northeast_food3,northeast_food4)
+us_food <- bind_rows(us_food1, us_food2,us_food3,us_food4)
+west_food <- bind_rows(west_food1, west_food2,west_food3,west_food4)
+south_food <- bind_rows(south_food1, south_food2,south_food3,south_food4)
+midwest_food <- bind_rows(midwest_food1, midwest_food2,midwest_food3,midwest_food4)
+northeast_food <- bind_rows(northeast_food1, northeast_food2,northeast_food3,northeast_food4)
 
+#rm(us_food, west_food, south_food, midwest_food, northeast_food)
 
 us_food <- us_food %>% mutate(region = "United States")
 west_food <- west_food %>% mutate(region = "West")
@@ -101,8 +102,8 @@ south_food <- south_food %>% mutate(region = "South")
 midwest_food <- midwest_food %>% mutate(region = "Midwest")
 northeast_food <- northeast_food %>% mutate(region = "Northeast")
 
-
-food_base <- rbind(us_food, west_food, south_food, midwest_food, northeast_food)
+food_base <- bind_rows(us_food, west_food, south_food, midwest_food, northeast_food)
+#rm(food)
 
 food <- food_base %>% mutate(category = case_when(
   grepl("00712311", seriesID) ~ "Tomatoes, field grown, per lb.",
@@ -138,20 +139,27 @@ food <- food_base %>% mutate(category = case_when(
   grepl("00SAF11", seriesID) ~ "All food at home"
 ))
 
+#Convert the BLS date columns into a normal date
+
 food$period <- gsub("M", "", food$period)
 food$year <- as.character(food$year)
-
 
 food$date <- paste(food$year,food$period,"01",sep="-")
 food$date <- as.Date(food$date, format = "%Y-%m-%d")
 
-food <- food %>% relocate(date, .before = year) %>% relocate(region, .after = date) %>% relocate(category, .after = region) %>% select(-c(4,5,6,8,9))
+food <- food %>% relocate(date, .before = year) %>% relocate(region, .after = date) %>% relocate(category, .after = region)
+
+#delete unnecessary date and other columns 
+
+food <- food %>% select(-c(year, period, periodName, footnotes, seriesID, latest))
+
 
 #adjust soft drink cans value so it's per 12pk instead of per can
 
 softdrinks <- food %>% filter(category == "All soft drinks, 12 pk, 12 oz., cans, per 12 pk.") %>% mutate(value = value*12)
 food <- food %>% filter(category != "All soft drinks, 12 pk, 12 oz., cans, per 12 pk.")
-food <- rbind(food, softdrinks)
+food <- bind_rows(food, softdrinks)
+
 
 
 #adjust for inflation - old code
@@ -165,9 +173,10 @@ inflation <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracke
 inflation <- inflation %>% 
   mutate(region = str_replace(region, "National", "United States"))
 
-food <- left_join(food, inflation, by = c("date", "region"))
+food_inflation_join <- left_join(food, inflation, by = c("date", "region"))
 
-food <- food %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
+
+food <- food_inflation_join %>% mutate(value_inflation_adjusted = round(value*inflation_adjustment,2))
 
 
 #add in location column 
@@ -188,7 +197,7 @@ locations <- locations %>% mutate(region = case_when(
 ))
 food <- left_join(locations, food, by = "region")
 
-food <- food %>% select(1,2,3,4,6,5,7,8,9)
+#food <- food %>% select(1,2,3,4,6,5,7,8,9)
 
 #produce <- c("Tomatoes, field grown, per lb.","Lettuce, romaine, per lb.","Potatoes, white, per lb.","Strawberries, dry pint, per 12 oz.","Bananas, per lb.", "Oranges, Navel, per lb.", "Lemons, per lb.")
 #dry_goods <- c("Beans, dried, any type, all sizes, per lb.","Flour, white, all purpose, per lb.", "Bread, white, pan, per lb.","Rice, white, long grain, uncooked, per lb.","Spaghetti and macaroni, per lb.","Sugar, white, all sizes, per lb.")
@@ -224,8 +233,6 @@ full_grid <- left_join(locations, full_grid, by = "location")
 
 food1 <- full_grid %>%
   left_join(food, by = c("location", "state_abbreviation","state_spelled_out","region","date", "category"))
-
-
 
 # clean/organize data
 
@@ -308,8 +315,6 @@ food2 <- food2 %>% mutate(p_change_oldest_newest_adjusted = round(((latest_value
 
 food3 <- left_join(food1,food2, by = c("location","state_abbreviation","state_spelled_out","region","item","description","measurement","category_bin"))
 
-
-
 food3 <- food3 %>% 
   filter(!((item == "All Soft Drinks" & region == 'Northeast' & measurement == '12 pk.'))) %>% 
   filter(!((item == "All Soft Drinks" & region == 'West' & measurement == '2 liters'))) %>% 
@@ -351,7 +356,7 @@ food7 <- food6 %>% mutate(data_complete = "True")
 to_replace <- food7$test
 
 food8 <- food4 %>% filter(! test %in% to_replace)
-food9 <- rbind(food8, food7)
+food9 <- bind_rows(food8, food7)
 food9 <- food9 %>% select(-3,-5)
 
 #add back in US values
@@ -364,7 +369,7 @@ food10 <- food3 %>% filter(location == "United States") %>%
     count < (max(food4$count))/2 ~ "False"
   )) %>% select(-3)
 
-food9 <- rbind(food9, food10)
+food9 <- bind_rows(food9, food10)
 
 #now mark everything with all data missing as false
 
@@ -375,21 +380,21 @@ food11 <- food3 %>% filter(is.na(value)) %>%
     count == max(food4$count) ~ "False"
   )) %>% filter(data_complete == "False") %>% select(-3)
 
-food9 <- rbind(food9, food11)
+food9 <- bind_rows(food9, food11)
 
 
 food3 <- left_join(food3, food9, by = c("location","item"))
 
 #add in 2020 data for simple situations where the 2019 month matches the latest month
 test_for_2020 <- food3 %>%
-  mutate(compare_date_2020 = make_date(2020, 1,1)) %>%
+  mutate(compare_date_2020 = make_date(2021, 1,1)) %>%
   group_by(location, item, description) %>%
   #filter(!is.na(value)) %>%
   filter(date == compare_date_2020) %>%
   rename(compare_2020_value_adjusted = value_inflation_adjusted, compare_2020_value_raw = value) %>% select(-5,-11,-13)
 
 candidates_2019 <- food3 %>%
-  filter(year(date) == 2019 | date == "2020-01-01") %>%
+  filter(year(date) == 2020 | date == "2021-01-01") %>%
   filter(!is.na(value))
 
 nearest_2020 <- left_join(candidates_2019, test_for_2020, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
@@ -414,17 +419,19 @@ nearest_2020 <- nearest_2020 %>%
 food12 <- left_join(food3, nearest_2020, by = c("location","description", "state_abbreviation","state_spelled_out","region","item","measurement", "category_bin","max_date","latest_value_raw","latest_value_adjusted","min_date","oldest_value_raw","oldest_value_adjusted","p_change_oldest_newest_adjusted","data_complete"))
 
 
-food3 <- food12 %>% 
-  mutate(p_change_2020_newest_adjusted = round(((latest_value_adjusted - compare_2020_value_adjusted)/(compare_2020_value_adjusted))*100,1)) %>%
-  select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,21)
+food_p_change <- food12 %>% 
+  mutate(p_change_2020_newest_adjusted = round(((latest_value_adjusted - compare_2020_value_adjusted)/(compare_2020_value_adjusted))*100,1))
 
+lubridate::day(food_p_change$date) <- 5
+
+#%>%select(1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,22,23,24,26,21)
 
 # add full name for measurements
-food3 <- food3 %>% 
+food_new_col <- food_p_change %>% 
   mutate(measurement_long = measurement) %>% 
   mutate(measurement_long = str_replace_all(measurement_long, c("lb." = "pound", "16 oz." = "16-ounce container", "12 oz." = "12-ounce container", "8 oz." = "8-ounce container", "gal." = "gallon", "doz." = "dozen", "pk." = "pack", "1/2" = "half")))
 
-lubridate::day(food3$date) <- 5
+food3 <- food_new_col %>% select("location","state_abbreviation", "state_spelled_out", "region", "date", "item", "description","measurement", "category_bin", "value", "date_updated", "max_date", "latest_value_raw", "latest_value_adjusted", "min_date", "oldest_value_raw", "oldest_value_adjusted","p_change_oldest_newest_adjusted", "compare_date_2020", "compare_2020_value_raw", "compare_2020_value_adjusted", "p_change_2020_newest_adjusted", "data_complete", "measurement_long")
 
 produce_bin <- food3 %>% 
   filter(category_bin == "Produce")
@@ -446,12 +453,13 @@ drinks_bin <- food3 %>%
 
 # CPI data
 
-food_all <- food3 %>% 
+food_all <- food_new_col %>% 
   filter(item == "All Food At Home") %>% 
   mutate(p_change_oldest_newest_raw = ((latest_value_raw - oldest_value_raw)/oldest_value_raw)*100) %>% 
   group_by(location) %>%
-  slice_tail(n = 1) %>% 
-  select(-7,-8,-9,-21)
+  slice_tail(n = 1) #%>% select(-7,-8,-9,-21)
+
+food_all1<- food_all %>% select("location","state_abbreviation", "state_spelled_out", "region", "date", "item", "value", "inflation_adjustment", "value_inflation_adjusted", "date_updated", "max_date", "latest_value_raw", "latest_value_adjusted", "min_date", "oldest_value_raw", "oldest_value_adjusted","p_change_oldest_newest_raw", "p_change_oldest_newest_adjusted", "compare_2020_value_raw", "compare_2020_value_adjusted", "p_change_2020_newest_adjusted", "data_complete")
 
 #data_2019 <- food3 %>%
 #  filter(item == "All Food At Home") %>% 
@@ -473,7 +481,7 @@ food_all <- food3 %>%
 current_year <- as.numeric(format(Sys.Date(), "%Y"))
 
 get_most_recent_year <- function() {
-  for (year in current_year:2015) {
+  for (year in current_year:2016) {
     result <- tryCatch({
       get_acs(
         geography = "us",
@@ -492,7 +500,7 @@ get_most_recent_year <- function() {
 
 most_recent_year <- get_most_recent_year()
 
-years <- c(2015, 2019, most_recent_year)
+years <- c(2016, 2020, most_recent_year)
 
 results <- list()
 
@@ -507,16 +515,18 @@ for (year in years) {
   results[[year]] <- income
 }
 
-income_years <- do.call(rbind, results)
+income_years <- do.call(bind_rows, results)
 
-income_years <- income_years %>% select(-1,-4) %>% rename(region = NAME, median_household_income_raw = B19013_001E)
+
+income_years <- income_years %>% select(-c("GEOID","B19013_001M")) %>% rename(region = NAME, median_household_income_raw = B19013_001E)
 
 income_years$year <- years
 income_years_flipped <- income_years %>% group_by(region, year) %>% summarize(income = sum(median_household_income_raw)) %>% pivot_wider(names_from = year, values_from = income) %>% clean_names()
 
 names(income_years_flipped)[2:4] <- c("median_household_income_raw_2015", "median_household_income_raw_2019", "median_household_income_raw_recent")
 
-#inflation change from 2015 to 2023 is 1.3, inflation change from 2019 to 2023 is 1.19
+#inflation change from 2016 to 2023 is 1.3, inflation change from 2019 to 2023 is 1.19
+# YEARS IN THIS SECTION FOR INCOME ARE INCORRECTLY LABELED UNTIL WE GET UPDATED CODE WITH NEW COLUMNS THAT REFLECT DYNAMIC VALUES. 
 
 income_years_flipped$inflation_adjustment_2015 <- c(1.3)
 income_years_flipped$inflation_adjustment_2019 <- c(1.19)
@@ -527,7 +537,9 @@ income_years_flipped <- income_years_flipped %>% mutate(median_household_income_
   mutate(p_change_2019_recent_income = round(((median_household_income_raw_recent-median_household_income_adj_2019)/median_household_income_adj_2019)*100,1)) %>% 
   rename(location = region)
 
-food_all2 <- left_join(food_all, income_years_flipped, by = c("location")) 
+food_all2 <- left_join(food_all1, income_years_flipped, by = c("location"))
+
+food_all2 <- food_all2 %>% select("location","state_abbreviation", "state_spelled_out", "region", "date", "item", "value", "inflation_adjustment", "value_inflation_adjusted", "date_updated", "max_date", "latest_value_raw", "latest_value_adjusted", "min_date", "oldest_value_raw", "oldest_value_adjusted","p_change_oldest_newest_raw", "p_change_oldest_newest_adjusted", "compare_2020_value_raw", "compare_2020_value_adjusted", "p_change_2020_newest_adjusted", "data_complete")
 
 # write csvs and jsons
 
