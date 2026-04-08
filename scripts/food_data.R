@@ -102,9 +102,9 @@ midwest_food <- midwest_food %>% mutate(region = "Midwest")
 northeast_food <- northeast_food %>% mutate(region = "Northeast")
 
 
-food <- rbind(us_food, west_food, south_food, midwest_food, northeast_food)
+food_base <- rbind(us_food, west_food, south_food, midwest_food, northeast_food)
 
-food <- food %>% mutate(category = case_when(
+food <- food_base %>% mutate(category = case_when(
   grepl("00712311", seriesID) ~ "Tomatoes, field grown, per lb.",
   grepl("00FL2101", seriesID) ~ "Lettuce, romaine, per lb.",
   grepl("00712112", seriesID) ~ "Potatoes, white, per lb.",
