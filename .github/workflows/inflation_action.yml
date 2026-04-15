@@ -10,6 +10,7 @@ name: pull monthly inflation data
 
 env:
   BLS_KEY: ${{ secrets.BLS_KEY }}
+  GITHUB_PAT: ${{ secrets.PAT }}
 
 jobs:
   render:
