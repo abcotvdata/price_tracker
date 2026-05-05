@@ -24,7 +24,7 @@ indices <- 6:ncol(zhvi_metro)
 date_names <- as.Date(colnames(zhvi_metro)[indices], format = "%Y-%m-%d")
 colnames(zhvi_metro)[indices] <- format(date_names, "%b-%d-%Y")
 
-zhvi_metro <- zhvi_metro %>% clean_names() %>% select(-1,-2,-4)
+zhvi_metro1 <- zhvi_metro %>% clean_names() %>% select(-region_id,-size_rank,-region_type)
 
 #import rent data by metro area. ZORI is the Zillow Observed Rent Index.
 
@@ -38,10 +38,13 @@ indices <- 6:ncol(zori_metro)
 date_names <- as.Date(colnames(zori_metro)[indices], format = "%Y-%m-%d")
 colnames(zori_metro)[indices] <- format(date_names, "%b-%d-%Y")
 
-zori_metro <- zori_metro %>% clean_names() %>% select(-1,-2,-4)
+zori_metro1 <- zori_metro %>% clean_names() %>% select(-region_id,-size_rank,-region_type)
 
 #filter zhvi to last 10 years
-zhvi_metro <- zhvi_metro %>% select(1,2,183:ncol(zhvi_metro))
+zhvi_metro2 <- zhvi_metro1 %>% select(region_name,state_name,last_col(offset = 120):last_col())
+
+#filter zori to last 10 years
+zori_metro2 <- zori_metro1 %>% select(region_name,state_name,last_col(offset = 120):last_col())
 
 #import in MSA population file
 
@@ -68,48 +71,48 @@ msa$region_name <- gsub("Louisville/Jefferson County, KY", "Louisville, KY", msa
 
 #combine files
 
-zhvi_msa <- left_join(msa, zhvi_metro, by = "region_name")
+zhvi_msa <- left_join(msa, zhvi_metro2, by = "region_name")
 
-zori_msa <- left_join(msa, zori_metro, by = "region_name")
+zori_msa <- left_join(msa, zori_metro2, by = "region_name")
 
 #make the files long instead of wide
 
-zhvi_long <- zhvi_msa %>% select(1,2,6:ncol(zhvi_msa))
+zhvi_long <- zhvi_msa %>% select(geoid,msa_full_name,6:ncol(zhvi_msa))
 
-zhvi_long <- zhvi_long %>%
+zhvi_long1 <- zhvi_long %>%
   pivot_longer(
     cols = 3:ncol(zhvi_long),
     names_to = "month",
     values_to = "value"
   )
 
-zhvi_long <- zhvi_long %>% mutate(category = "Home Sales")
+zhvi_long2 <- zhvi_long1 %>% mutate(category = "Home Sales")
 
-zori_long <- zori_msa %>% select(1,2,6:ncol(zori_msa))
+zori_long <- zori_msa %>% select(geoid,msa_full_name,6:ncol(zori_msa))
 
-zori_long <- zori_long %>%
+zori_long1 <- zori_long %>%
   pivot_longer(
     cols = 3:ncol(zori_long),
     names_to = "month",
     values_to = "value"
   )
 
-zori_long <- zori_long %>% mutate(category = "Rental Prices")
+zori_long2 <- zori_long1 %>% mutate(category = "Rental Prices")
 
 #combine into one dataset that will become the final
 
 
-data <- rbind(zhvi_long, zori_long)
+data <- rbind(zhvi_long2, zori_long2)
 
 #change names to match other data
 
-data <- data %>% relocate(category, .before = month) %>% rename(date = month, location = msa_full_name)
+data1 <- data %>% relocate(category, .before = month) %>% rename(date = month, location = msa_full_name)
 
-data$date <- as.Date(data$date, format = "%b_%d_%Y")
+data1$date <- as.Date(data1$date, format = "%b_%d_%Y")
 
 #create state columns
 
-data <- data %>% mutate(state_spelled_out = case_when(
+data2 <- data1 %>% mutate(state_spelled_out = case_when(
   grepl(", AL", location) ~ "Alabama",
   grepl(", AK", location) ~ "Alaska",
   grepl(", AZ", location) ~ "Arizona",
@@ -219,7 +222,7 @@ data <- data %>% mutate(state_spelled_out = case_when(
 
 #string split
 
-data <- data %>% 
+data3 <- data2 %>% 
   tidyr::separate(location, into = c("location", "delete"), sep = ", ") %>% 
   select(-delete)
 
@@ -228,25 +231,25 @@ data <- data %>%
 #prices adjusted for April 2025
 inflation_small <- read_csv("https://raw.githubusercontent.com/abcotvdata/price_tracker/refs/heads/main/inflation/inflation_adjustment.csv") %>% rename(month = date)
 
-data$month <- floor_date(data$date, "month")
+data3$month <- floor_date(data3$date, "month")
 
-data <- left_join(data,inflation_small, by = "month")
+data4 <- left_join(data3,inflation_small, by = "month")
 
-data <- data %>% 
+data5 <- data4 %>% 
   mutate(inflation_adjustment = coalesce(inflation_adjustment, 1))
 
-data <- data %>% select(-8) %>% mutate(value_inflation_adjusted = value*inflation_adjustment)
+data6 <- data5 %>% select(-month) %>% mutate(value_inflation_adjusted = value*inflation_adjustment)
 
-data$year <- as.numeric(format(data$date, "%Y"))
-data$month <- as.numeric(format(data$date, "%m"))
+data6$year <- as.numeric(format(data6$date, "%Y"))
+data6$month <- as.numeric(format(data6$date, "%m"))
 
-data <- data %>% mutate(date_updated = case_when(
+data7 <- data6 %>% mutate(date_updated = case_when(
   month <= 11 ~ paste(year,month+1,16,sep="-"),
   month == 12 ~ paste(year+1,01,16,sep="-")
 ))
-data$date_updated <- as.Date(data$date_updated, format = "%Y-%m-%d")
+data7$date_updated <- as.Date(data7$date_updated, format = "%Y-%m-%d")
 
-data <- data %>% select(-10,-11)
+data8 <- data7 %>% select(-year,-month)
 
 east_coast <- c("ME", "VT","NH","MA","CT","RI","NY","PA","NJ","MD","DE","WV","DC","VA","NC","SC","GA","FL")
 west_coast <- c("WA","OR","CA","NV","AZ", "AK","HI")
@@ -254,7 +257,7 @@ rocky_mountain <- c("ID","MT","WY","UT","CO")
 gulf_coast <- c("NM","TX","AR","LA","MS","AL")
 midwest <- c("ND","SD","NE","KS","OK","MN","IA","MO","WI","IL","MI","IN","OH","KY","TN")
 
-data <- data %>% mutate(region = case_when(
+data9 <- data8 %>% mutate(region = case_when(
   state_abbreviation %in% east_coast ~ "East Coast",
   state_abbreviation %in% west_coast ~ "West Coast",
   state_abbreviation %in% rocky_mountain ~ "Rocky Mountain",
@@ -263,18 +266,18 @@ data <- data %>% mutate(region = case_when(
   location == "United States" ~ "United States"
 )) %>% relocate(region, .before = category)
 
-data$value<-as.character(data$value)
+data9$value<-as.character(data9$value)
 
-  data <- data %>% 
+  data10 <- data9 %>% 
   mutate(value = replace_na(value, ""))
   
-  data$value<-as.numeric(data$value)
+  data10$value<-as.numeric(data10$value)
   
-  data$date_updated <- as.Date(data$date_updated, format = "%b_%d_%Y")
+  data10$date_updated <- as.Date(data10$date_updated, format = "%b_%d_%Y")
 
 #dir.create("../my-app/src/lib/data", recursive = TRUE, showWarnings = FALSE)
-write.csv(data, "housing/housing_data.csv", row.names = FALSE)
-write_json(data, "housing/housing_data.json", pretty = TRUE)
+write.csv(data10, "housing/housing_data.csv", row.names = FALSE)
+write_json(data10, "housing/housing_data.json", pretty = TRUE)
 
 # Clean up temp files
 file.remove(c("zhvi_metro.csv", "zori_metro.csv", "census_metros.csv"))
