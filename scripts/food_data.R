@@ -38,20 +38,20 @@ northeast2 <- c("APU0100720311", "APU0100720111","APU0100FF1101","APU0100FN1102"
 
 
 #one time download older files
-us_food1 <- bls_api(us, startyear = 2016, endyear = 2025)
-us_food2 <- bls_api(us2, startyear = 2016, endyear = 2025)
+us_food1 <- bls_api(us, startyear = 2016)
+us_food2 <- bls_api(us2, startyear = 2016)
 
-west_food1 <- bls_api(west, startyear = 2016, endyear = 2025) 
-west_food2 <- bls_api(west2, startyear = 2016, endyear = 2025)
+west_food1 <- bls_api(west, startyear = 2016) 
+west_food2 <- bls_api(west2, startyear = 2016)
 
-south_food1 <- bls_api(south, startyear = 2016, endyear = 2025)
-south_food2 <- bls_api(south2, startyear = 2016, endyear = 2025)
+south_food1 <- bls_api(south, startyear = 2016)
+south_food2 <- bls_api(south2, startyear = 2016)
 
-midwest_food1 <- bls_api(midwest, startyear = 2016, endyear = 2025) 
-midwest_food2 <- bls_api(midwest2, startyear = 2016, endyear = 2025) 
+midwest_food1 <- bls_api(midwest, startyear = 2016) 
+midwest_food2 <- bls_api(midwest2, startyear = 2016) 
 
-northeast_food1 <- bls_api(northeast, startyear = 2016, endyear = 2025)
-northeast_food2 <- bls_api(northeast2, startyear = 2016, endyear = 2025)
+northeast_food1 <- bls_api(northeast, startyear = 2016)
+northeast_food2 <- bls_api(northeast2, startyear = 2016)
 
 # west_food <- west_food %>% select(-7)
 # south_food2 <- south_food2 %>% select(-7)
