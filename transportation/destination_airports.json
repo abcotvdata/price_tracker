@@ -1081,6 +1081,10 @@
       {
         "airport_2": "SEA",
         "destination_airport_name": "Seattle International"
+      },
+      {
+        "airport_2": "BFI",
+        "destination_airport_name": "Boeing Field/King County International"
       }
     ]
   },
