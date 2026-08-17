@@ -1,5 +1,4 @@
 location,state_abbreviation,state_spelled_out,region,category,date,value,inflation_adjustment,value_inflation_adjusted,date_updated
-United States,US,United States,United States,"Regular Gasoline, All Formulations",2016-08-08,2.15,1.38,2.97,2016-08-09
 United States,US,United States,United States,"Regular Gasoline, All Formulations",2016-08-15,2.149,1.38,2.97,2016-08-16
 United States,US,United States,United States,"Regular Gasoline, All Formulations",2016-08-22,2.193,1.38,3.03,2016-08-23
 United States,US,United States,United States,"Regular Gasoline, All Formulations",2016-08-29,2.237,1.38,3.09,2016-08-30
@@ -522,7 +521,6 @@ United States,US,United States,United States,"Regular Gasoline, All Formulations
 United States,US,United States,United States,"Regular Gasoline, All Formulations",2026-07-27,4.096,1,4.1,2026-07-28
 United States,US,United States,United States,"Regular Gasoline, All Formulations",2026-08-03,4.079,1,4.08,2026-08-04
 United States,US,United States,United States,"Regular Gasoline, All Formulations",2026-08-10,4.006,1,4.01,2026-08-11
-New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -1045,7 +1043,6 @@ New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formul
 New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 New York-Newark-Jersey City,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -1568,7 +1565,6 @@ Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All F
 Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Los Angeles-Long Beach-Anaheim,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -2091,7 +2087,6 @@ Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations
 Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Chicago-Naperville-Elgin,IL,Illinois,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -2614,7 +2609,6 @@ Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulati
 Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Dallas-Fort Worth-Arlington,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -3137,7 +3131,6 @@ Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formul
 Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Houston-Pasadena-The Woodlands,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -3660,7 +3653,6 @@ Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoli
 Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Washington-Arlington-Alexandria,DC,"Washington, D.C.",East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -4183,7 +4175,6 @@ Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All
 Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Philadelphia-Camden-Wilmington,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -4706,7 +4697,6 @@ Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formu
 Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Atlanta-Sandy Springs-Roswell,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -5229,7 +5219,6 @@ Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, A
 Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Miami-Fort Lauderdale-West Palm Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -5752,7 +5741,6 @@ Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations"
 Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Phoenix-Mesa-Chandler,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -6275,7 +6263,6 @@ Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formu
 Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Boston-Cambridge-Newton,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -6798,7 +6785,6 @@ San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Fo
 San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 San Francisco-Oakland-Fremont,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -7321,7 +7307,6 @@ Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All
 Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Riverside-San Bernardino-Ontario,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -7844,7 +7829,6 @@ Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations"
 Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Detroit-Warren-Dearborn,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -8367,7 +8351,6 @@ Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulat
 Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Seattle-Tacoma-Bellevue,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -8890,7 +8873,6 @@ Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All For
 Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Minneapolis-St. Paul-Bloomington,MN,Minnesota,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -9413,7 +9395,6 @@ San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All F
 San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 San Diego-Chula Vista-Carlsbad,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -9936,7 +9917,6 @@ Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All For
 Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Tampa-St. Petersburg-Clearwater,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-08,2.226,1.38,3.07,2016-08-09
 Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-15,2.214,1.38,3.06,2016-08-16
 Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-22,2.229,1.38,3.08,2016-08-23
 Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-29,2.263,1.38,3.12,2016-08-30
@@ -10459,7 +10439,6 @@ Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formu
 Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-27,4.083,1,4.08,2026-07-28
 Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-03,4.139,1,4.14,2026-08-04
 Denver-Aurora-Centennial,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-10,4.121,1,4.12,2026-08-11
-Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -10982,7 +10961,6 @@ Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulat
 Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Baltimore-Columbia-Towson,MD,Maryland,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -11505,7 +11483,6 @@ St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.
 St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 St. Louis,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -12028,7 +12005,6 @@ Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulati
 Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Orlando-Kissimmee-Sanford,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -12551,7 +12527,6 @@ Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All F
 Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Charlotte-Concord-Gastonia,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -13074,7 +13049,6 @@ San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulation
 San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 San Antonio-New Braunfels,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -13597,7 +13571,6 @@ Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formula
 Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Portland-Vancouver-Hillsboro,OR,Oregon,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -14120,7 +14093,6 @@ Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-
 Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Pittsburgh,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -14643,7 +14615,6 @@ Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Form
 Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Sacramento-Roseville-Folsom,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -15166,7 +15137,6 @@ Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulat
 Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Austin-Round Rock-San Marcos,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -15689,7 +15659,6 @@ Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All 
 Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Las Vegas-Henderson-North Las Vegas,NV,Nevada,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -16212,7 +16181,6 @@ Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,
 Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Cincinnati,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -16735,7 +16703,6 @@ Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-07-20,
 Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Kansas City,MO,Missouri,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -17258,7 +17225,6 @@ Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,1
 Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Cleveland,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -17781,7 +17747,6 @@ Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,1,
 Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Columbus,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -18304,7 +18269,6 @@ Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulat
 Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Indianapolis-Carmel-Greenwood,IN,Indiana,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -18827,7 +18791,6 @@ Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasolin
 Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Nashville-Davidson--Murfreesboro--Franklin,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -19350,7 +19313,6 @@ San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All F
 San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 San Jose-Sunnyvale-Santa Clara,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -19873,7 +19835,6 @@ Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All 
 Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Virginia Beach-Chesapeake-Norfolk,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -20396,7 +20357,6 @@ Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulation
 Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Providence-Warwick,RI,Rhode Island,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -20919,7 +20879,6 @@ Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-
 Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Jacksonville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -21442,7 +21401,6 @@ Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",202
 Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Milwaukee-Waukesha,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -21965,7 +21923,6 @@ Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2
 Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Raleigh-Cary,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -22488,7 +22445,6 @@ Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-07-2
 Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Oklahoma City,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -23011,7 +22967,6 @@ Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulati
 Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Louisville/Jefferson County,KY,Kentucky,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -23534,7 +23489,6 @@ Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.7
 Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Memphis,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -24057,7 +24011,6 @@ Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2026-07-20,
 Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Richmond,VA,Virginia,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-08,2.226,1.38,3.07,2016-08-09
 Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-15,2.214,1.38,3.06,2016-08-16
 Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-22,2.229,1.38,3.08,2016-08-23
 Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-29,2.263,1.38,3.12,2016-08-30
@@ -24580,7 +24533,6 @@ Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations
 Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-27,4.083,1,4.08,2026-07-28
 Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-03,4.139,1,4.14,2026-08-04
 Salt Lake City-Murray,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-10,4.121,1,4.12,2026-08-11
-Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -25103,7 +25055,6 @@ Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-20
 Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Birmingham,AL,Alabama,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -25626,7 +25577,6 @@ Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-20,
 Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Fresno,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -26149,7 +26099,6 @@ Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",
 Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Buffalo-Cheektowaga,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -26672,7 +26621,6 @@ Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formula
 Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Grand Rapids-Wyoming-Kentwood,MI,Michigan,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -27195,7 +27143,6 @@ Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline
 Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Hartford-West Hartford-East Hartford,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -27718,7 +27665,6 @@ Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-20
 Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Rochester,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -28241,7 +28187,6 @@ Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2026-07-20,4.9
 Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Tucson,AZ,Arizona,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -28764,7 +28709,6 @@ Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,1
 Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Tulsa,OK,Oklahoma,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -29287,7 +29231,6 @@ Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2026-07
 Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Urban Honolulu,HI,Hawaii,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -29810,7 +29753,6 @@ New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations
 New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 New Orleans-Metairie,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -30333,7 +30275,6 @@ Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,1
 Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Omaha,NE,Nebraska,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -30856,7 +30797,6 @@ Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All For
 Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Bridgeport-Stamford-Danbury,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -31379,7 +31319,6 @@ Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Fo
 Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Greenville-Anderson-Greer,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -31902,7 +31841,6 @@ Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3
 Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Knoxville,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -32425,7 +32363,6 @@ Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2026-0
 Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Albuquerque,NM,New Mexico,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -32948,7 +32885,6 @@ Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations"
 Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Bakersfield-Delano,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -33471,7 +33407,6 @@ Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulatio
 Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Albany-Schenectady-Troy,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -33994,7 +33929,6 @@ McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations
 McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 McAllen-Edinburg-Mission,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -34517,7 +34451,6 @@ Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2026-07
 Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Baton Rouge,LA,Louisiana,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -35040,7 +34973,6 @@ El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-20,3.58
 El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 El Paso,TX,Texas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -35563,7 +35495,6 @@ Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All For
 Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Allentown-Bethlehem-Easton,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -36086,7 +36017,6 @@ North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formu
 North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 North Port-Bradenton-Sarasota,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -36609,7 +36539,6 @@ Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2026-
 Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Worcester,MA,Massachusetts,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -37132,7 +37061,6 @@ Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-
 Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Columbia,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -37655,7 +37583,6 @@ Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All For
 Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Oxnard-Thousand Oaks-Ventura,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -38178,7 +38105,6 @@ Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All 
 Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Charleston-North Charleston,SC,South Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -38701,7 +38627,6 @@ Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations
 Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Dayton-Kettering-Beavercreek,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -39224,7 +39149,6 @@ Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations"
 Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Cape Coral-Fort Myers,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-08,2.226,1.38,3.07,2016-08-09
 Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-15,2.214,1.38,3.06,2016-08-16
 Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-22,2.229,1.38,3.08,2016-08-23
 Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-29,2.263,1.38,3.12,2016-08-30
@@ -39747,7 +39671,6 @@ Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-
 Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-27,4.083,1,4.08,2026-07-28
 Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-03,4.139,1,4.14,2026-08-04
 Boise City,ID,Idaho,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-10,4.121,1,4.12,2026-08-11
-Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -40270,7 +40193,6 @@ Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2026
 Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Stockton-Lodi,CA,California,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -40793,7 +40715,6 @@ Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formul
 Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Greensboro-High Point,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -41316,7 +41237,6 @@ Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations"
 Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Lakeland-Winter Haven,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-08,2.226,1.38,3.07,2016-08-09
 Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-15,2.214,1.38,3.06,2016-08-16
 Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-22,2.229,1.38,3.08,2016-08-23
 Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-29,2.263,1.38,3.12,2016-08-30
@@ -41839,7 +41759,6 @@ Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations"
 Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-27,4.083,1,4.08,2026-07-28
 Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-03,4.139,1,4.14,2026-08-04
 Colorado Springs,CO,Colorado,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-10,4.121,1,4.12,2026-08-11
-Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -42362,7 +42281,6 @@ Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, A
 Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Little Rock-North Little Rock-Conway,AR,Arkansas,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -42885,7 +42803,6 @@ Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",
 Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Des Moines-West Des Moines,IA,Iowa,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -43408,7 +43325,6 @@ Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All 
 Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Kiryas Joel-Poughkeepsie-Newburgh,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -43931,7 +43847,6 @@ Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,1,3.7
 Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Akron,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-08,2.226,1.38,3.07,2016-08-09
 Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-15,2.214,1.38,3.06,2016-08-16
 Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-22,2.229,1.38,3.08,2016-08-23
 Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-29,2.263,1.38,3.12,2016-08-30
@@ -44454,7 +44369,6 @@ Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026
 Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-27,4.083,1,4.08,2026-07-28
 Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-03,4.139,1,4.14,2026-08-04
 Provo-Orem-Lehi,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-10,4.121,1,4.12,2026-08-11
-Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -44977,7 +44891,6 @@ Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All 
 Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Deltona-Daytona Beach-Ormond Beach,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -45500,7 +45413,6 @@ Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.7
 Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Madison,WI,Wisconsin,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -46023,7 +45935,6 @@ Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",
 Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Winston-Salem,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -46546,7 +46457,6 @@ Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-20,
 Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Syracuse,NY,New York,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -47069,7 +46979,6 @@ Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,1
 Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Wichita,KS,Kansas,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-08,2.226,1.38,3.07,2016-08-09
 Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-15,2.214,1.38,3.06,2016-08-16
 Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-22,2.229,1.38,3.08,2016-08-23
 Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2016-08-29,2.263,1.38,3.12,2016-08-30
@@ -47592,7 +47501,6 @@ Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-20,3.9
 Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-07-27,4.083,1,4.08,2026-07-28
 Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-03,4.139,1,4.14,2026-08-04
 Ogden,UT,Utah,Rocky Mountain,"Regular Gasoline, All Formulations",2026-08-10,4.121,1,4.12,2026-08-11
-Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -48115,7 +48023,6 @@ Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formu
 Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Palm Bay-Melbourne-Titusville,FL,Florida,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -48638,7 +48545,6 @@ Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulation
 Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Augusta-Richmond County,GA,Georgia,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-08,1.928,1.38,2.66,2016-08-09
 Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-15,1.938,1.38,2.67,2016-08-16
 Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-22,1.964,1.38,2.71,2016-08-23
 Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2016-08-29,2.009,1.38,2.77,2016-08-30
@@ -49161,7 +49067,6 @@ Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-2
 Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2026-07-27,3.69,1,3.69,2026-07-28
 Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-03,3.604,1,3.6,2026-08-04
 Jackson,MS,Mississippi,Gulf Coast,"Regular Gasoline, All Formulations",2026-08-10,3.543,1,3.54,2026-08-11
-Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -49684,7 +49589,6 @@ Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-20,3.78,1,3.
 Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Toledo,OH,Ohio,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -50207,7 +50111,6 @@ Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulatio
 Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Harrisburg-Carlisle,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -50730,7 +50633,6 @@ Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulati
 Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Durham-Chapel Hill,NC,North Carolina,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-08,2.573,1.38,3.55,2016-08-09
 Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-15,2.534,1.38,3.5,2016-08-16
 Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-22,2.573,1.38,3.55,2016-08-23
 Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2016-08-29,2.592,1.38,3.58,2016-08-30
@@ -51253,7 +51155,6 @@ Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulati
 Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2026-07-27,5.117,1,5.12,2026-07-28
 Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2026-08-03,5.13,1,5.13,2026-08-04
 Spokane-Spokane Valley,WA,Washington,West Coast,"Regular Gasoline, All Formulations",2026-08-10,5.075,1,5.08,2026-08-11
-Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-08,2.115,1.38,2.92,2016-08-09
 Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-15,2.121,1.38,2.93,2016-08-16
 Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-22,2.171,1.38,3,2016-08-23
 Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2016-08-29,2.227,1.38,3.07,2016-08-30
@@ -51776,7 +51677,6 @@ Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-07-20
 Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-07-27,3.882,1,3.88,2026-07-28
 Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-03,3.929,1,3.93,2026-08-04
 Chattanooga,TN,Tennessee,Midwest,"Regular Gasoline, All Formulations",2026-08-10,3.816,1,3.82,2026-08-11
-Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
@@ -52299,7 +52199,6 @@ Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formula
 Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-07-27,3.997,1,4,2026-07-28
 Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-03,3.944,1,3.94,2026-08-04
 Scranton--Wilkes-Barre,PA,Pennsylvania,East Coast,"Regular Gasoline, All Formulations",2026-08-10,3.884,1,3.88,2026-08-11
-New Haven,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-08,2.066,1.38,2.85,2016-08-09
 New Haven,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-15,2.075,1.38,2.86,2016-08-16
 New Haven,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-22,2.126,1.38,2.93,2016-08-23
 New Haven,CT,Connecticut,East Coast,"Regular Gasoline, All Formulations",2016-08-29,2.172,1.38,3,2016-08-30
