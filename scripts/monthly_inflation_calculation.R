@@ -25,7 +25,7 @@ start_10yr_back <- year(current_date %m-% months(138))  # 11 years and six month
 start_5yr_back <- current_year - 5    # 5 years ago
 
 # Calculate specific date thresholds (full date 10 years back from the current_date variable (sys.date(), etc)
-date_10yr_back <- current_date %m-% years(10) %m-% months(3)   # Exact date 10 years and 3 months ago
+date_10yr_back <- current_date %m-% years(11) %m-% months(6)   # Exact date 11 years and 6 months ago
 date_5yr_back <- current_date %m-% years(5)     # Exact date 5 years ago
 lubridate::day(date_5yr_back) <- 1 #change 5 years ago day to match the other columns so that comparisons later match
 
