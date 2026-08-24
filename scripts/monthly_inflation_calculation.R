@@ -21,7 +21,7 @@ current_year <- year(current_date)
 current_month <- month(current_date)
 
 # Calculate dynamic date ranges, (this returns the year only)
-start_10yr_back <- year(current_date %m-% months(123))  # 10 years and three months ago
+start_10yr_back <- year(current_date %m-% months(138))  # 11 years and six months ago (for airfare delay)
 start_5yr_back <- current_year - 5    # 5 years ago
 
 # Calculate specific date thresholds (full date 10 years back from the current_date variable (sys.date(), etc)
