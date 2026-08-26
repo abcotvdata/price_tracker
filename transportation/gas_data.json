@@ -6264,6 +6264,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "United States",
+    "state_abbreviation": "US",
+    "state_spelled_out": "United States",
+    "region": "United States",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 4.085,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 4.08,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "New York-Newark-Jersey City",
     "state_abbreviation": "NY",
     "state_spelled_out": "New York",
@@ -12526,6 +12538,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "New York-Newark-Jersey City",
+    "state_abbreviation": "NY",
+    "state_spelled_out": "New York",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Los Angeles-Long Beach-Anaheim",
@@ -18792,6 +18816,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Los Angeles-Long Beach-Anaheim",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Chicago-Naperville-Elgin",
     "state_abbreviation": "IL",
     "state_spelled_out": "Illinois",
@@ -25054,6 +25090,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.94,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Chicago-Naperville-Elgin",
+    "state_abbreviation": "IL",
+    "state_spelled_out": "Illinois",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Dallas-Fort Worth-Arlington",
@@ -31320,6 +31368,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Dallas-Fort Worth-Arlington",
+    "state_abbreviation": "TX",
+    "state_spelled_out": "Texas",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Houston-Pasadena-The Woodlands",
     "state_abbreviation": "TX",
     "state_spelled_out": "Texas",
@@ -37584,6 +37644,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Houston-Pasadena-The Woodlands",
+    "state_abbreviation": "TX",
+    "state_spelled_out": "Texas",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Washington-Arlington-Alexandria",
     "state_abbreviation": "DC",
     "state_spelled_out": "Washington, D.C.",
@@ -43848,6 +43920,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Washington-Arlington-Alexandria",
+    "state_abbreviation": "DC",
+    "state_spelled_out": "Washington, D.C.",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Philadelphia-Camden-Wilmington",
     "state_abbreviation": "PA",
     "state_spelled_out": "Pennsylvania",
@@ -50112,6 +50196,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Philadelphia-Camden-Wilmington",
+    "state_abbreviation": "PA",
+    "state_spelled_out": "Pennsylvania",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Atlanta-Sandy Springs-Roswell",
     "state_abbreviation": "GA",
     "state_spelled_out": "Georgia",
@@ -56376,6 +56472,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Atlanta-Sandy Springs-Roswell",
+    "state_abbreviation": "GA",
+    "state_spelled_out": "Georgia",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Miami-Fort Lauderdale-West Palm Beach",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -62638,6 +62746,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Miami-Fort Lauderdale-West Palm Beach",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Phoenix-Mesa-Chandler",
@@ -68904,6 +69024,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Phoenix-Mesa-Chandler",
+    "state_abbreviation": "AZ",
+    "state_spelled_out": "Arizona",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Boston-Cambridge-Newton",
     "state_abbreviation": "MA",
     "state_spelled_out": "Massachusetts",
@@ -75168,6 +75300,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Boston-Cambridge-Newton",
+    "state_abbreviation": "MA",
+    "state_spelled_out": "Massachusetts",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "San Francisco-Oakland-Fremont",
     "state_abbreviation": "CA",
     "state_spelled_out": "California",
@@ -81432,6 +81576,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "San Francisco-Oakland-Fremont",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Riverside-San Bernardino-Ontario",
     "state_abbreviation": "CA",
     "state_spelled_out": "California",
@@ -87694,6 +87850,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 5.09,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Riverside-San Bernardino-Ontario",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Detroit-Warren-Dearborn",
@@ -93960,6 +94128,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Detroit-Warren-Dearborn",
+    "state_abbreviation": "MI",
+    "state_spelled_out": "Michigan",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Seattle-Tacoma-Bellevue",
     "state_abbreviation": "WA",
     "state_spelled_out": "Washington",
@@ -100222,6 +100402,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 5.09,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Seattle-Tacoma-Bellevue",
+    "state_abbreviation": "WA",
+    "state_spelled_out": "Washington",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Minneapolis-St. Paul-Bloomington",
@@ -106488,6 +106680,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Minneapolis-St. Paul-Bloomington",
+    "state_abbreviation": "MN",
+    "state_spelled_out": "Minnesota",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "San Diego-Chula Vista-Carlsbad",
     "state_abbreviation": "CA",
     "state_spelled_out": "California",
@@ -112752,6 +112956,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "San Diego-Chula Vista-Carlsbad",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Tampa-St. Petersburg-Clearwater",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -119014,6 +119230,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Tampa-St. Petersburg-Clearwater",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Denver-Aurora-Centennial",
@@ -125280,6 +125508,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Denver-Aurora-Centennial",
+    "state_abbreviation": "CO",
+    "state_spelled_out": "Colorado",
+    "region": "Rocky Mountain",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 4.359,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 4.36,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Baltimore-Columbia-Towson",
     "state_abbreviation": "MD",
     "state_spelled_out": "Maryland",
@@ -131542,6 +131782,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Baltimore-Columbia-Towson",
+    "state_abbreviation": "MD",
+    "state_spelled_out": "Maryland",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "St. Louis",
@@ -137808,6 +138060,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "St. Louis",
+    "state_abbreviation": "MO",
+    "state_spelled_out": "Missouri",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Orlando-Kissimmee-Sanford",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -144072,6 +144336,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Orlando-Kissimmee-Sanford",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Charlotte-Concord-Gastonia",
     "state_abbreviation": "NC",
     "state_spelled_out": "North Carolina",
@@ -150334,6 +150610,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Charlotte-Concord-Gastonia",
+    "state_abbreviation": "NC",
+    "state_spelled_out": "North Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "San Antonio-New Braunfels",
@@ -156600,6 +156888,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "San Antonio-New Braunfels",
+    "state_abbreviation": "TX",
+    "state_spelled_out": "Texas",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Portland-Vancouver-Hillsboro",
     "state_abbreviation": "OR",
     "state_spelled_out": "Oregon",
@@ -162862,6 +163162,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 5.09,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Portland-Vancouver-Hillsboro",
+    "state_abbreviation": "OR",
+    "state_spelled_out": "Oregon",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Pittsburgh",
@@ -169128,6 +169440,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Pittsburgh",
+    "state_abbreviation": "PA",
+    "state_spelled_out": "Pennsylvania",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Sacramento-Roseville-Folsom",
     "state_abbreviation": "CA",
     "state_spelled_out": "California",
@@ -175390,6 +175714,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 5.09,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Sacramento-Roseville-Folsom",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Austin-Round Rock-San Marcos",
@@ -181656,6 +181992,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Austin-Round Rock-San Marcos",
+    "state_abbreviation": "TX",
+    "state_spelled_out": "Texas",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Las Vegas-Henderson-North Las Vegas",
     "state_abbreviation": "NV",
     "state_spelled_out": "Nevada",
@@ -187920,6 +188268,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Las Vegas-Henderson-North Las Vegas",
+    "state_abbreviation": "NV",
+    "state_spelled_out": "Nevada",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Cincinnati",
     "state_abbreviation": "OH",
     "state_spelled_out": "Ohio",
@@ -194184,6 +194544,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Cincinnati",
+    "state_abbreviation": "OH",
+    "state_spelled_out": "Ohio",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Kansas City",
     "state_abbreviation": "MO",
     "state_spelled_out": "Missouri",
@@ -200448,6 +200820,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Kansas City",
+    "state_abbreviation": "MO",
+    "state_spelled_out": "Missouri",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Cleveland",
     "state_abbreviation": "OH",
     "state_spelled_out": "Ohio",
@@ -206712,6 +207096,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Cleveland",
+    "state_abbreviation": "OH",
+    "state_spelled_out": "Ohio",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Columbus",
     "state_abbreviation": "OH",
     "state_spelled_out": "Ohio",
@@ -212976,6 +213372,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Columbus",
+    "state_abbreviation": "OH",
+    "state_spelled_out": "Ohio",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Indianapolis-Carmel-Greenwood",
     "state_abbreviation": "IN",
     "state_spelled_out": "Indiana",
@@ -219240,6 +219648,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Indianapolis-Carmel-Greenwood",
+    "state_abbreviation": "IN",
+    "state_spelled_out": "Indiana",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Nashville-Davidson--Murfreesboro--Franklin",
     "state_abbreviation": "TN",
     "state_spelled_out": "Tennessee",
@@ -225502,6 +225922,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.94,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Nashville-Davidson--Murfreesboro--Franklin",
+    "state_abbreviation": "TN",
+    "state_spelled_out": "Tennessee",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "San Jose-Sunnyvale-Santa Clara",
@@ -231768,6 +232200,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "San Jose-Sunnyvale-Santa Clara",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Virginia Beach-Chesapeake-Norfolk",
     "state_abbreviation": "VA",
     "state_spelled_out": "Virginia",
@@ -238032,6 +238476,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Virginia Beach-Chesapeake-Norfolk",
+    "state_abbreviation": "VA",
+    "state_spelled_out": "Virginia",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Providence-Warwick",
     "state_abbreviation": "RI",
     "state_spelled_out": "Rhode Island",
@@ -244296,6 +244752,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Providence-Warwick",
+    "state_abbreviation": "RI",
+    "state_spelled_out": "Rhode Island",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Jacksonville",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -250558,6 +251026,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Jacksonville",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Milwaukee-Waukesha",
@@ -256824,6 +257304,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Milwaukee-Waukesha",
+    "state_abbreviation": "WI",
+    "state_spelled_out": "Wisconsin",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Raleigh-Cary",
     "state_abbreviation": "NC",
     "state_spelled_out": "North Carolina",
@@ -263088,6 +263580,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Raleigh-Cary",
+    "state_abbreviation": "NC",
+    "state_spelled_out": "North Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Oklahoma City",
     "state_abbreviation": "OK",
     "state_spelled_out": "Oklahoma",
@@ -269352,6 +269856,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Oklahoma City",
+    "state_abbreviation": "OK",
+    "state_spelled_out": "Oklahoma",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Louisville/Jefferson County",
     "state_abbreviation": "KY",
     "state_spelled_out": "Kentucky",
@@ -275616,6 +276132,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Louisville/Jefferson County",
+    "state_abbreviation": "KY",
+    "state_spelled_out": "Kentucky",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Memphis",
     "state_abbreviation": "TN",
     "state_spelled_out": "Tennessee",
@@ -281878,6 +282406,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.94,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Memphis",
+    "state_abbreviation": "TN",
+    "state_spelled_out": "Tennessee",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Richmond",
@@ -288142,6 +288682,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Richmond",
+    "state_abbreviation": "VA",
+    "state_spelled_out": "Virginia",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Salt Lake City-Murray",
@@ -294408,6 +294960,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Salt Lake City-Murray",
+    "state_abbreviation": "UT",
+    "state_spelled_out": "Utah",
+    "region": "Rocky Mountain",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 4.359,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 4.36,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Birmingham",
     "state_abbreviation": "AL",
     "state_spelled_out": "Alabama",
@@ -300670,6 +301234,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.62,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Birmingham",
+    "state_abbreviation": "AL",
+    "state_spelled_out": "Alabama",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Fresno",
@@ -306936,6 +307512,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Fresno",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Buffalo-Cheektowaga",
     "state_abbreviation": "NY",
     "state_spelled_out": "New York",
@@ -313198,6 +313786,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Buffalo-Cheektowaga",
+    "state_abbreviation": "NY",
+    "state_spelled_out": "New York",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Grand Rapids-Wyoming-Kentwood",
@@ -319464,6 +320064,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Grand Rapids-Wyoming-Kentwood",
+    "state_abbreviation": "MI",
+    "state_spelled_out": "Michigan",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Hartford-West Hartford-East Hartford",
     "state_abbreviation": "CT",
     "state_spelled_out": "Connecticut",
@@ -325728,6 +326340,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Hartford-West Hartford-East Hartford",
+    "state_abbreviation": "CT",
+    "state_spelled_out": "Connecticut",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Rochester",
     "state_abbreviation": "NY",
     "state_spelled_out": "New York",
@@ -331990,6 +332614,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Rochester",
+    "state_abbreviation": "NY",
+    "state_spelled_out": "New York",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Tucson",
@@ -338256,6 +338892,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Tucson",
+    "state_abbreviation": "AZ",
+    "state_spelled_out": "Arizona",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Tulsa",
     "state_abbreviation": "OK",
     "state_spelled_out": "Oklahoma",
@@ -344518,6 +345166,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.94,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Tulsa",
+    "state_abbreviation": "OK",
+    "state_spelled_out": "Oklahoma",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Urban Honolulu",
@@ -350784,6 +351444,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Urban Honolulu",
+    "state_abbreviation": "HI",
+    "state_spelled_out": "Hawaii",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "New Orleans-Metairie",
     "state_abbreviation": "LA",
     "state_spelled_out": "Louisiana",
@@ -357046,6 +357718,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.62,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "New Orleans-Metairie",
+    "state_abbreviation": "LA",
+    "state_spelled_out": "Louisiana",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Omaha",
@@ -363312,6 +363996,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Omaha",
+    "state_abbreviation": "NE",
+    "state_spelled_out": "Nebraska",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Bridgeport-Stamford-Danbury",
     "state_abbreviation": "CT",
     "state_spelled_out": "Connecticut",
@@ -369576,6 +370272,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Bridgeport-Stamford-Danbury",
+    "state_abbreviation": "CT",
+    "state_spelled_out": "Connecticut",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Greenville-Anderson-Greer",
     "state_abbreviation": "SC",
     "state_spelled_out": "South Carolina",
@@ -375838,6 +376546,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Greenville-Anderson-Greer",
+    "state_abbreviation": "SC",
+    "state_spelled_out": "South Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Knoxville",
@@ -382104,6 +382824,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Knoxville",
+    "state_abbreviation": "TN",
+    "state_spelled_out": "Tennessee",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Albuquerque",
     "state_abbreviation": "NM",
     "state_spelled_out": "New Mexico",
@@ -388366,6 +389098,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.62,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Albuquerque",
+    "state_abbreviation": "NM",
+    "state_spelled_out": "New Mexico",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Bakersfield-Delano",
@@ -394632,6 +395376,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Bakersfield-Delano",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Albany-Schenectady-Troy",
     "state_abbreviation": "NY",
     "state_spelled_out": "New York",
@@ -400894,6 +401650,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Albany-Schenectady-Troy",
+    "state_abbreviation": "NY",
+    "state_spelled_out": "New York",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "McAllen-Edinburg-Mission",
@@ -407160,6 +407928,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "McAllen-Edinburg-Mission",
+    "state_abbreviation": "TX",
+    "state_spelled_out": "Texas",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Baton Rouge",
     "state_abbreviation": "LA",
     "state_spelled_out": "Louisiana",
@@ -413424,6 +414204,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Baton Rouge",
+    "state_abbreviation": "LA",
+    "state_spelled_out": "Louisiana",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "El Paso",
     "state_abbreviation": "TX",
     "state_spelled_out": "Texas",
@@ -419688,6 +420480,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "El Paso",
+    "state_abbreviation": "TX",
+    "state_spelled_out": "Texas",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Allentown-Bethlehem-Easton",
     "state_abbreviation": "PA",
     "state_spelled_out": "Pennsylvania",
@@ -425952,6 +426756,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Allentown-Bethlehem-Easton",
+    "state_abbreviation": "PA",
+    "state_spelled_out": "Pennsylvania",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "North Port-Bradenton-Sarasota",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -432216,6 +433032,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "North Port-Bradenton-Sarasota",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Worcester",
     "state_abbreviation": "MA",
     "state_spelled_out": "Massachusetts",
@@ -438480,6 +439308,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Worcester",
+    "state_abbreviation": "MA",
+    "state_spelled_out": "Massachusetts",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Columbia",
     "state_abbreviation": "SC",
     "state_spelled_out": "South Carolina",
@@ -444742,6 +445582,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Columbia",
+    "state_abbreviation": "SC",
+    "state_spelled_out": "South Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Oxnard-Thousand Oaks-Ventura",
@@ -451008,6 +451860,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Oxnard-Thousand Oaks-Ventura",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Charleston-North Charleston",
     "state_abbreviation": "SC",
     "state_spelled_out": "South Carolina",
@@ -457270,6 +458134,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Charleston-North Charleston",
+    "state_abbreviation": "SC",
+    "state_spelled_out": "South Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Dayton-Kettering-Beavercreek",
@@ -463536,6 +464412,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Dayton-Kettering-Beavercreek",
+    "state_abbreviation": "OH",
+    "state_spelled_out": "Ohio",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Cape Coral-Fort Myers",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -469798,6 +470686,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Cape Coral-Fort Myers",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Boise City",
@@ -476064,6 +476964,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Boise City",
+    "state_abbreviation": "ID",
+    "state_spelled_out": "Idaho",
+    "region": "Rocky Mountain",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 4.359,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 4.36,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Stockton-Lodi",
     "state_abbreviation": "CA",
     "state_spelled_out": "California",
@@ -482328,6 +483240,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Stockton-Lodi",
+    "state_abbreviation": "CA",
+    "state_spelled_out": "California",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Greensboro-High Point",
     "state_abbreviation": "NC",
     "state_spelled_out": "North Carolina",
@@ -488592,6 +489516,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Greensboro-High Point",
+    "state_abbreviation": "NC",
+    "state_spelled_out": "North Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Lakeland-Winter Haven",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -494854,6 +495790,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Lakeland-Winter Haven",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Colorado Springs",
@@ -501118,6 +502066,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 4.28,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Colorado Springs",
+    "state_abbreviation": "CO",
+    "state_spelled_out": "Colorado",
+    "region": "Rocky Mountain",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 4.359,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 4.36,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Little Rock-North Little Rock-Conway",
@@ -507384,6 +508344,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Little Rock-North Little Rock-Conway",
+    "state_abbreviation": "AR",
+    "state_spelled_out": "Arkansas",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Des Moines-West Des Moines",
     "state_abbreviation": "IA",
     "state_spelled_out": "Iowa",
@@ -513646,6 +514618,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.94,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Des Moines-West Des Moines",
+    "state_abbreviation": "IA",
+    "state_spelled_out": "Iowa",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Kiryas Joel-Poughkeepsie-Newburgh",
@@ -519912,6 +520896,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Kiryas Joel-Poughkeepsie-Newburgh",
+    "state_abbreviation": "NY",
+    "state_spelled_out": "New York",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Akron",
     "state_abbreviation": "OH",
     "state_spelled_out": "Ohio",
@@ -526174,6 +527170,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.94,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Akron",
+    "state_abbreviation": "OH",
+    "state_spelled_out": "Ohio",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Provo-Orem-Lehi",
@@ -532440,6 +533448,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Provo-Orem-Lehi",
+    "state_abbreviation": "UT",
+    "state_spelled_out": "Utah",
+    "region": "Rocky Mountain",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 4.359,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 4.36,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Deltona-Daytona Beach-Ormond Beach",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -538702,6 +539722,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Deltona-Daytona Beach-Ormond Beach",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Madison",
@@ -544968,6 +546000,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Madison",
+    "state_abbreviation": "WI",
+    "state_spelled_out": "Wisconsin",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Winston-Salem",
     "state_abbreviation": "NC",
     "state_spelled_out": "North Carolina",
@@ -551232,6 +552276,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Winston-Salem",
+    "state_abbreviation": "NC",
+    "state_spelled_out": "North Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Syracuse",
     "state_abbreviation": "NY",
     "state_spelled_out": "New York",
@@ -557494,6 +558550,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Syracuse",
+    "state_abbreviation": "NY",
+    "state_spelled_out": "New York",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Wichita",
@@ -563758,6 +564826,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.94,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Wichita",
+    "state_abbreviation": "KS",
+    "state_spelled_out": "Kansas",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Ogden",
@@ -570024,6 +571104,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Ogden",
+    "state_abbreviation": "UT",
+    "state_spelled_out": "Utah",
+    "region": "Rocky Mountain",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 4.359,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 4.36,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Palm Bay-Melbourne-Titusville",
     "state_abbreviation": "FL",
     "state_spelled_out": "Florida",
@@ -576288,6 +577380,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Palm Bay-Melbourne-Titusville",
+    "state_abbreviation": "FL",
+    "state_spelled_out": "Florida",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Augusta-Richmond County",
     "state_abbreviation": "GA",
     "state_spelled_out": "Georgia",
@@ -582550,6 +583654,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Augusta-Richmond County",
+    "state_abbreviation": "GA",
+    "state_spelled_out": "Georgia",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Jackson",
@@ -588816,6 +589932,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Jackson",
+    "state_abbreviation": "MS",
+    "state_spelled_out": "Mississippi",
+    "region": "Gulf Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.638,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.64,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Toledo",
     "state_abbreviation": "OH",
     "state_spelled_out": "Ohio",
@@ -595080,6 +596208,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Toledo",
+    "state_abbreviation": "OH",
+    "state_spelled_out": "Ohio",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Harrisburg-Carlisle",
     "state_abbreviation": "PA",
     "state_spelled_out": "Pennsylvania",
@@ -601344,6 +602484,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Harrisburg-Carlisle",
+    "state_abbreviation": "PA",
+    "state_spelled_out": "Pennsylvania",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Durham-Chapel Hill",
     "state_abbreviation": "NC",
     "state_spelled_out": "North Carolina",
@@ -607606,6 +608758,18 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "Durham-Chapel Hill",
+    "state_abbreviation": "NC",
+    "state_spelled_out": "North Carolina",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   },
   {
     "location": "Spokane-Spokane Valley",
@@ -613872,6 +615036,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Spokane-Spokane Valley",
+    "state_abbreviation": "WA",
+    "state_spelled_out": "Washington",
+    "region": "West Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 5.147,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 5.15,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Chattanooga",
     "state_abbreviation": "TN",
     "state_spelled_out": "Tennessee",
@@ -620136,6 +621312,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Chattanooga",
+    "state_abbreviation": "TN",
+    "state_spelled_out": "Tennessee",
+    "region": "Midwest",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.934,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.93,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "Scranton--Wilkes-Barre",
     "state_abbreviation": "PA",
     "state_spelled_out": "Pennsylvania",
@@ -626400,6 +627588,18 @@
     "date_updated": "2026-08-18"
   },
   {
+    "location": "Scranton--Wilkes-Barre",
+    "state_abbreviation": "PA",
+    "state_spelled_out": "Pennsylvania",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
+  },
+  {
     "location": "New Haven",
     "state_abbreviation": "CT",
     "state_spelled_out": "Connecticut",
@@ -632662,5 +633862,17 @@
     "inflation_adjustment": 1,
     "value_inflation_adjusted": 3.86,
     "date_updated": "2026-08-18"
+  },
+  {
+    "location": "New Haven",
+    "state_abbreviation": "CT",
+    "state_spelled_out": "Connecticut",
+    "region": "East Coast",
+    "category": "Regular Gasoline, All Formulations",
+    "date": "2026-08-24",
+    "value": 3.921,
+    "inflation_adjustment": 1,
+    "value_inflation_adjusted": 3.92,
+    "date_updated": "2026-08-25"
   }
 ]
