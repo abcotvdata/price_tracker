@@ -156,6 +156,17 @@
     ]
   },
   {
+    "city2": "Daytona Beach, FL",
+    "state_abbr": "FL",
+    "state_full": "Florida",
+    "airports": [
+      {
+        "airport_2": "DAB",
+        "destination_airport_name": "Daytona Beach International"
+      }
+    ]
+  },
+  {
     "city2": "Denver, CO",
     "state_abbr": "CO",
     "state_full": "Colorado",
